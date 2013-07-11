@@ -47,10 +47,10 @@
     </div>
     <hr>
     <div class="post-sharing">
-     <!-- {% include JB/sharing %} -->
      <div style="display: inline; width: 3px;" class="g-plusone"></div>
      <a href="http://news.ycombinator.com/submit" class="hn-share-button">Vote on HN</a>
-     <div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-send="true" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div>
+     {% include JB/sharing %}
+     <!-- <div class="fb-like" data-href="http://developers.facebook.com/docs/reference/plugins/like" data-send="true" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div> -->
     </div>
     <hr>
     {% include JB/comments %}
