@@ -1,3 +1,6 @@
+<div style="display: inline; width: 3px;" class="g-plusone"></div>
+<a href="http://news.ycombinator.com/submit" class="hn-share-button">Vote on HN</a>
+
 {% if site.JB.sharing.provider and page.sharing != false %}
 
   {% case site.JB.sharing.provider %}
