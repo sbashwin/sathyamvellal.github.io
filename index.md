@@ -5,6 +5,9 @@ tagline: Music, Food and Code - The three dimensions to my world.
 ---
 {% include JB/setup %}
 
+Welcome to my personal website! The website is still incomplete but the blog is ready!  
+Checkout the posts below.
+
 ### Blog Posts
 <ul class="posts">
   {% for post in site.posts %}

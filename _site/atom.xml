@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Home</title>
+ <title>A Wandering</title>
  <link href="http://sathyamvellal.in/" rel="self"/>
  <link href="http://sathyamvellal.in"/>
- <updated>2013-07-11T16:29:33+05:30</updated>
+ <updated>2013-07-11T18:38:57+05:30</updated>
  <id>http://sathyamvellal.in</id>
  <author>
    <name>Sathyam M Vellal</name>
    <email>me@sathyamvellal.in</email>
  </author>
 
+ 
+ <entry>
+   <title>0 A.D. Game</title>
+   <link href="http://sathyamvellal.in/games/0-ad-game"/>
+   <updated>2013-07-11T00:00:00+05:30</updated>
+   <id>http://sathyamvellal.in/games/0-ad-game</id>
+   <content type="html">&lt;p&gt;I grew up in a time where Age of Empires was everything! You can’t find many people who haven’t played it. Many others followed suit; Empire Earth for example. But they were not like Age of Empires. Ensemble Studios (now Microsoft Studios) did revolutionize the real-time strategy genre of computer games.&lt;br /&gt;The question is, how many who played have actually bought it?&lt;/p&gt;
+
+&lt;p&gt;In this era where we look for free (as in cost) software/games, open source software/games really are a good replacement.&lt;/p&gt;
+
+&lt;p&gt;And here’s one for Age of Empires : &lt;strong&gt;0 A.D.&lt;/strong&gt;&lt;br /&gt;This game has a very interesting story behind its development. It started as a development of a modpack for Age of Empires II – The Age of Kings. But halfway through, the developers saw that they couldn’t change much of the game’s functionality as the game engine was closed. And thus started the journey of developing a new game engine itself – &lt;strong&gt;Pyrogenesis&lt;/strong&gt;. This was taken further into developing a new game itself. The development was initiated with the team who started with 0ad (Wildfire Games) under a closed environment and went open source on July 10 2009. It has then slowly attracted a community of developers and has evolved to a very promising Historic-Real-Time-Strategy game. Though it has lots of bugs and features missing, its already playable and enjoyable. The game also concentrates on the correctness of the historic details that they want to convey from the game. Powered by OpenGL, it hosts amazing graphics with a completely 3D Graphical Engine. Below is a screenshot of some Mauryan Structures that are currently in use. (The following image is from Aplha XIII : Magadha). You can checkout more screenshots &lt;a href=&#39;http://play0ad.com/screenshots&#39;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Mauryan Structures&#39; src=&#39;http://play0ad.com/wp-content/gallery/screenshots/mauryan-structures.jpg&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Do contribute to this game! Visit the &lt;a href=&#39;http://play0ad.com&#39;&gt;website&lt;/a&gt;, IRC – &lt;code&gt;#0ad&lt;/code&gt; and &lt;code&gt;#0ad-dev&lt;/code&gt; and the &lt;a href=&#39;http://trac.wildfiregames.com/wiki&#39;&gt;wiki&lt;/a&gt;. The source is maintained with svn &lt;a href=&#39;http://svn.wildfiregames.com/public/ps/trunk/&#39;&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://sathyamvellal.in/general/hello-world"/>
+   <updated>2013-07-04T00:00:00+05:30</updated>
+   <id>http://sathyamvellal.in/general/hello-world</id>
+   <content type="html">&lt;p&gt;In the Hindu pantheon, &lt;strong&gt;Lord Vinayaka&lt;/strong&gt; is worshipped first; believed to be the remover of obstacles. For a programmer, &amp;#8220;Hello World&amp;#8221; serves this purpose! Through this blog you&amp;#8217;ll experience the world I live in. As the tagline (in the home page) reads -&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Music, Food and Code -&lt;br /&gt;The three dimensions to my world.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, lets get started!&lt;/p&gt;</content>
+ </entry>
  
  
 </feed>

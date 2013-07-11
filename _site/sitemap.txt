@@ -8,3 +8,6 @@ http://sathyamvellal.in/categories.html
 http://sathyamvellal.in/sitemap.txt
 http://sathyamvellal.in/about.html
 http://sathyamvellal.in/archive.html
+
+http://sathyamvellal.in/games/0-ad-game
+http://sathyamvellal.in/general/hello-world
