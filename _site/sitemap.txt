@@ -2,7 +2,6 @@
 http://sathyamvellal.in/index.html
 http://sathyamvellal.in/tags.html
 http://sathyamvellal.in/rss.xml
-http://sathyamvellal.in/pages/test-page.html
 http://sathyamvellal.in/pages.html
 http://sathyamvellal.in/atom.xml
 http://sathyamvellal.in/categories.html

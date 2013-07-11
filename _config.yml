@@ -10,7 +10,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Home
+title : A Wandering
 tagline: Music, Food and Code - The three dimensions to my world.
 author :
   name : Sathyam M Vellal
