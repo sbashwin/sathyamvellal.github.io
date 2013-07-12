@@ -1,0 +1,14 @@
+{% assign pages_list = ["about.html", "archives.html", "categories.html"]
+
+{% for node in pages_list %}
+  {% if node.title != null %}
+    {% if group == null or group == node.group %}
+      {% if page.url == node.url %}
+      	<li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.name}}</a></li>
+      {% else %}
+      	<li><a href="{{ BASE_PATH }}{{node.url}}">{{node.name}}</a></li>
+      {% endif %}
+     {% endif %}
+   {% endif %}
+  {% endfor %}
+{% endif %}
