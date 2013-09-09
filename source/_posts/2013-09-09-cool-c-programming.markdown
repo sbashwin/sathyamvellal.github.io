@@ -174,7 +174,7 @@ The following program demonstrates three features widely used in C Programs. We'
 #include <stdio.h>
 #include <assert.h>
 
-.#ifdef CHECK_ENABLED
+#ifdef CHECK_ENABLED
 #define CHECK(X, Y) \
 do { printf("Performing Assertion\n"); assert((X - Y) != 0); printf("Assertion passed\n"); } while (0)
 #else
