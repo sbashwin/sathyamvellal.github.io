@@ -1,8 +1,10 @@
 ---
-layout: page
-title: "github"
-date: 2013-09-09 20:14
-comments: true
-sharing: true
-footer: true
 ---
+<html>
+<head>
+<script type="text/javascript">
+window.location.href="http://github.com/sathyamvellal";
+</script>
+<link rel="canonical" href="http://github.com/sathyamvellal" />
+</head>
+</html>

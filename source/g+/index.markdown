@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "g+"
-date: 2013-09-09 20:14
-comments: true
-sharing: true
-footer: true
 ---
-
-Google+
+<html>
+<head>
+<script type="text/javascript">
+window.location.href="http://plus.google.com/u/0/101059149210848086626";
+</script>
+<link rel="canonical" href="http://plus.google.com/u/0/101059149210848086626" />
+</head>
+</html>

@@ -1,8 +1,10 @@
 ---
-layout: page
-title: "fb"
-date: 2013-09-09 20:14
-comments: true
-sharing: true
-footer: true
 ---
+<html>
+<head>
+<script type="text/javascript">
+window.location.href="http://facebook.com/sathyam.vellal";
+</script>
+<link rel="canonical" href="http://facebook.com/sathyam.vellal" />
+</head>
+</html>
