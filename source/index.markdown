@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sathyam M Vellal"
+title: "Home"
 comments: false
 sharing: false
 footer: false
