@@ -12,4 +12,12 @@ Hello! I'm Sathyam and this is my personal website. I'm a 21 year old final year
 
 #### This page will be updated with more details soon!
 
+### About this site
+
+This site is powered by [Octopress][2], hosted on [github][3] and uses [greyshade theme][4] by [Shashank Mehta][5]. My own theme is in the making!
+
 [1]: http://dl.dropboxusercontent.com/u/30013949/sathyam-public.jpg
+[2]: http://octopress.org/
+[3]: https://www.github.com/sathyamvellal/sathyamvellal.github.io
+[4]: https://github.com/shashankmehta/greyshade
+[5]: http://shashankmehta.in/archive/2012/greyshade.html
