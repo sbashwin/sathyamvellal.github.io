@@ -19,7 +19,10 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: 
+
+# gravatar email md5 hash
+# email_md5: 99b25e649291f56b182ae38177982589
 
 # ----------------------- #
 #    Jekyll & Plugins     #
