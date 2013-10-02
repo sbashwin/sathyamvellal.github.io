@@ -26,9 +26,13 @@ The [Indiegogo campaign][11] is flexibly funded with targets starting from $40,0
 
 The best part of this project being open source is the developer community! They're not just developers and contributors. They are a family. The modern ancient family. They are a constantly working group, who've volunteered to build this game.
 
-IndieStark covered an in-depth article about [0 A.D. and its crowdfunding campaign][15] in which the author beautifully states -
+IndieStatik covered an in-depth article about [0 A.D. and its crowdfunding campaign][15] in which the author beautifully states -
 
-> A huge project like 0 A.D. is worthy of people’s time because it’s a community project that people can find resolve in, share stories with others who helped to build it, and in a few months, or a year, or maybe even a decade, they’ll be able to look back at the game and remember the people they met, the things they learned, the things they shared.
+> "A huge project like 0 A.D. is worthy of people’s time because it’s a community project that people can find resolve in, share stories with others who helped to build it, and in a few months, or a year, or maybe even a decade, they’ll be able to look back at the game and remember the people they met, the things they learned, the things they shared."
+
+I also would like to quote -
+
+> "It’s remarkable how a project of this size is sustainable with practically no budget, built from the passion of volunteers, who talk with one another, congratulate each other, see newcomers arrive and welcome them with open arms."
 
 For there is no greater gift in the world than knowledge!  
 Donate to the 0 A.D. Project and be a part of this great community.
