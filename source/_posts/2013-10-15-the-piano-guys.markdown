@@ -53,6 +53,12 @@ Obviously I can't list all the [videos][10] here!
     </iframe>
 </div>
 
+I would like to include a quote by Ludwig Van Beethoven, included in one of the videos -
+
+> Don't only practice your art,  
+> but force your way into its secrets,  
+> for it and knowledge can raise men to the divine.
+
 [1]: http://www.youtube.com/watch?v=ydRAb9cwHnA&list=RD03X6a9odk6b_c
 [2]: http://www.youtube.com/user/BreakofReaIity
 [3]: http://www.youtube.com/watch?v=5wLfOZiAd8Y
