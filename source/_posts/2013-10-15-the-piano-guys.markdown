@@ -53,7 +53,7 @@ Obviously I can't list all the [videos][10] here!
     </iframe>
 </div>
 
-I would like to include a quote by Ludwig Van Beethoven, included in one of the videos -
+A quote by Ludwig Van Beethoven, included in one of the videos -
 
 > Don't only practice your art,  
 > but force your way into its secrets,  
