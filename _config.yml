@@ -89,7 +89,7 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: sathyamvellal
 delicious_count: 3
 
 # Disqus Comments
@@ -99,5 +99,11 @@ disqus_show_comment_count: true
 # Google Analytics
 google_analytics_tracking_id: UA-42225587-1
 
+# Facebook
+facebook_user: sathyam.vellal
+
 # Facebook Like
 facebook_like: true
+
+# Linkedin
+linkedin_user: sathyamvellal

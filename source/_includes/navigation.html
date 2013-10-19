@@ -1,8 +1,47 @@
 {% include custom/navigation.html %}
 {% if site.description %}
 <section class="aboutme">
-  <p>
+  <p id="motd-text">
     {{ site.description }}
   </p>
+  <script type="text/javascript">
+  var motd = $('#motd-text');
+  var motd_list;
+  var id = 0;
+	$.ajax({
+		url: "http://dl.dropboxusercontent.com/u/30013949/motd.json",
+	})
+	.done(function(data) {
+    motd_list = JSON.parse(data);1
+    setTimeout(nextMsg, 5000);
+	});
+
+  var nextMsg = function() {
+    motd.fadeOut(500, function() {
+      var message = motd_list.messages[id];
+      switch (message.type) {
+        case "quote":
+          motd.html('<strong>Quote:</strong> <br/>“' + message.text + '”</br>');
+        break;
+        case "joke":
+          motd.html('<strong>Joke:</strong> <br/>“' + message.text + '”</br>');
+        break;
+        case "link":
+          motd.html('<a style="color: #a7a7a7;" href="' + message.link + '" target="_blank"><strong>Link:</strong> ' + message.title + '</a></br>');
+        break;
+        case "msg":
+          motd.html(message.text + '</br>');
+        break;
+      }
+      ++id;
+      if (id >= motd_list.messages) {
+        id = 0;
+      }
+    });
+    motd.fadeIn(500);
+
+    setTimeout(nextMsg, 10000);
+  }
+  </script>
 </section>
 {% endif %}
