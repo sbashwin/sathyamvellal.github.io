@@ -34,7 +34,7 @@
         break;
       }
       ++id;
-      if (id >= motd_list.messages) {
+      if (id >= motd_list.messages.length) {
         id = 0;
       }
     });
