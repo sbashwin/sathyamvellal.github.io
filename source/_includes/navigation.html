@@ -1,47 +1,47 @@
 {% include custom/navigation.html %}
 {% if site.description %}
 <section class="aboutme">
-  <p id="motd-text">
-    {{ site.description }}
-  </p>
+  <ul id="bxslider" class="bxslider">
+    <li>Music, Food and Code - The three dimensions to my world.</li>
+  </ul>
   <script type="text/javascript">
-  var motd = $('#motd-text');
-  var motd_list;
-  var id = 0;
-	$.ajax({
-		url: "http://dl.dropboxusercontent.com/u/30013949/motd.json",
-	})
-	.done(function(data) {
-    motd_list = JSON.parse(data);1
-    setTimeout(nextMsg, 5000);
-	});
-
-  var nextMsg = function() {
-    motd.fadeOut(500, function() {
-      var message = motd_list.messages[id];
-      switch (message.type) {
-        case "quote":
-          motd.html('<strong>Quote:</strong> <br/>“' + message.text + '”</br>');
-        break;
-        case "joke":
-          motd.html('<strong>Joke:</strong> <br/>“' + message.text + '”</br>');
-        break;
-        case "link":
-          motd.html('<a style="color: #a7a7a7;" href="' + message.link + '" target="_blank"><strong>Link:</strong> ' + message.title + '</a></br>');
-        break;
-        case "msg":
-          motd.html(message.text + '</br>');
-        break;
+    var motd_obj;
+    var motd_list;
+    $.ajax({
+      url: "http://dl.dropboxusercontent.com/u/30013949/motd.json",
+    })
+    .done(function(data) {
+      motd_obj = JSON.parse(data);
+      motd_list = motd_obj.messages;
+      var list = $('#bxslider');
+      for (motd in motd_list) {
+        var message = motd_list[motd];
+        switch (message.type) {
+          case "quote":
+            list.append('<li><strong>Quote:</strong> <br/>“' + message.text + '”</li>');
+          break;
+          case "joke":
+            list.append('<li><strong>Joke:</strong> <br/>“' + message.text + '”</li>')
+          break;
+          case "link":
+            list.append('<li><a style="color: #a7a7a7;" href="' + message.link + '" target="_blank"><strong>Link:</strong> ' + message.title + '</a></li>');
+          break;
+          case "msg":
+            list.append('<li>' + message.text + '</li>');
+          break;
+        }
       }
-      ++id;
-      if (id >= motd_list.messages.length) {
-        id = 0;
-      }
+      var bxslider = $('.bxslider').bxSlider({
+        mode: 'fade',
+        adaptiveHeight: true,
+        auto: true,
+        infiniteLoop: true,
+        slideMargin: 20,
+        speed: 500,
+        pause: 8000,
+        controls: false
+      });
     });
-    motd.fadeIn(500);
-
-    setTimeout(nextMsg, 10000);
-  }
   </script>
 </section>
 {% endif %}
