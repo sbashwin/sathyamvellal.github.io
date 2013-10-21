@@ -7,6 +7,7 @@ categories: [tech, c, tricks]
 ---
 
 This post contains the writeup of my talk on **Cool C Programming** as part of the **Tech Talk Tuesday** series by **PES OpenSource** at PES Institute of Technology.
+(Please ignore any typos in this post; its pretty long and I wrote it in a hurry!)
 
 ## The C Preprocessor
 
@@ -16,7 +17,7 @@ In the C Program build process, there are three main phases.
 * Compiling
 * Linking
 
-The C Preprocessor is dumb! It does not anything about a C program. Its mainly used to manage the program's text according to our needs before the compiler begins its task. Managing involves including of header files, conditional inclusion of pieces of code, expanding macros, etc.  
+The C Preprocessor is dumb! It does not know anything about a C program. It is mainly used to manage the program's text according to our needs before the compiler begins its task. Managing involves including of header files, conditional inclusion of pieces of code, expanding macros, etc.  
 <!-- more -->
 If you want to see the output of the preprocessor, you can use the `-E` flag for the compiler; ie compile the program as `gcc -E file.c`. This dumps the preprocessed output of file.c onto your terminal.
 
