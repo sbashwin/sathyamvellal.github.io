@@ -5,7 +5,7 @@ latex: <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>
 title: An introduction to <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>
 date: 2013-10-27 14:32
 comments: true
-published: false
+published: true
 categories: 
 ---
 
