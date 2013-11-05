@@ -6,7 +6,7 @@ comments: true
 categories: [tech, c, tricks]
 ---
 
-This post contains the writeup of my talk on **Cool C Programming** as part of the **Tech Talk Tuesday** series by **PES OpenSource** at PES Institute of Technology.
+This post contains the writeup of my talk on **Cool C Programming** as part of the **Tech Talk Tuesday** series by **[PES OpenSource](http://pesos.pes.edu)** at PES Institute of Technology.
 (Please ignore any typos in this post; its pretty long and I wrote it in a hurry!)
 
 ## The C Preprocessor
