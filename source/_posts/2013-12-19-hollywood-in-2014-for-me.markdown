@@ -3,7 +3,7 @@ layout: post
 title: "Hollywood in 2014 (for me)"
 date: 2013-12-19 15:51
 comments: true
-categories: 
+categories: [general, film, hollywood]
 ---
 
 2013 is almost closing and its time to take a peak at films of 2014. This list though, is my preference. You can check the [entire list in wikipedia][1]. Here, I've linked the films to a trailer and a rating of my expectations (arranged by rating and alphabetically).
