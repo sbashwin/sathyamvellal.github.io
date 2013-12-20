@@ -15,7 +15,7 @@ categories:
 The Hobbit: There and Back Again ★★★★½  
 [Interstellar](http://www.youtube.com/watch?v=3WzHXI5HizQ) ★★★★½  
 [Godzilla](http://www.youtube.com/watch?v=mBwsUD7jYCI) ★★★★  
-[How to Train Your Dragon 2](http://www.youtube.com/watch?v=68AqHwgk2s8) ★★★★  
+[How to Train Your Dragon 2](http://www.youtube.com/watch?v=Z9a4PvzlqoQ) ★★★★  
 [The LEGO Movie](http://www.youtube.com/watch?v=fZ_JOBCLF-I) ★★★★  
 [The Amazing Spider-Man 2](http://www.youtube.com/watch?v=nbp3Ra3Yp74) ★★★½  
 Dumb and Dumber To ★★★½  
