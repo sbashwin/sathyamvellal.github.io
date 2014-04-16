@@ -71,7 +71,7 @@ Ruby | Ruby on Rails
 
 ---
 
-![Templating Engine Flow Diagram](webtemplates-1.jpg)
+![Templating Engine Flow Diagram](/slides/1/webtemplates-1.jpg)
 
 ## Why?
 
