@@ -1,0 +1,283 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>WEB: <br/>Tools of the trade</title>
+
+<meta name="description" content="WEB: <br/>Tools of the trade">    
+
+  <meta name="author" content="Sathyam M Vellal" />
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link rel="stylesheet" href="{{ root_url }}/revealjs/css/reveal.min.css">
+  <link rel="stylesheet" href="{{ root_url }}/revealjs/css/theme/default.css" id="theme">
+
+
+<!-- For syntax highlighting -->
+  <link rel="stylesheet" href="{{ root_url }}/revealjs/lib/css/zenburn.css">
+
+  <style type="text/css">
+    .reveal {
+        font-family: PT Sans;
+    }
+  </style>
+
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  document.write( '<link rel="stylesheet" href="{{ root_url }}/revealjs/css/print/' +
+    ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + 
+    '.css" type="text/css" media="print">' );
+</script>
+
+<!--[if lt IE 9]>
+<script src="lib/js/html5shiv.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="reveal">
+
+<!-- Any section element inside of this container is displayed as a slide -->
+<div class="slides">
+
+<section>
+<h1>WEB: <br/>Tools of the trade</h1>
+<h3>Sathyam M Vellal</h3>
+<p>
+<h4>April 11, 2014</h4>
+</p>
+</section>  
+
+
+<section id="agenda" class="slide level2">
+<h1>Agenda</h1>
+<ul>
+<li class="fragment">Webframeworks</li>
+<li class="fragment">Templating Engines</li>
+<li class="fragment">CSS Extensions</li>
+</ul>
+</section>
+<section><section id="webframeworks" class="titleslide slide level1"><h1>Webframeworks</h1></section><section id="the-framework-myth" class="slide level2">
+<h1>The Framework Myth</h1>
+<blockquote>
+<p>&quot;You and your internal development team of architects are not going to build the next great framework. You’re not going to build a good one. You’re not even going to build an acceptable one.&quot;</p>
+</blockquote>
+</section><section id="why" class="slide level2">
+<h1>Why?</h1>
+<ul>
+<li class="fragment">Standardization</li>
+<li class="fragment">Boilerplate</li>
+<li class="fragment">Organization</li>
+<li class="fragment">Flexibility</li>
+<li class="fragment">Focus</li>
+<li class="fragment">Mothertongue</li>
+</ul>
+</section><section id="examples" class="slide level2">
+<h1>Examples</h1>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Language</th>
+<th style="text-align: left;">Some Webframeworks</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">C++</td>
+<td style="text-align: left;">CppCMS, POCO</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Java</td>
+<td style="text-align: left;">Apache Wicket, Spring</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">JavaScript</td>
+<td style="text-align: left;">Node.js</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">PHP</td>
+<td style="text-align: left;">Joomla</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Python</td>
+<td style="text-align: left;">Django, Flask</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ruby</td>
+<td style="text-align: left;">Ruby on Rails</td>
+</tr>
+</tbody>
+</table>
+</section><section id="django" class="slide level2">
+<h1>Django</h1>
+<ul>
+<li class="fragment">High performing, full-fledged Webframework</li>
+<li class="fragment">DRY Principle</li>
+<li class="fragment">Code in Python</li>
+<li class="fragment">Django Templating System, Jinja2</li>
+<li class="fragment">ORM - SQLAlchemy</li>
+</ul>
+</section><section id="node.js" class="slide level2">
+<h1>Node.js</h1>
+<ul>
+<li class="fragment">New and very popular</li>
+<li class="fragment">Event model</li>
+<li class="fragment">Tons of forked projects</li>
+<li class="fragment">Express.js is the best bet,</li>
+</ul>
+</section><section id="is-it-all-good" class="slide level2">
+<h1>Is it all good?</h1>
+<ul>
+<li class="fragment">Complexity, and hence customization</li>
+<li class="fragment">Debugging tougher (usually)</li>
+</ul>
+</section></section>
+<section><section id="templating-engines" class="titleslide slide level1"><h1>Templating Engines</h1></section><section id="what-is-it" class="slide level2">
+<h1>What is it?</h1>
+<aside class="notes">
+<ul>
+<li>Something like a form</li>
+<li>Go to a bank, take a form to do something,</li>
+<li>There's already something there, and you fill in your details</li>
+<li>Template
+</aside>
+</li>
+</ul>
+<ul>
+<li class="fragment">Something is ready</li>
+<li class="fragment">Wait for input</li>
+<li class="fragment">Tailer the output appropriately</li>
+</ul>
+</section><section class="slide level2">
+
+<figure>
+<img src="webtemplates-1.jpg" alt="Templating Engine Flow Diagram" /><figcaption>Templating Engine Flow Diagram</figcaption>
+</figure>
+</section><section id="why-1" class="slide level2">
+<h1>Why?</h1>
+<ul>
+<li class="fragment">Reduction in work</li>
+<li class="fragment">Structure</li>
+<li class="fragment">Embedded logic</li>
+<li class="fragment">DRY</li>
+</ul>
+</section><section id="some-examples" class="slide level2">
+<h1>Some Examples</h1>
+<ul>
+<li class="fragment"><a href="http://jinja.pocoo.org/docs/templates/">Jinja2</a></li>
+<li class="fragment"><a href="https://github.com/linkedin/dustjs/wiki/Dust-Tutorial">Dust.js</a></li>
+<li class="fragment"><a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">Jekyll (static generator)</a></li>
+<li class="fragment"><a href="http://naltatis.github.io/jade-syntax-docs">Jade</a></li>
+</ul>
+</section></section>
+<section><section id="css-extensions" class="titleslide slide level1"><h1>CSS Extensions</h1></section><section id="sass" class="slide level2">
+<h1>SASS</h1>
+<ul>
+<li>CSS3 compatible</li>
+<li>variables, rule nesting</li>
+<li>functions and other commands</li>
+<li>faster development</li>
+</ul>
+</section></section>
+<section><section id="references" class="titleslide slide level1"><h1>References</h1></section><section id="django-1" class="slide level2">
+<h1>Django</h1>
+<ul>
+<li><a href="https://github.com/django/django">Source Code</a></li>
+<li><a href="http://djangoproject.com/">Official Website</a></li>
+<li><a href="http://www.djangobook.com/en/2.0/index.html">Django Book</a></li>
+<li><a href="https://code.djangoproject.com/wiki/Tutorials">Tutorials</a></li>
+</ul>
+</section><section id="node.js-1" class="slide level2">
+<h1>Node.js</h1>
+<ul>
+<li><a href="https://github.com/joyent/node">Source Code</a></li>
+<li><a href="http://nodejs.org/">Official Website</a></li>
+<li><a href="http://www.nodebeginner.org/">Nodebeginner</a></li>
+<li><a href="http://howtonode.org/">How to Node</a></li>
+<li><a href="http://expressjs.com/">Express.js</a></li>
+<li><a href="http://krakenjs.com/">Kraken.js</a></li>
+</ul>
+</section><section id="web-templating-languages" class="slide level2">
+<h1>Web Templating Languages</h1>
+<ul>
+<li><a href="http://jinja.pocoo.org/docs/templates/">Jinja2</a></li>
+<li><a href="https://github.com/linkedin/dustjs/wiki/Dust-Tutorial">Dust.js</a></li>
+<li><a href="http://jekyllbootstrap.com/usage/jekyll-quick-start.html">Jekyll (static generator)</a></li>
+<li><a href="http://ringce.com/hyde">Hyde (static generator)</a></li>
+<li><a href="http://naltatis.github.io/jade-syntax-docs">Jade</a></li>
+</ul>
+</section><section id="see-also" class="slide level2">
+<h1>See also</h1>
+<ul>
+<li>Static Webframework - <a href="http://octopress.org/">Octopress</a></li>
+<li>CSS Extension - <a href="http://sass-lang.com/">SASS-Lang</a></li>
+<li>Frontend Frameworks - <a href="http://getbootstrap.com/">Bootstrap</a>. Others include <a href="http://foundation.zurb.com/">Foundation</a>, <a href="http://designmodo.github.io/Flat-UI/">Flat-UI</a>, <a href="http://bootflat.github.io/">Bootflat</a>, <a href="http://purecss.io/">PureCSS</a></li>
+<li>For presentations - <a href="https://github.com/bartaz/impress.js/">Impress.js</a> and <a href="https://github.com/hakimel/reveal.js/">Reveal.js</a></li>
+<li><a href="https://pages.github.com/">Host websites on Github</a></li>
+</ul>
+</section></section>
+<section><section id="thanks" class="titleslide slide level1"><h1>Thanks</h1></section><section class="slide level2">
+
+<ul>
+<li><script type="text/javascript">
+<!--
+h='&#x73;&#x61;&#116;&#104;&#x79;&#x61;&#x6d;&#118;&#x65;&#108;&#108;&#x61;&#108;&#46;&#x69;&#110;';a='&#64;';n='&#x6d;&#x61;&#x69;&#108;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#x6d;&#x61;&#x69;&#108;&#32;&#x61;&#116;&#32;&#x73;&#x61;&#116;&#104;&#x79;&#x61;&#x6d;&#118;&#x65;&#108;&#108;&#x61;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x69;&#110;</noscript></li>
+<li><a href="http://sathyamvellal.in/fb">/fb</a></li>
+<li><a href="http://sathyamvellal.in/github">/github</a></li>
+</ul>
+</section></section>
+</div>
+
+<script src="{{ root_url }}/revealjs/lib/js/head.min.js"></script>
+<script src="{{ root_url }}/revealjs/js/reveal.min.js"></script>
+
+<script>
+  // Full list of configuration options available here:
+  // https://github.com/hakimel/reveal.js#configuration
+  Reveal.initialize({
+    controls: true,
+    progress: true,
+    history: true,
+
+  // available themes are in /css/theme
+      theme: Reveal.getQueryHash().theme || 'default', 
+  
+  // default/cube/page/concave/zoom/linear/fade/none
+      transition: Reveal.getQueryHash().transition || 'linear',
+  
+  // Optional libraries used to extend on reveal.js
+  dependencies: [
+    { src: '{{ root_url }}/revealjs/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+    { src: '{{ root_url }}/revealjs/plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: '{{ root_url }}/revealjs/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: '{{ root_url }}/revealjs/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+    { src: '{{ root_url }}/revealjs/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+    { src: '{{ root_url }}/revealjs/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+    // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+  ]
+  });
+
+</script>
+
+<script type="text/javascript">
+var tables = document.getElementsByTagName("table");
+for (var i in tables) {
+    console.log("Hello world");
+    tables[i].className = "reveal";
+}
+</script>
+
+</body>
+</html>
