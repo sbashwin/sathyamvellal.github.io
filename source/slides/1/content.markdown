@@ -137,3 +137,4 @@ Ruby | Ruby on Rails
 + [mail@sathyamvellal.in](mailto:mail@sathyamvellal.in)
 + [/fb](http://sathyamvellal.in/fb)
 + [/github](http://sathyamvellal.in/github)
++ Download a copy of these slides [here](/slides/WebToolsOfTheTrade.zip)
