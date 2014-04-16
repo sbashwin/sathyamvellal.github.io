@@ -33,21 +33,6 @@ $else$
   <link rel="stylesheet" href="{{ root_url }}/revealjs/lib/css/zenburn.css">
 $endif$
 
-$if(font)$
-  <style type="text/css">
-    .reveal {
-        font-family: $font$;
-    }
-  </style>
-$endif$
-
-$if(headerfont)$
-  <style type="text/css">
-    .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6{
-        font-family: $headerfont$;
-    }
-  </style>
-$endif$
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
 <script>
@@ -104,6 +89,7 @@ $body$
     controls: true,
     progress: true,
     history: true,
+    center: false,
 
   // available themes are in /css/theme
   $if(theme)$
@@ -131,14 +117,6 @@ $body$
   ]
   });
 
-</script>
-
-<script type="text/javascript">
-var tables = document.getElementsByTagName("table");
-for (var i in tables) {
-    console.log("Hello world");
-    tables[i].className = "reveal";
-}
 </script>
 
 </body>
