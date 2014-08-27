@@ -101,5 +101,5 @@ And that's not all, the feeling you get when assited by a community of developer
 
 This, for now is an introduction to the open source world for you. I'll update in this post soon with some points from where you can begin from. If you have any queries, you can post in the [PES Open Source Facebook group](http://pesos.pes.edu/fb), email me at [mail@sathyamvellal.in](mailto:mail@sathyamvellal.in) or email PES Open Source at [pesos@pes.edu](mailto:pesos@pes.edu).
 
-Caio!  
+Ciao!  
 **Let Knowledge Flow From All Sides.**
