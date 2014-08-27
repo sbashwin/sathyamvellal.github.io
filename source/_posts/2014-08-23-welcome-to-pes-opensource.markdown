@@ -21,7 +21,7 @@ Now did you think one of these?
 
 Well, if you did, you are somewhat on the right track. But wait, this was kind of easy. Now, I want you think what "Open Source" means. Woah, now that wasn't simple right? Understanding what *Open Source* stands for, deep down, is equivalent to understanding what open source projects stand for.
 
-As a beginner to the world of open source, you must first make it a point to understand the philosophy of open source. This is quintessential in understanding why there are open source projects and what the community stands for.
+As a beginner to the world of open source, you must first make it a point to understand the philosophy of open source. This is critical in understanding why there are open source projects and what the community stands for.
 
 #### The Philosophy
 
