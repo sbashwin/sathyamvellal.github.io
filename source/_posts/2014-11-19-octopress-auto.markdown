@@ -20,6 +20,8 @@ Now that you're auto deploying, you can use [Prose][3] to create/edit posts onli
 
 To blog on my mobile, I use SGit, a git client for managing git related actions and Jota+ editor for editing. You can use a text editor of your choice, but those who give you shortcuts to insert brackets, quotes, etc are much helpful since you'll be writing in markdown where you'll be using those quite a lot. Also, Jota has pautosave on exit, which makes your changes persistent. Some editors discard content if you haven't explicitly saved. You can always use Prose on mobile too, no doubt. But you'll need a persistent Internet connection. 
 
+PS. I wrote this post in my mobile! 
+
 [1]: https://travis-ci.org
 [2]: http://blog.yasuoza.com/2014/01/13/octopress-plus-github-pages-plus-travis/
 [3]: http://prose.io
