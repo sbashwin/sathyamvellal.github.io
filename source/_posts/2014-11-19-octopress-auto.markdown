@@ -8,11 +8,11 @@ category: "software"
 tags: ["octopress", "travis", "blogging"]
 ---
 
-I had a problem. I wanted to blog more and mostly wrote in my personal laptop.  Although, I usually wouldn't have the time to finish it. And so, there went an incomplete blog post which I never finished for weeks; all because it was in my laptop. From months I wanted to move my blogging online and I've finally done that. 
+I had a problem. I wanted to blog more and mostly wrote in my personal laptop.  Although, I usually wouldn't have the time to finish it. And so, there would go an incomplete blog post which I never finished for weeks; all because it was in my laptop. From months I wanted to move my blogging online and I've finally done that. 
 
 <!--- more --->
 
-I've setup [Travis-CI][1] for my website now. If you don't know, travis is a continuous integration service for building and testing projects on Github. We can use it to autobuild octopress projects and deploy to github pages. To integrate travis to your octopress website, visit [Yasuoza Diary's post][2]. The post gives most of the details on what to do. Now any commit to the source branch should trigger a travis build. But it's going to build both the source branch and the pages branch (because there was a commit there too, since a deployment was done). Just change the setting in travis to "build only if `.travis.yml` is present". This should now skip trying to build from master. 
+I've setup [Travis-CI][1] for my website now. If you don't know, travis is a continuous integration service for building and testing projects on Github. We can use it to autobuild octopress projects and deploy to github pages. To integrate travis to your octopress website, visit [Yasuoza Diary's post][2]. The post gives most of the details on what to do. Now any commit to the source branch should trigger travis build. But it's going to build both the source branch and the pages branch (because there was a commit there too, since a deployment was done). Just change the setting in travis to "build only if `.travis.yml` is present". This should now skip trying to build from master. 
 
 Now that you're auto deploying, you can use [Prose][3] to create/edit posts online. Prose is brilliant, even in identifying metadata of blog posts and makes your work easier. To create blog posts through Prose or elsewhere online, refer [this gist to create Octopress posts manually][4]. As a minimum, Github itself offers you options to create/edit content in its website. 
 
