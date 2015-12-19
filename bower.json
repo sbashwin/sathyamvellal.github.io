@@ -1,5 +1,6 @@
 {
-    "name": "assemble-init",
-    "dependencies": {
-    }
+  "name": "assemble-init",
+  "dependencies": {
+    "pure": "purecss#~0.6.0"
+  }
 }
