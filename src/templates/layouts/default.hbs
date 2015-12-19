@@ -1,12 +1,20 @@
 <html>
 <head>
     <title>{{title}}</title>
-    <link href="{{assets}}/css/style.css" type="text/css" rel="stylesheet"/>
+    <link href="{{assets}}/css/style.min.css" type="text/css" rel="stylesheet"/>
+    <link href="{{assets}}/css/grid.min.css" type="text/css" rel="stylesheet"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body>
-    {{> navbar }}
-    {{> body }}
-    {{> scripts }}
+  <div class="pure-g">
+    <div class="pure-u-xl-4-24">
+    </div>
+    <div class="pure-u-xl-16-24">
+      {{> navbar}}
+      {{> body}}
+      {{> scripts}}
+    </div>
+  </div>
 </body>
 </html>
