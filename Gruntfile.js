@@ -61,6 +61,31 @@ module.exports = function (grunt) {
                 }]
             }
         },
+        pure_grids: {
+            responsive: {
+                dest: 'dist/assets/css/grid.css',
+                options: {
+                    units: 24, // 12-column grid
+                    mediaQueries: {
+                        sm: 'screen and (min-width: 35.5em)', // 568px
+                        md: 'screen and (min-width: 48em)',   // 768px
+                        lg: 'screen and (min-width: 64em)',   // 1024px
+                        xl: 'screen and (min-width: 80em)'    // 1280px
+                    }
+                }
+            }
+        },
+        cssmin: {
+            target: {
+                files: [{
+                    expand: true,
+                    cwd: '<%= config.dist %>/assets/css',
+                    src: ['*.css', '!*.min.css'],
+                    dest: '<%= config.dist %>/assets/css',
+                    ext: '.min.css'
+                }]
+            }
+        },
         copy: {
             main: {
                 files: [{
@@ -83,7 +108,7 @@ module.exports = function (grunt) {
             },
             styles: {
                 files: '<%= config.src %>/less/**',
-                tasks: ['less']
+                tasks: ['less', 'cssmin']
             }
         },
         bower: {
@@ -95,7 +120,7 @@ module.exports = function (grunt) {
         },
         'http-server': {
             'dev': {
-                root: './dist',
+                root: './<%= config.dist %>',
                 port: '8000',
                 host: '0.0.0.0',
                 ext: 'html'
@@ -107,13 +132,15 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-less');
+    grunt.loadNpmTasks('grunt-contrib-cssmin');
+    grunt.loadNpmTasks('grunt-pure-grids');
     grunt.loadNpmTasks('grunt-http-server');
     grunt.loadNpmTasks('grunt-bower-task');
     grunt.loadNpmTasks('grunt-newer');
     grunt.loadNpmTasks('assemble');
 
     grunt.registerTask('init', ['bower:install']);
-    grunt.registerTask('generate', ['assemble', 'less', 'copy']);
+    grunt.registerTask('generate', ['assemble', 'less', 'pure_grids', 'cssmin', 'copy']);
     grunt.registerTask('build', ['clean', 'generate']);
     grunt.registerTask('serve', ['http-server']);
     grunt.registerTask('default', ['clean', 'build', 'watch']);
