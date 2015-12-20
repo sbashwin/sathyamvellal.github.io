@@ -1,8 +1,85 @@
-@import "./_lib/pure";
 @import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700,300,100,700italic,500italic,400italic,300italic,100italic);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700);
 
 .pure-g, .pure-g [class *= "pure-u"] {
   // font-family: 'Roboto Mono', 'Monaco', 'Consolas', 'monospace';
   font-family: 'Roboto Slab', serif;
+}
+
+#navbar {
+  text-align: center;
+
+  a {
+    text-decoration: none;
+    color: #aaa;
+  }
+
+  #navbar-brand {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+
+    color: #222;
+  }
+
+  #navbar-items {
+    .navbar-item {
+      color: #aaa;
+      text-decoration: none;
+
+      &:hover {
+        color: #222;
+      }
+    }
+
+    .navbar-item.navbar-item-selected {
+      color: #222;
+      padding-bottom: 1em;
+      border-bottom: 0.2em solid #222;
+    }
+  }
+}
+
+@media screen and (max-width: 35.5em) {
+  .show-xs {
+    display: block;
+  }
+  .show-sm, .show-md, .show-lg, .show-xl {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 35.5em) {
+  .show-sm {
+    display: block;
+  }
+  .show-xs, .show-md, .show-lg, .show-xl {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  .show-md {
+    display: block;
+  }
+  .show-xs, .show-sm, .show-lg, .show-xl {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .show-lg {
+    display: block;
+  }
+  .show-xs, .show-sm, .show-md, .show-xl {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 80em) {
+  .show-xl {
+    display: block;
+  }
+  .show-xs, .show-sm, .show-md, .show-lg {
+    display: none;
+  }
 }

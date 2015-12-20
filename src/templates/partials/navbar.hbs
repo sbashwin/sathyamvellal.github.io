@@ -1,7 +1,20 @@
 ---
 ---
-<ul>
-    <li>One</li>
-    <li>Two</li>
-    <li>Three</li>
-</ul>
+<div id="navbar" class="pure-g">
+  <a href="javascript:void(0)" class="navbar-item">
+    <div id="navbar-brand" class="pure-u-1 pure-u-sm-8-24 pure-u-lg-6-24">
+      <strong>{{navbar.brand}}</strong>
+    </div>
+  </a>
+  <div class="pure-u-sm-2-24 pure-u-lg-4-24">
+  </div>
+  <div id="navbar-items" class="pure-u-1 pure-u-sm-14-24 pure-u-lg-12-24 pure-u-xl-10-24">
+    <div class="pure-g">
+      <a href="javascript:void(0)"><div class="pure-u-1-3 navbar-item navbar-item-selected">{{navbar.blog}}</div></a>
+      <a href="javascript:void(0)"><div class="pure-u-1-3 navbar-item">{{navbar.about}}</div></a>
+      <a href="javascript:void(0)"><div class="pure-u-1-3 navbar-item">{{navbar.archives}}</div></a>
+    </div>
+  </div>
+    <div class="pure-u-lg-2-24 pure-u-xl-4-24">
+  </div>
+</div>

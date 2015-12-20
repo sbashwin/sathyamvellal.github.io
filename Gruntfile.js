@@ -12,7 +12,7 @@ module.exports = function (grunt) {
                 flatten: true,
                 assets: '<%= config.src %>/assets',
                 layoutdir: '<%= config.src %>/templates/layouts',
-                data: '<%= config.src %>/data/*.{json,yml}',
+                data: '<%= config.src %>/data/**/*.{json,yml}',
                 partials: '<%= config.src %>/templates/partials/**/*.hbs',
                 marked: {
                     breaks: false,
