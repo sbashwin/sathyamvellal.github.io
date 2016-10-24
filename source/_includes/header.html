@@ -1,0 +1,12 @@
+<div class="header">
+  <!-- <div class="title">
+    <a href="/"><h1>{{ site.name }}</h1></a>
+  </div> -->
+  <ul>
+      {% for item in site.data.navigation %}
+      <li>
+          <a href="{{ item.url }}" {% if page.url == item.url %} class="active" {% endif %}>{{ item.title }}</a>
+      </li>
+      {% endfor %}
+  </ul>
+</div>
