@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Sathyam Vellal
 email: sathyam@vellals.com
+name: Sathyam Vellal
 description: >
   Music, Food and Code - The three dimensions to my world.
 source: source
@@ -26,4 +27,6 @@ github_username:  sathyamvellal
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+sass:
+  style: :compressed
