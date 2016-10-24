@@ -1,0 +1,38 @@
+.blog {
+	padding-bottom: 30px;
+	h1 {
+		font-size: 1.4em;
+		margin-bottom: 1em;
+	}
+	h2 {
+		font-size: 1.2em;
+		margin-bottom: 0.5em;
+	}
+	li {
+		margin-bottom: 2em;
+
+		.top {
+			width: 100%;
+			display: table;
+
+			.url {
+				display: table-cell;
+				text-align: left;
+			}
+			.date {
+				display: table-cell;
+				text-align: right;
+			}
+		}
+	}
+	.date {
+		text-align: right;
+	}
+	.excerpt {
+		padding-top: 0.5em;
+
+		.more {
+			padding-left: 0.5em;
+		}
+	}
+}
