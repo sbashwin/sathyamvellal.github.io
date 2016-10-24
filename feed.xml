@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sathyam Vellal</title>
+    <description>Music, Food and Code - The three dimensions to my world.
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Oct 2016 00:15:53 -0700</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2016 00:15:53 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Welcome to PES OpenSource</title>
+        <description>&lt;p&gt;Heya there! This post is mainly targeted to the students of PES Institute of Technology/PES University, Bangalore. If you are not, and are new to the Open Source Movement, you can still find a lot of useful information here. You can also learn the ways of PES Open Source, and join our movement in making educational institutions a place of more knowledge and productivity.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h4 id=&quot;prologue&quot;&gt;Prologue&lt;/h4&gt;
+
+&lt;p&gt;Firstly, I want you to think what an open source project means to you. Give it a minute. Done?&lt;br /&gt;
+Now did you think one of these?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Getting access to the source code of the project.&lt;/li&gt;
+  &lt;li&gt;Getting/Using the project for free (as in free beer).&lt;/li&gt;
+  &lt;li&gt;Using the project’s source to either contribute to it or create a fork of the project. ie, ability to modify the project freely (as in free libre).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Well, if you did, you are somewhat on the right track. But wait, this was kind of easy. Now, I want you think what “Open Source” means. Woah, now that wasn’t simple right? Understanding what &lt;em&gt;Open Source&lt;/em&gt; stands for, deep down, is equivalent to understanding what open source projects stand for.&lt;/p&gt;
+
+&lt;p&gt;As a beginner to the world of open source, you must first make it a point to understand the philosophy of open source. This is critical in understanding why there are open source projects and what the community stands for.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-philosophy&quot;&gt;The Philosophy&lt;/h4&gt;
+
+&lt;p&gt;The concept of open source has been there since the stone age, surely even before, but let’s stick to the stone age for now as a start. People from back then have shared the knowledge on how to start a fire, how to make tools, how to hunt using tools, how to build houses, how to cultivate crops, how to cook, how to this and how to that… the list goes on! Open Source has been driving our lives each and every moment. But how? Through knowledge. Knowledge is the key takeaway with Open Source. It’s the only takeaway in this world that’s also a giveaway.&lt;br /&gt;
+At the core, &lt;em&gt;Open Source&lt;/em&gt; stands for spreading knowledge and making the world a better place to live in; the one entity that empowers everything and everyone. It is important to understand this since all open source projects are driven by this philosophy. It is this immense passion towards learning and learning through sharing that has built the open source world. To be a successful open source enthusiast, realising this passion within you is very essential.&lt;/p&gt;
+
+&lt;p&gt;Over the next few sections of the post, I’m going to give a broad perspective of the world of Open Source and come back to what you can start doing. Firstly, We saw three points above, which give a fair idea some typical traits of open source projects. These traits are the results of what a given open source project stands for. We learnt what &lt;em&gt;Open Source&lt;/em&gt; is actually about deep down. So now, we’ll see why and how projects are open sourced.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-are-projects-open-sourced&quot;&gt;Why are projects open sourced?&lt;/h4&gt;
+
+&lt;p&gt;There is no general reason why projects are open soourced. However, there are some values that a project picks up when open sourced.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Trust&lt;/strong&gt;&lt;br /&gt;
+This is one of the two biggest reasons why projects go open source. If the source is open then the public has the freedom to inspect the code and verify that the software is doing what it’s supposed to do and nothing more or less, thus making it feel more secure and stable.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Community&lt;/strong&gt;&lt;br /&gt;
+Most open source projects have a community of developers, contributors and users. This is a big advantage as you can interact with the community regarding the project, providing you the support to use it or also contribute to it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Control&lt;/strong&gt;&lt;br /&gt;
+Open source software gives users the control they would want on the software since they will know what it is and isn’t. Also, users can request features or enhancements by interacting with the community.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Source of Knowledge&lt;/strong&gt;&lt;br /&gt;
+As discussed before, the best trait of any open source project is the amount of knowledge you gain by learning about the project, the domain, the design, the implementation and its way of usage. And all this for free of cost.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Some companies/corporations also open source projects as a PR move, but with a stronger intention to give something back to public. This helps in mutual growth a well established product built over open source tools or libraries, in a way appreciating them and launching an open source project of their own.&lt;br /&gt;
+On a side note, many a times, open source projects are prefered when developing long term projects as they are more likely to be standing as a community with the source also being open. Imagine if you were to use a closed-source library in a project of yours and its development stops! It’s a risk that is mostly not taken.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-problems-with-open-source-softwareprojects&quot;&gt;The problems with Open Source software/projects&lt;/h4&gt;
+
+&lt;p&gt;Mind you, that these may not apply to some projects. There are quite a lot of truly exceptional open source projects!&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;The development Philosophy (minor problem)&lt;/strong&gt;&lt;br /&gt;
+Usually, open source development follows the “Release Early, Release Often” philosophy. The reason behind this is to attract more developers, funding and early users so that the project is a success. This however causes a side effect - It sometimes feels that the development is slow and version 1.0 might never be seen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Development pace may vary&lt;/strong&gt;&lt;br /&gt;
+Most of the developers are volunteers, who contribute out of passion in their free time. In projects where there aren’t many contributors, or less contributors to core ares of the software, this might create some problems and delays when one (or few) go offline for a while.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;br /&gt;
+One of the most troublesome issue with Open Source Software is documentation. There is often inadequate documentation in projects which cause a great deal of inconvenience to new users, contributors and adopters of the project. This is not the case with all, but many projects. It mainly arises because contributors concentrate more towards working on the project than on documenting it (which takes a great deal of time and decreases productivity).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Compatibility Issues&lt;/strong&gt;&lt;br /&gt;
+There are cases when project X uses library Y v2.0 and another project Z which uses library Y v1.5; and now you can’t install X and Z in your system, mainly because incompatibility. Although this is not frequent, it does happen, and a hard one to solve at that.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hard code base, not intuitive&lt;/strong&gt;&lt;br /&gt;
+One of the tricky problems in software development is the codebase. The developers work on a project without realizing parts, or most of the codebase might be hard for users to understand. This is not a problem with OSS per se, but it is more apparent here. This happens mainly because the developers feel that the piece of code is intuitive, which is true for them as they wrote it, but may not be the case for others. Many projects don’t attract enough contributors for this very reason - The codebase is too hard to understand.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Licensing issues&lt;/strong&gt;&lt;br /&gt;
+There are many open source licenses with subtle differences in their licensing guidelines. Although most aren’t too restrictive, some are. This creates problems when trying to use an open source library in a software which might be proprietary and commercial, for example. Each license has governing rules for usage and distribution of the software using it.
+Here’s a comparison of free and open-source software licenses&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;User Experience&lt;/strong&gt;&lt;br /&gt;
+This doesn’t get expressed enough. Many open source tools and software give an interface over the command line as they target other developers first. The UI which is then developed is not good enough to impress end-users. Even if the software is feature-rich, a less impressive experience bids adieu to users.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accountability&lt;/strong&gt;&lt;br /&gt;
+This is a very visible problem with quite a lot of open source projects. If the software developed breaks down in any format, there is no one to hold resoponsible but the community itself, which doesn’t seem fair. In such situations, users of such projects would have to find a solution and fix it themselves.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Maintainability&lt;/strong&gt;&lt;br /&gt;
+With a lot of rapid development, there is lesser bandwidth to maintain current releases. As a result, you might see projects being maintained at a lower pace or sometimes, very little.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Phew! That was a lot of disadvantages listed down. But wait, these are all specific problems with open source software, the benefits are very broad and their magnitude are much higher! Also, knowing these issues will help you to contribute better.&lt;/p&gt;
+
+&lt;p&gt;Okay, so till now, we looked at open source software, their benefits and their disadvantages. But I’ve saved the best part for the last.&lt;/p&gt;
+
+&lt;h4 id=&quot;open-source-for-a-student&quot;&gt;Open Source for a student&lt;/h4&gt;
+
+&lt;p&gt;Yes, you read it right! Open Source projects are a boon and a treasure for students. Why so? Because they are professionally crafted, coded and maintainted projects. And for a student, this is as good as Atlantis’s lost treasure! Being exposed to open source projects and contributing to them makes you look at developing projects differently, exposing you to industry standard conventions, coding styles, design patterns and much more. You will gain a lot of maturity in the field and get first-hand experience in handling live products.&lt;br /&gt;
+What is even more exciting is that there are hundreds of open source project for you to contribute to! You can contribute to the project of your choice and get the most out of it.&lt;/p&gt;
+
+&lt;h4 id=&quot;so-how-do-you-begin&quot;&gt;So how do you begin?&lt;/h4&gt;
+
+&lt;p&gt;Let’s now see how you can begin contributing to open source projects. Remember, that all experts started as beginners. So if you don’t know coding yet, or have very little experience in programming, no issues! Open source projects have something for everyone at every level! However, (oh, that’s a not a good word to hear…) as it goes with other domains too, there is a learning curve associated with being involved in open source projects - Tools. There are few tools which become essential while contributing to open source projects. It is almost necessary for you to know about version controlling with either SVN or Git, but most preferably Git.&lt;br /&gt;
+All open source projects are version controlled (you can search about this on the web), mostly using SVN or Git. Nowadays its mainly Git or Mercurial, but I’d recommend you to learn Git. Having an understanding of how Git works and how you use it will help to a great extent, since everything is managed through Git.&lt;/p&gt;
+
+&lt;p&gt;Well, now that’ve established that you need to know about version controlling, you can move ahead on to searching for tasks to do by beginners on projects. These typically involve bug fixing, documentation writeup, etc which even though doesn’t sound like a great contribution, takes you a long way! Believe me, even for a small task, as simple as fixing a bug, you’ll be -&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Learning how to access source code, get a copy on your local machine.&lt;/li&gt;
+  &lt;li&gt;Set up the development environment necessary for building executing the project; to test things out.&lt;/li&gt;
+  &lt;li&gt;Reading code written by others, which is an extremely professional task; something which is also not easy in the corporate industry.&lt;/li&gt;
+  &lt;li&gt;Understanding what you need to fix, where and how you need to do it.&lt;/li&gt;
+  &lt;li&gt;Communicating with people across the globe - open source projects are not written by your neighbours!&lt;/li&gt;
+  &lt;li&gt;Professionally solving problems - the solution to fix the bug may look simple, but its implementation must take into account the philosophy and conventions used in the project, the language constraints, the architecture of the project, etc. What you are now doing here is something no less than what is done professionally by understanding end-to-end, the project’s details and implementing your solution accordingly.&lt;/li&gt;
+  &lt;li&gt;Learning how your changes are reflected back to the project’s main codebase.&lt;/li&gt;
+  &lt;li&gt;Partying when your changes go live!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And now you can realise why prior open source contribution is valued high in the industry. The amount of experience and knowledge you gain are more than what you can practically learn in your academics. No doubt that you gain techincal knowledge and understanding of Computer Science and Information Technology in your academics, but active participation in open source projects give you a very practical and professional experience and an understanding of concepts at a different level.&lt;/p&gt;
+
+&lt;p&gt;And that’s not all, the feeling you get when assited by a community of developers willing to help, the satisfaction you get in contributing to the community, the connections you make by networking with others are immeasurable.&lt;/p&gt;
+
+&lt;p&gt;This, for now is an introduction to the open source world for you. I’ll update in this post soon with some points from where you can begin from. If you have any queries, you can post in the &lt;a href=&quot;http://pesos.pes.edu/fb&quot;&gt;PES Open Source Facebook group&lt;/a&gt;, email me at &lt;a href=&quot;mailto:mail@sathyamvellal.in&quot;&gt;mail@sathyamvellal.in&lt;/a&gt; or email PES Open Source at &lt;a href=&quot;mailto:pesos@pes.edu&quot;&gt;pesos@pes.edu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ciao!&lt;br /&gt;
+&lt;strong&gt;Let Knowledge Flow From All Sides.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Aug 2014 21:08:00 -0700</pubDate>
+        <link>/blog/welcome-to-pes-opensource/</link>
+        <guid isPermaLink="true">/blog/welcome-to-pes-opensource/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>It's been six months!</title>
+        <description>&lt;p&gt;Yes. That’s how long it’s been since last I wrote. Not that I wasn’t interested or anything, I had a lot of work! My final year project and my internship at PayPal, eBayInc. It wasn’t easy. Going to work in the morning and coming back to work on the college project. Phew! My college project’s done and its my last week of internship now, ending on June 6th. And the best part - I’m back to working on things I’ve missed since the past 6-7 months!&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;So here’s my checklist -&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Working back on Boost.uBLAS. It was a really exciting project for me, during GSoC and learnt a lot. My GSoC mentors have been amazing and talking to them again brings me back to the game! There’s a pretty neat checklist we have and it’s really interesting!&lt;/li&gt;
+  &lt;li&gt;It’s pretty disappointing for me that I couldn’t work on 0 A.D. as much. The game has changed my perceptions of coding in a significant way. I plan to get back on this soon, though not yet.&lt;/li&gt;
+  &lt;li&gt;PES OpenSource has had a special place in my heart since it started back in 2011 and working with the community to help other students and peers with what I know and getting them to work on open source projects will be something that I’ll be spending my time on surely.&lt;/li&gt;
+  &lt;li&gt;I’m also finally stepping into the other dimension of my world - Music. I have pretty good setup of FL Studio and VSTs and have been learning from &lt;a href=&quot;http://musictheory.net&quot;&gt;Music Theory&lt;/a&gt;. Let’s see what I’m capable of by the end of the year.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There are others that I’ll be spending time on but cannot discuss publicly either because it’s still “hush hush” or not yet begun. Keep an eye on this feed, it’s gonna be very active from now!&lt;/p&gt;
+
+&lt;p&gt;Bye!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 May 2014 10:03:00 -0700</pubDate>
+        <link>/blog/its-been-6-months/</link>
+        <guid isPermaLink="true">/blog/its-been-6-months/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Hollywood in 2014 (for me)</title>
+        <description>&lt;p&gt;2013 is almost closing and its time to take a peak at films of 2014. This list though, is my preference. You can check the &lt;a href=&quot;http://en.wikipedia.org/wiki/2014_in_film&quot;&gt;entire list in wikipedia&lt;/a&gt;. Here, I’ve linked the films to a trailer and a rating of my expectations (arranged by rating and alphabetically).&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3 id=&quot;im-interested-in&quot;&gt;I’m interested in&lt;/h3&gt;
+
+&lt;p&gt;The Hobbit: There and Back Again ★★★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=3WzHXI5HizQ&quot;&gt;Interstellar&lt;/a&gt; ★★★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=mBwsUD7jYCI&quot;&gt;Godzilla&lt;/a&gt; ★★★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=Z9a4PvzlqoQ&quot;&gt;How to Train Your Dragon 2&lt;/a&gt; ★★★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=fZ_JOBCLF-I&quot;&gt;The LEGO Movie&lt;/a&gt; ★★★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=nbp3Ra3Yp74&quot;&gt;The Amazing Spider-Man 2&lt;/a&gt; ★★★½&lt;br /&gt;
+Dumb and Dumber To ★★★½&lt;br /&gt;
+Night at the Museum 3 ★★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=jiHDJ19A3dk&quot;&gt;Non-Stop&lt;/a&gt; ★★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=IkZM1Zc0mBU&quot;&gt;Rio 2&lt;/a&gt; ★★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=t6TRwfxDICM&quot;&gt;Pompeii&lt;/a&gt; ★★★&lt;/p&gt;
+
+&lt;h3 id=&quot;i-can-be-interested-in&quot;&gt;I can be interested in&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=2zqy21Z29ps&quot;&gt;300: Rise of An Empire&lt;/a&gt; ★★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=NLWsK1ZFunA&quot;&gt;Captain America: The Winter Soldier&lt;/a&gt; ★★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=v0wP5ZkaUGg&quot;&gt;Dawn of the Planet of the Apes&lt;/a&gt; ★★★½&lt;br /&gt;
+Transformers: Age of Extinction ★★★½&lt;br /&gt;
+Gaurdians of the Galaxy ★★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=N-ewaCVARtM&quot;&gt;Heaven is for Real&lt;/a&gt; ★★★&lt;br /&gt;
+The Judge ★★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=INmtQXUXez8&quot;&gt;RoboCop&lt;/a&gt; ★★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=pK2zYHWDZKo&quot;&gt;X-Men: Days of Future Past&lt;/a&gt; ★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=eBq1AupSrLI&quot;&gt;Hercules: The Legend Begins&lt;/a&gt; ★★&lt;/p&gt;
+
+&lt;h3 id=&quot;im-not-interested-in&quot;&gt;I’m not interested in&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=fsrJWUVoXeM&quot;&gt;Need For Speed&lt;/a&gt; ★★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=FZtVfmTZftk&quot;&gt;Jack Ryan: Shadow Recruit&lt;/a&gt; ★★½&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=pxOSPfUw3qw&quot;&gt;I, Frankenstein&lt;/a&gt; ★★&lt;br /&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=J39iyK_aqDE&quot;&gt;Paranormal Activity: The Marked Ones&lt;/a&gt; ★½&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Dec 2013 15:51:00 -0800</pubDate>
+        <link>/blog/hollywood-in-2014-for-me/</link>
+        <guid isPermaLink="true">/blog/hollywood-in-2014-for-me/</guid>
+        
+        
+        <category>general</category>
+        
+        <category>film</category>
+        
+        <category>hollywood</category>
+        
+      </item>
+    
+      <item>
+        <title>An introduction to &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt;</title>
+        <description>&lt;p&gt;The write-up of my talk on &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt; for beginners, as a part of &lt;em&gt;Tech Talk Tuesday&lt;/em&gt;, an initiative of &lt;a href=&quot;http://pesos.pes.edu/fb&quot;&gt;PES OpenSource&lt;/a&gt;. I structured my talk based on this book - &lt;a href=&quot;http://tobi.oetiker.ch/lshort/lshort.pdf&quot;&gt;The Not So Short Introduction to &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt;&lt;/a&gt;. So refer this book for all details as I’ve posted the notes I made to deliver my talk.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Donald Knuth
+    &lt;ul&gt;
+      &lt;li&gt;1977 - &lt;span class=&quot;latex&quot;&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt;&lt;/li&gt;
+      &lt;li&gt;1982 - first &lt;span class=&quot;latex&quot;&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt; engine&lt;/li&gt;
+      &lt;li&gt;1989 - enhancements&lt;/li&gt;
+      &lt;li&gt;Why the name &lt;span class=&quot;latex&quot;&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt; ? - Technology&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;about &lt;span class=&quot;latex&quot;&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt; and &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt; - Lay-Tech&lt;/li&gt;
+  &lt;li&gt;Why &lt;span class=&quot;latex&quot;&gt;L&lt;sup&gt;A&lt;/sup&gt;T&lt;sub&gt;E&lt;/sub&gt;X&lt;/span&gt; ?
+    &lt;ul&gt;
+      &lt;li&gt;professional look&lt;/li&gt;
+      &lt;li&gt;mathematics &amp;amp; science&lt;/li&gt;
+      &lt;li&gt;only few commands used to specify the structure&lt;/li&gt;
+      &lt;li&gt;easy generation of footnotes, references, table of contents, etc&lt;/li&gt;
+      &lt;li&gt;add-on packages&lt;/li&gt;
+      &lt;li&gt;highly portable&lt;/li&gt;
+      &lt;li&gt;free&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;basic-layout&quot;&gt;Basic Layout&lt;/h3&gt;
+
+&lt;h5 id=&quot;level--2&quot;&gt;Level -2&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;spaces are uniform &amp;amp; single line break&lt;/li&gt;
+  &lt;li&gt;empty line defines end of para &amp;amp; severl empty lines&lt;/li&gt;
+  &lt;li&gt;10 meta-characters. Escape to print metachar. &lt;code class=&quot;highlighter-rouge&quot;&gt;\textbackslash&lt;/code&gt; to print escape char&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;level--1&quot;&gt;Level -1&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Commands start with &lt;code class=&quot;highlighter-rouge&quot;&gt;\&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;case sensitive&lt;/li&gt;
+  &lt;li&gt;starred variant&lt;/li&gt;
+  &lt;li&gt;terminated with a non-letter&lt;/li&gt;
+  &lt;li&gt;Commands are space-hungry!&lt;/li&gt;
+  &lt;li&gt;use &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;parameters in &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;optional params &lt;code class=&quot;highlighter-rouge&quot;&gt;[]&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\command[optional]{param}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;%&lt;/code&gt; -&amp;gt; Comments&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;verbatim&lt;/code&gt; package. &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{comment}&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;\end{commend}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;level-0&quot;&gt;Level 0&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;file must start with &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;k&quot;&gt;\documentclass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;class&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;
+    &lt;ul&gt;
+      &lt;li&gt;specifies type of document&lt;/li&gt;
+      &lt;li&gt;some commands following this to specify some more details&lt;/li&gt;
+      &lt;li&gt;optional commands -
+        &lt;ul&gt;
+          &lt;li&gt;size, papertype, formulae alignment, titlepage, twosided, openright, landscape, doc, font encoding, etc&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;to load some package &lt;code class=&quot;highlighter-rouge&quot;&gt;\usepackage{name}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;write content within &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{document}&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;\end{document}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\pagestyle{style}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\thispagestyle{style}&lt;/code&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;plain&lt;/code&gt; - page number in footer, middle&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;headings&lt;/code&gt; - headings, page number. empty footer.&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;empty&lt;/code&gt; - both empty&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\include{file}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\includeonly{file,file,...}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;k&quot;&gt;\input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;file&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;typesetting-text&quot;&gt;Typesetting Text&lt;/h3&gt;
+
+&lt;h5 id=&quot;level-1&quot;&gt;Level 1&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\\&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\newline&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\newpage&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\\*&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\linebreak[n]&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\nolinebreak[n]&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\pagebreak[n]&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\nopagebreak[n]&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\hyphenation{word list}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\-&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\mbox{text}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\fbox{text}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\today&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\TeX{}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\LaTeX{}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;quotation marks ` and ‘&lt;/li&gt;
+  &lt;li&gt;ligatures -  ff fi fl etc [Refer book, Sec:2.4.8, page 24]&lt;/li&gt;
+  &lt;li&gt;ellipsis - &lt;code class=&quot;highlighter-rouge&quot;&gt;\ldtos&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\@&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\frenchspacing&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;label{...}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\ref{...}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\pageref{...}&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\footnote{...}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;level-2&quot;&gt;Level 2&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\maketitle&lt;/code&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\title&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\author&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\date&lt;/code&gt; - optional&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\tableofcontents&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;divide publication
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\frontmatter&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\mainmatter&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\appendix&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\backmatter&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\part&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\chapter&lt;/code&gt; - depends on document class&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\section&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\subsection&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;subsubsection&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\paragraph&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\subparagraph&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{...}&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;\end{...}&lt;/code&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;enumerate&lt;/code&gt;
+        &lt;ul&gt;
+          &lt;li&gt;use &lt;code class=&quot;highlighter-rouge&quot;&gt;\item&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;itemize&lt;/code&gt;
+        &lt;ul&gt;
+          &lt;li&gt;use &lt;code class=&quot;highlighter-rouge&quot;&gt;\item&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;description&lt;/code&gt;
+        &lt;ul&gt;
+          &lt;li&gt;use &lt;code class=&quot;highlighter-rouge&quot;&gt;\item[Name] Description ...&lt;/code&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;flushleft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;flushright&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;center&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;quote&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;verse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;verbatim&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;tabular&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;|l|c|r|p{...&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;verbatim&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;\verb+text+&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mathematics--font-handling&quot;&gt;Mathematics &amp;amp; Font handling&lt;/h3&gt;
+
+&lt;p&gt;Refer the &lt;a href=&quot;http://tobi.oetiker.ch/lshort/lshort.pdf&quot;&gt;book&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 27 Oct 2013 14:32:00 -0700</pubDate>
+        <link>/blog/an-introduction-to-latex/</link>
+        <guid isPermaLink="true">/blog/an-introduction-to-latex/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Piano Guys</title>
+        <description>&lt;p&gt;Its a typical day and I’m just looking at &lt;em&gt;Recommended Videos&lt;/em&gt; in my YouTube, which are usually songs/music/mixes; that’s what I listen to. So I’m there, listening to UK Piano’s new video and I find a playlist recommended for me. In that playlist is a &lt;a href=&quot;http://www.youtube.com/watch?v=ydRAb9cwHnA&amp;amp;list=RD03X6a9odk6b_c&quot;&gt;Cello cover of Game of Thrones&lt;/a&gt; by &lt;a href=&quot;http://www.youtube.com/user/BreakofReaIity&quot;&gt;BreakofReality&lt;/a&gt;. YouTube then features &lt;a href=&quot;http://www.youtube.com/watch?v=5wLfOZiAd8Y&quot;&gt;Misty Mountains Orchestral Cover&lt;/a&gt; from &lt;a href=&quot;http://www.imdb.com/title/tt0903624/&quot;&gt;The Hobbit&lt;/a&gt; by &lt;a href=&quot;http://www.youtube.com/user/sleightlymusical&quot;&gt;sleightlymusical&lt;/a&gt; in my &lt;em&gt;Recommended for You&lt;/em&gt; list. Now it comes! Another video recommended for me from &lt;a href=&quot;http://thepianoguys.com/&quot;&gt;ThePianoGuys&lt;/a&gt;. And WOW!&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I just sat back, stopped my work and watched one video after the other. The first one that caught my eye was &lt;strong&gt;Kung Fu Piano: Cello Ascends&lt;/strong&gt;, a play on &lt;strong&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=cdjnonJdxtM&quot;&gt;Oogway Ascends&lt;/a&gt;&lt;/strong&gt; from &lt;a href=&quot;http://www.imdb.com/title/tt0441773/&quot;&gt;Kung Fu Panda&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid1&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/NCaH-qqTWpk&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid2&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/3v-HaH0h6gA&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Before you start thinking there was a green screen for the Great Wall of China, watch the &lt;a href=&quot;http://www.youtube.com/watch?v=3v-HaH0h6gAz&quot;&gt;second video&lt;/a&gt;. They actually got the piano on top of it!&lt;/p&gt;
+
+&lt;p&gt;I didn’t stop there! I then watched the video which YouTube originally recommended for me - A &lt;a href=&quot;http://www.youtube.com/watch?v=FZNqs0YgWkM&quot;&gt;Lord of the Rings cover&lt;/a&gt;. And after that, I continued …&lt;/p&gt;
+
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid3&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/FZNqs0YgWkM&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Music is not just about melody or harmony. Its about enjoying, feeling and extracting the emotions out of the listener and ThePianoGuys do just that. I’ve included some more of the many they’ve made, below. DON’T forget to visit &lt;a href=&quot;http://www.youtube.com/user/ThePianoGuys&quot;&gt;their YouTube channel&lt;/a&gt;!
+Obviously I can’t list all the &lt;a href=&quot;http://www.youtube.com/user/ThePianoGuys/videos&quot;&gt;videos&lt;/a&gt; here!&lt;/p&gt;
+
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid4&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/9p0BqUcQ7i0&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid5&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/lUjWJSnGVB0&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid6&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/P94DusN4LsY&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid7&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/mJ_fkw5j-t0&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A quote by Ludwig Van Beethoven, included in one of the videos -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Don’t only practice your art,&lt;br /&gt;
+but force your way into its secrets,&lt;br /&gt;
+for it and knowledge can raise men to the divine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+var vid1 = document.getElementById(&quot;vid1&quot;);
+var vid2 = document.getElementById(&quot;vid2&quot;);
+var vid3 = document.getElementById(&quot;vid3&quot;);
+var vid4 = document.getElementById(&quot;vid4&quot;);
+var vid5 = document.getElementById(&quot;vid5&quot;);
+var vid6 = document.getElementById(&quot;vid6&quot;);
+var vid7 = document.getElementById(&quot;vid7&quot;);
+if (document.width &lt; 700) {
+    vid1.width = document.width * 0.7;
+    vid2.width = document.width * 0.7;
+    vid3.width = document.width * 0.7;
+    vid4.width = document.width * 0.7;
+    vid5.width = document.width * 0.7;
+    vid6.width = document.width * 0.7;
+    vid7.width = document.width * 0.7;
+} else {
+    vid1.width = document.width * 0.32;
+    vid2.width = document.width * 0.32;
+    vid3.width = document.width * 0.64;
+    vid4.width = document.width * 0.32;
+    vid5.width = document.width * 0.32;
+    vid6.width = document.width * 0.32;
+    vid7.width = document.width * 0.32;
+}
+vid1.height = vid1.width * 0.75;
+vid2.height = vid2.width * 0.75;
+vid3.height = vid3.width * 0.75;
+vid4.height = vid4.width * 0.75;
+vid5.height = vid5.width * 0.75;
+vid6.height = vid6.width * 0.75;
+vid7.height = vid7.width * 0.75;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 15 Oct 2013 17:26:00 -0700</pubDate>
+        <link>/blog/the-piano-guys/</link>
+        <guid isPermaLink="true">/blog/the-piano-guys/</guid>
+        
+        
+        <category>music</category>
+        
+        <category>the-piano-guys</category>
+        
+      </item>
+    
+      <item>
+        <title>0 A.D. Fundraiser: 3 weeks remain!</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://play0ad.com&quot;&gt;0 A.D.&lt;/a&gt; is a free and open source, historical RTS game. The concept of the game was designed in 2003 and was developed for around six years as a closed-source freeware project. In 2009 the game went open source under the GPL license and art content under CC-BY-SA. This steadily attracted a lot of contributors ranging from art designers to programmers to develop the game. Much of the development and contribution started after the project was open sourced.&lt;/p&gt;
+
+&lt;p&gt;Less than a month ago, &lt;a href=&quot;http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/&quot;&gt;0 A.D. launched a crowdfunding campaign in Indiegogo&lt;/a&gt; to help hire two contributors full-time to get it to a release state much sooner and better than its current pace of development.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid3&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;300&quot; src=&quot;http://www.youtube.com/embed/Y-0l7Ej3cM8&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid4&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;300&quot; src=&quot;http://www.youtube.com/embed/DXDxXGTzIf4&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The previous and the current alpha versions have improved the game’s performance and added many new features into the game. The stage is being set for the next alpha release which brings a host of new features including a featured Multiplayer Lobby! No wonder this project pushes the bar up for gaming in Linux open source games.&lt;br /&gt;
+The &lt;a href=&quot;http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/&quot;&gt;Indiegogo campaign&lt;/a&gt; is flexibly funded with targets starting from $40,000 till $240,000 and goals ranging from improving the game performance till releasing the first version of the game within a couple of years.&lt;/p&gt;
+
+&lt;p&gt;The best part of this project being open source is the developer community! They’re not just developers and contributors. They are a family. The modern ancient family. They are a constantly working group, who’ve volunteered to build this game.&lt;/p&gt;
+
+&lt;p&gt;IndieStatik covered an in-depth article about &lt;a href=&quot;http://indiestatik.com/2013/10/01/10-years-in-alpha-how-volunteer-modders-created-0-a-d-with-the-help-of-a-community/&quot;&gt;0 A.D. and its crowdfunding campaign&lt;/a&gt; in which the author beautifully states -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A huge project like 0 A.D. is worthy of people’s time because it’s a community project that people can find resolve in, share stories with others who helped to build it, and in a few months, or a year, or maybe even a decade, they’ll be able to look back at the game and remember the people they met, the things they learned, the things they shared.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I also would like to quote -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It’s remarkable how a project of this size is sustainable with practically no budget, built from the passion of volunteers, who talk with one another, congratulate each other, see newcomers arrive and welcome them with open arms.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For there is no greater gift in the world than knowledge!&lt;br /&gt;
+Donate to the 0 A.D. Project and be a part of this great community.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; http://play0ad.com&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Indiegogo Campaign:&lt;/strong&gt; http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IRC Channels:&lt;/strong&gt; &lt;a href=&quot;http://webchat.quakenet.org/?channels=#0ad&quot;&gt;#0ad&lt;/a&gt; and &lt;a href=&quot;http://webchat.quakenet.org/?channels=#0ad-dev&quot;&gt;#0ad-dev&lt;/a&gt; on QuakeNet IRC&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;I’ve included some screenshots below for you to have a quick look at the game!&lt;/p&gt;
+
+&lt;p&gt;A Village in Gaul and Depth and Fog rendering!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/1237349_10151914968049859_1015039661_o.jpg&quot; alt=&quot;A Village in Gaul&quot; /&gt;
+&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/tilt-shift-filter.jpg&quot; alt=&quot;Depth and Fog Rendering&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Persian Heavy Infantry and 0 A.D.’s Atlas Map Editor&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/alpha-8-persianheavyinfantry.jpg&quot; alt=&quot;Persian Heavy Infantry&quot; /&gt;
+&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/scr.png&quot; alt=&quot;Atlas Editor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oasis in 0 A.D. Desert and Water Rendering effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/screenshot0343.png&quot; alt=&quot;Oasis&quot; /&gt;
+&lt;img src=&quot;https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/1073220_10151752821764859_690497580_o.jpg&quot; alt=&quot;Care for a swim?&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Building an Empire on Islands and Whales in oceans!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/screenshot0072.jpg&quot; alt=&quot;Island Life&quot; /&gt;
+&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/screenshot0060.jpg&quot; alt=&quot;Whales&quot; /&gt;&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+    var elem = $(&quot;#content img&quot;).eq(0).load(function() {
+        var width = $(this).width();
+        var height = $(this).height();
+        var vid3 = document.getElementById(&quot;vid3&quot;);
+        var vid4 = document.getElementById(&quot;vid4&quot;);
+        vid3.width = vid4.width = width;
+        vid3.height = vid4.height = height;
+    });
+    $(&quot;#content img&quot;).eq(4).load(function() {
+        var img2 = $(this);
+        $(&quot;#content img&quot;).eq(5).load(function() {
+            img2.height($(this).height());
+        });
+    });
+    $(&quot;#content img&quot;).eq(1).load(function() {
+        var img2 = $(this);
+        $(&quot;#content img&quot;).eq(0).load(function() {
+            img2.height($(this).height());
+        });
+    });
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 02 Oct 2013 01:23:00 -0700</pubDate>
+        <link>/blog/0ad-fundraiser-3-weeks/</link>
+        <guid isPermaLink="true">/blog/0ad-fundraiser-3-weeks/</guid>
+        
+        
+        <category>tech</category>
+        
+        <category>games</category>
+        
+        <category>open-source</category>
+        
+        <category>indiegogo</category>
+        
+      </item>
+    
+      <item>
+        <title>Cool C Programming</title>
+        <description>&lt;p&gt;This post contains the writeup of my talk on &lt;strong&gt;Cool C Programming&lt;/strong&gt; as part of the &lt;strong&gt;Tech Talk Tuesday&lt;/strong&gt; series by &lt;strong&gt;&lt;a href=&quot;http://pesos.pes.edu&quot;&gt;PES OpenSource&lt;/a&gt;&lt;/strong&gt; at PES Institute of Technology.
+(Please ignore any typos in this post; its pretty long and I wrote it in a hurry!)&lt;/p&gt;
+
+&lt;h2 id=&quot;the-c-preprocessor&quot;&gt;The C Preprocessor&lt;/h2&gt;
+
+&lt;p&gt;In the C Program build process, there are three main phases.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Preprocessing&lt;/li&gt;
+  &lt;li&gt;Compiling&lt;/li&gt;
+  &lt;li&gt;Linking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The C Preprocessor is dumb! It does not know anything about a C program. It is mainly used to manage the program’s text according to our needs before the compiler begins its task. Managing involves including of header files, conditional inclusion of pieces of code, expanding macros, etc.&lt;br /&gt;
+&lt;!-- more --&gt;
+If you want to see the output of the preprocessor, you can use the &lt;code class=&quot;highlighter-rouge&quot;&gt;-E&lt;/code&gt; flag for the compiler; ie compile the program as &lt;code class=&quot;highlighter-rouge&quot;&gt;gcc -E file.c&lt;/code&gt;. This dumps the preprocessed output of file.c onto your terminal.&lt;/p&gt;
+
+&lt;p&gt;There are three standard input/output buffers&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;stdin&lt;/code&gt; The input buffer&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;stdout&lt;/code&gt; The default output buffer&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;stderr&lt;/code&gt; The output buffer for error/log messages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;conditional-syntax---ifdef-and-ifndef&quot;&gt;Conditional Syntax - &lt;code class=&quot;highlighter-rouge&quot;&gt;#ifdef&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;#ifndef&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt;The preprocessor directive &lt;code class=&quot;highlighter-rouge&quot;&gt;#ifdef&lt;/code&gt; is used to define conditional groups of code at the preprocessor level. Based on a condition, a piece of code may or may not be included in the program. The body of this directive is usually termed &lt;em&gt;controlled text&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#ifdef SOME_MACRO
+&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//some piece of code
+&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;#endif
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In the above example, the body of &lt;code class=&quot;highlighter-rouge&quot;&gt;#ifdef&lt;/code&gt; is included only if &lt;code class=&quot;highlighter-rouge&quot;&gt;SOME_MACRO&lt;/code&gt; is defined. The &lt;code class=&quot;highlighter-rouge&quot;&gt;#define&lt;/code&gt; directive is used to define MACROs.&lt;/p&gt;
+
+&lt;h4 id=&quot;example&quot;&gt;Example&lt;/h4&gt;
+
+&lt;p&gt;Here’s a sample program.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#ifdef SOME_MACRO
+&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#endif
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig11&quot;&gt;Fig(1.1)&lt;/h6&gt;
+
+&lt;p&gt;Observe that &lt;code class=&quot;highlighter-rouge&quot;&gt;SOME_MACRO&lt;/code&gt; is not defined. And hence the controlled text should not be included. And here’s the output of the preprocessor (compiled with &lt;code class=&quot;highlighter-rouge&quot;&gt;-E&lt;/code&gt; option)&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;# 1 &quot;1.c&quot;
+# 1 &quot;&amp;lt;command-line&amp;gt;&quot;
+# 1 &quot;/usr/include/stdc-predef.h&quot; 1 3 4
+# 1 &quot;&amp;lt;command-line&amp;gt;&quot; 2
+# 1 &quot;1.c&quot;
+&lt;/span&gt;
+
+
+
+
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig12&quot;&gt;Fig(1.2)&lt;/h6&gt;
+
+&lt;p&gt;Let me now define the MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;#ifdef&lt;/code&gt; using &lt;code class=&quot;highlighter-rouge&quot;&gt;#define&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define SOME_MACRO
+&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#ifdef SOME_MACRO
+&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#endif
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig13&quot;&gt;Fig(1.3)&lt;/h6&gt;
+
+&lt;p&gt;And this is the output of the preprocessor now.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;# 1 &quot;1.c&quot;
+# 1 &quot;&amp;lt;command-line&amp;gt;&quot;
+# 1 &quot;/usr/include/stdc-predef.h&quot; 1 3 4
+# 1 &quot;&amp;lt;command-line&amp;gt;&quot; 2
+# 1 &quot;1.c&quot;
+&lt;/span&gt;
+
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig14&quot;&gt;Fig(1.4)&lt;/h6&gt;
+
+&lt;p&gt;You can observe that when the macro is defined, the controlled text is included. Note again, that the preprocessor does not know that the controlled text is a function or any of the C constructs. All it sees is some text.&lt;br /&gt;
+You can also define MACROs when invoking the compiler with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-D&lt;/code&gt; option. Compiling the code in Fig(1.1) as &lt;code class=&quot;highlighter-rouge&quot;&gt;gcc -E -DSOME_MACRO 1.c&lt;/code&gt; gives me the same output as Fig(1.4).&lt;/p&gt;
+
+&lt;p&gt;MACROs also can be object-like MACROs and function-like MACROs.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define BAR 5
+#define FOO(X) printf(&quot;%d&quot;, X)
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;//FOO is a function-like MACRO and BAR is an object-like MACRO.
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;FOO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BAR&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig15&quot;&gt;Fig(1.5)&lt;/h6&gt;
+
+&lt;p&gt;Here’s the preprocessed output of the code in Fig(1.5)&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;# 1 &quot;1.c&quot;
+# 1 &quot;&amp;lt;command-line&amp;gt;&quot;
+# 1 &quot;/usr/include/stdc-predef.h&quot; 1 3 4
+# 1 &quot;&amp;lt;command-line&amp;gt;&quot; 2
+# 1 &quot;1.c&quot;
+&lt;/span&gt;
+
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig16&quot;&gt;Fig(1.6)&lt;/h6&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;BAR&lt;/code&gt; is an object-like MACRO which the preprocessor substitutes as 5, according to its definition. Therefore, the MACRO call &lt;code class=&quot;highlighter-rouge&quot;&gt;FOO(BAR)&lt;/code&gt; is now &lt;code class=&quot;highlighter-rouge&quot;&gt;FOO(5)&lt;/code&gt;. It then expands the function-like MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;FOO&lt;/code&gt; with its parameter as 5. You therefore see &lt;code class=&quot;highlighter-rouge&quot;&gt;printf(&quot;%d&quot;, 5);&lt;/code&gt;. Note that the &lt;code class=&quot;highlighter-rouge&quot;&gt;printf&lt;/code&gt; of &lt;code class=&quot;highlighter-rouge&quot;&gt;FOO&lt;/code&gt; does not end with a semicolon. But the MACRO is used with a semicolon &lt;code class=&quot;highlighter-rouge&quot;&gt;FOO(...);&lt;/code&gt;. This ensures that printf ends with a semicolon. Why this approach? Its a standard convention to end every statement of a C program with a semicolon and it would be very odd to have some line not ending with it.&lt;/p&gt;
+
+&lt;h3 id=&quot;and-now-for-a-few-tricks&quot;&gt;And now for a few tricks&lt;/h3&gt;
+
+&lt;h4 id=&quot;creating-debug-macros&quot;&gt;Creating debug MACROs&lt;/h4&gt;
+
+&lt;p&gt;Lot of programmers are used to debug by logging the program’s execution. This can be as simple as using &lt;code class=&quot;highlighter-rouge&quot;&gt;printf&lt;/code&gt; all over the code to print messages (on the &lt;code class=&quot;highlighter-rouge&quot;&gt;stderr&lt;/code&gt; buffer) and use this information to debug. Further more, you may want to write pieces of code to mainly check the correctness of the program (only while you’re developing it). When its time for you to release your code, you’ll have to remove all the logging statements, blocks of code which was used to check correctness, etc. This brings in a lot of work the developer. Additionally, if at some later point of time, the user had to improve his code, he might want to insert all such blocks again (its literally a headache!).&lt;br /&gt;
+Now, the preprocessor turns out to be very helpful!&lt;/p&gt;
+
+&lt;p&gt;The following program demonstrates three features widely used in C Programs. We’ll go through each one by one&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+#include &amp;lt;assert.h&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#ifdef CHECK_ENABLED
+#define CHECK(X, Y) \
+do { printf(&quot;Performing Assertion\n&quot;); assert((X - Y) != 0); printf(&quot;Assertion passed\n&quot;); } while (0)
+#else
+#define CHECK(X, Y)
+#endif
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;CHECK&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d: %d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__LINE__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig17&quot;&gt;Fig(1.7)&lt;/h6&gt;
+
+&lt;p&gt;Let this be a file, &lt;em&gt;debug.c&lt;/em&gt; .
+What is this program trying to do? This program calls the function &lt;code class=&quot;highlighter-rouge&quot;&gt;foo()&lt;/code&gt; with 2 arguments, &lt;code class=&quot;highlighter-rouge&quot;&gt;x&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;y&lt;/code&gt;.; and foo wants perform the operation &lt;code class=&quot;highlighter-rouge&quot;&gt;(x + y) / (x - y)&lt;/code&gt;. It also uses a function-like MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK&lt;/code&gt; which expands to an assert statement (forget about the &lt;code class=&quot;highlighter-rouge&quot;&gt;do {...} while(0)&lt;/code&gt; for now). &lt;code class=&quot;highlighter-rouge&quot;&gt;assert&lt;/code&gt; is a library function declared in &lt;code class=&quot;highlighter-rouge&quot;&gt;assert.h&lt;/code&gt; which aborts the program if the given assertion fails (in this example &lt;code class=&quot;highlighter-rouge&quot;&gt;(x - y) != 0&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;According to our expectations, The program and must execute the first &lt;code class=&quot;highlighter-rouge&quot;&gt;foo(4, 3)&lt;/code&gt; function call and should fail when trying execute the second &lt;code class=&quot;highlighter-rouge&quot;&gt;foo(4, 4)&lt;/code&gt; function call because of division by zero (Forget about the &lt;code class=&quot;highlighter-rouge&quot;&gt;__LINE__&lt;/code&gt; in the printf). Now let me compile it without defining the &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK_ENABLED&lt;/code&gt; MACRO. Compile with &lt;code class=&quot;highlighter-rouge&quot;&gt;gcc debug.c&lt;/code&gt; and run &lt;code class=&quot;highlighter-rouge&quot;&gt;./a.out&lt;/code&gt;; the following is the output.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;14: 7
+Floating point exception (core dumped)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig18&quot;&gt;Fig(1.8)&lt;/h6&gt;
+
+&lt;p&gt;It worked as expected. The program printed “7” and failed when executing the second &lt;code class=&quot;highlighter-rouge&quot;&gt;foo(4, 4)&lt;/code&gt; function call because of the division with zero. Let me now compile with also defining the &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK_ENABLED&lt;/code&gt; MACRO. Compile with &lt;code class=&quot;highlighter-rouge&quot;&gt;gcc debug.c DCHECK_ENABLED&lt;/code&gt; and run &lt;code class=&quot;highlighter-rouge&quot;&gt;./a.out&lt;/code&gt; and here’s the output.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Performing Assertion
+Assertion passed
+14: 7
+Performing Assertion
+a.out: 1_preprocessor.c:13: foo: Assertion `(x - y) != 0' failed.
+Aborted (core dumped)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig19&quot;&gt;Fig(1.9)&lt;/h6&gt;
+
+&lt;p&gt;Wow! That’s magic! The program did not even try to perform the division because the assertion &lt;code class=&quot;highlighter-rouge&quot;&gt;(4 - 4) != 0&lt;/code&gt; failed and also printed a lot of debugging messages!&lt;/p&gt;
+
+&lt;p&gt;Let us now analyze what happened.&lt;br /&gt;
+In Fig(1.9), the program was compiled with the &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK_ENABLED&lt;/code&gt; MACRO defined which included the following controlled text in the program.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define CHECK(X, Y) \
+do { printf(&quot;Performing Assertion\n&quot;); assert((X - Y) != 0); printf(&quot;Assertion passed\n&quot;); } while (0)
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig110&quot;&gt;Fig(1.10)&lt;/h6&gt;
+
+&lt;p&gt;This defines a function-like MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK(X, Y)&lt;/code&gt; to be &lt;code class=&quot;highlighter-rouge&quot;&gt;do { printf(&quot;Performing Assertion\n&quot;); assert((X - Y) != 0); printf(&quot;Assertion passed\n&quot;); } while (0)&lt;/code&gt;. Hence this function-like MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK(X, Y);&lt;/code&gt; expands to &lt;code class=&quot;highlighter-rouge&quot;&gt;do { printf(&quot;Performing Assertion\n&quot;); assert((X - Y) != 0); printf(&quot;Assertion passed\n&quot;); } while (0)&lt;/code&gt;. With &lt;code class=&quot;highlighter-rouge&quot;&gt;foo(4, 3);&lt;/code&gt; this assertion succeeds and prints “7”; with &lt;code class=&quot;highlighter-rouge&quot;&gt;foo(4, 4&quot;);&lt;/code&gt; this assertion fails and the program aborts.&lt;/p&gt;
+
+&lt;p&gt;When the program is compiled without defining &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK_ENABLED&lt;/code&gt; MACRO [refer Fig(1.8)], the controlled text in the else portion of the conditional group gets included in the program. ie&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define CHECK(X, Y)
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig111&quot;&gt;Fig(1.11)&lt;/h6&gt;
+
+&lt;p&gt;This defines a function-like MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK(X, Y)&lt;/code&gt; to nothing! So the function-like MACRO expands to nothing! ie the assertion is not in the code any more and so the program prints “7” and gets a floating point exception when trying a division with zero.&lt;/p&gt;
+
+&lt;p&gt;So what just happened? In Fig(1.9) the program was executed in a debugging mode; the debugging mode in the above example was enabled by defining the &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK_ENABLED&lt;/code&gt; MACRO; and in this debugging mode, the assertion statement was included in the code and the program aborted stating where it failed and why. The debugging mode also included some debugging messages which I printed so that I’d know what went wrong and where.&lt;br /&gt;
+When the debugging mode wasn’t enabled (by not defining the &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK_ENABLED&lt;/code&gt; MACRO), the assertion wasn’t included in the code by the preprocessor as &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK(X, Y)&lt;/code&gt; expands to nothing. Now the program crashes.&lt;br /&gt;
+Look at the error that comes up - &lt;code class=&quot;highlighter-rouge&quot;&gt;Floating point exception (core dumped)&lt;/code&gt;. You cannot make out what happened where! The runtime threw an error message and exited the program. Whereas when the debugging is enabled, the assertion gives a better error message - &lt;code class=&quot;highlighter-rouge&quot;&gt;a.out: 1_preprocessor.c:13: foo: Assertion &lt;/code&gt;(x - y) != 0’ failed.&lt;code class=&quot;highlighter-rouge&quot;&gt;. It failed in line 13. That's where the function-like MACRO &lt;/code&gt;CHECK(x, y)` expands.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick #1&lt;/strong&gt; : In short, you can now run your program in debug mode and release mode by just defining / not-defining a debug MACRO. Normally this debug MACRO is &lt;code class=&quot;highlighter-rouge&quot;&gt;DEBUG&lt;/code&gt;. I’ve used &lt;code class=&quot;highlighter-rouge&quot;&gt;CHECK_ENABLED&lt;/code&gt; in the example to include some checks. You must also understand now that in the release mode, we only concentrate on execution of the program and not error checking because they can make the program slower. Imagine calling the &lt;code class=&quot;highlighter-rouge&quot;&gt;foo(4, 3)&lt;/code&gt; a million times in the debug mode. The assert function is called a million times but your intention is to check the correctness of the code and not the execution speed. In the release mode, the assertion is not even there and so your program executes much faster and is assumed to be correct.&lt;br /&gt;
+Nice trick huh? Such an amazing work around to solve such an important problem and that too with just using the C Preprocessor!&lt;/p&gt;
+
+&lt;p&gt;I mentioned long back that there are three features the above program [Fig(1.7)] tries to show. The first was the debug/release switch which we have covered in detail. The second is this very odd statement -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Performing Assertion&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;assert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Assertion passed&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig112&quot;&gt;Fig(1.12)&lt;/h6&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick #2&lt;/strong&gt; : Why the &lt;code class=&quot;highlighter-rouge&quot;&gt;do { ... } while(0)&lt;/code&gt; ??! Why can’t I just write a set of statements? Maybe because I wanted to group them. Then why couldn’t I just use &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; instead of the do while zero?&lt;br /&gt;
+Consider this situation&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define FOO(X, Y) printf(&quot;%s\n&quot;, X); printf(&quot;%s\n&quot;, Y)
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;cm&quot;&gt;/*some condition*/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;FOO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;YES&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;TRUE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig113&quot;&gt;Fig(1.13)&lt;/h6&gt;
+
+&lt;p&gt;Remember that its a standard convention not to end the code within a function-like MACRO with a semicolon (because the MACRO is used with a semicolon at the end)? So the second &lt;code class=&quot;highlighter-rouge&quot;&gt;printf&lt;/code&gt; doesn’t end with a semicolon, its taken care of later.&lt;br /&gt;
+An if condition is associated only with the statement/block following it. After the function-like MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;FOO(X, Y)&lt;/code&gt; expands, we have something like the following -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;cm&quot;&gt;/*some condition*/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;YES&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;TRUE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig114&quot;&gt;Fig(1.14)&lt;/h6&gt;
+
+&lt;p&gt;Note that the first printf gets associated with the if condition and not the second! So “TRUE” is always printed. What a bug! So to avoid this let me rewrite the program as follows -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define FOO(X, Y) { printf(&quot;%s\n&quot;, X); printf(&quot;%s\n&quot;, Y) }
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;cm&quot;&gt;/*some condition*/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;FOO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;YES&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;TRUE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;FOO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;NO&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;FALSE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig115&quot;&gt;Fig(1.15)&lt;/h6&gt;
+
+&lt;p&gt;Notice that I’ve now included flower brackets to group the two printfs into a block and I also wanted an else portion which I’ve included. This sounds fine. Lets now observe what happens when the function-like MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;FOO(X, Y)&lt;/code&gt; expands.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;cm&quot;&gt;/*some condition*/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;YES&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;TRUE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;NO&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;FALSE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig116&quot;&gt;Fig(1.16)&lt;/h6&gt;
+
+&lt;p&gt;Observe that the second printf doesn’t end with a semicolon but the blocks end with a semicolon, because the semicolon was present after the MACRO. This will through a bunch of errors because printf doesn’t have a semicolon to start with and there’s a semicolon after the if block (which ends the if block) so the else portion becomes stray code without a corresponding if! Uff! This is crazy! Well, no. Here is why do while zero is used. Lets rewrite the program using do while zero&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#define FOO(X, Y) do { printf(&quot;%s\n&quot;, X); printf(&quot;%s\n&quot;, Y); } while(0)
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;cm&quot;&gt;/*some condition*/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;FOO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;YES&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;TRUE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;FOO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;NO&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;FALSE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig117&quot;&gt;Fig(1.17)&lt;/h6&gt;
+
+&lt;p&gt;When the MACRO expands, we get it like this -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;cm&quot;&gt;/*some condition*/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;YES&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;TRUE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;NO&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;FALSE&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig118&quot;&gt;Fig(1.18)&lt;/h6&gt;
+
+&lt;p&gt;You can now see that the if block contains one statement which is a loop. All the statements are placed in that loop and this loop executes only once because the condition fails. Isn’t that amazing?!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick #3&lt;/strong&gt; : And lastly, the third feature the program uses is &lt;code class=&quot;highlighter-rouge&quot;&gt;printf(&quot;%d&quot;, __LINE__);&lt;/code&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;__LINE__&lt;/code&gt; is a preprocessor MACRO that expands to current line number in the source file, as an integer. &lt;code class=&quot;highlighter-rouge&quot;&gt;__LINE__&lt;/code&gt; is useful when generating log statements, debug messages, etc. There’s also &lt;code class=&quot;highlighter-rouge&quot;&gt;__FILE__&lt;/code&gt; which expands to the current file name.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick #4&lt;/strong&gt; : Consider the following header file (say &lt;em&gt;file.h&lt;/em&gt;)&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig119&quot;&gt;Fig(1.19)&lt;/h6&gt;
+
+&lt;p&gt;Now if your project contains a lot of files and you include this header file in many of them and compile, you’ll encounter errors of redeclaration! And so header files begin with the following construct&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#ifndef FILE_H
+#define FILE_H
+&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;cp&quot;&gt;#endif
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig120&quot;&gt;Fig(1.20)&lt;/h6&gt;
+
+&lt;p&gt;So what’s the change now? When some .c file which includes this header is being compiled, it sees the directive &lt;code class=&quot;highlighter-rouge&quot;&gt;#ifndef FILE_H ... #endif&lt;/code&gt;; which basically means include the controlled text if the MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;FILE_H&lt;/code&gt; is not defined. But wait, what is this present in the controlled text? &lt;code class=&quot;highlighter-rouge&quot;&gt;#define FILE_H&lt;/code&gt;. What I’m doing is defining the MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;FILE_H&lt;/code&gt; and including the header contents if &lt;code class=&quot;highlighter-rouge&quot;&gt;FILE_H&lt;/code&gt; was previously not declared. Now when another file is being compiled which includes the same header, the compiler sees that the MACRO &lt;code class=&quot;highlighter-rouge&quot;&gt;FILE_H&lt;/code&gt;  is defined now and skips including the controlled text of the conditional group avoiding redeclaration of structures and other entities of a header file.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 5&lt;/strong&gt; : This is the last preprocessor feature I’ll be discussing! The C preprocessor gives two directives &lt;code class=&quot;highlighter-rouge&quot;&gt;#warning&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;#error&lt;/code&gt;. I expect you might have guessed their uses. Consider the following code snippet -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#ifdef USE_OLD_FOO
+#warning &quot;Using old foo(). This is deprecated! You are getting this message because USE_OLD_FOO is defined&quot;
+&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;//This implementation is no longer recommended for use. 
+&lt;/span&gt;    &lt;span class=&quot;cm&quot;&gt;/*
+    Some implementation
+    */&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#else
+&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;//A better foo implementation
+&lt;/span&gt;    &lt;span class=&quot;cm&quot;&gt;/*
+    Some implementation
+    */&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#endif
+&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig121&quot;&gt;Fig(1.21)&lt;/h6&gt;
+
+&lt;p&gt;The above snippet includes the old version of the function &lt;code class=&quot;highlighter-rouge&quot;&gt;foo()&lt;/code&gt; if &lt;code class=&quot;highlighter-rouge&quot;&gt;USE_OLD_FOO&lt;/code&gt; is defined, else by default the new version would be used. One may need to use old versions of codes for legacy support (say). But when using the old version, the developer would like to warn the user about it. In such cases, you can use the &lt;code class=&quot;highlighter-rouge&quot;&gt;#warning&lt;/code&gt; directive. The &lt;code class=&quot;highlighter-rouge&quot;&gt;#errror&lt;/code&gt; is similar, but throws an error&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;swapping-two-variables&quot;&gt;Swapping two variables&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 6&lt;/strong&gt; : This is more a programming trick than a trick in C. To swap two variables without using additional space or arithmetic operators, you can simply use the xor operator; like so -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;^&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;^&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;^&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig21&quot;&gt;Fig(2.1)&lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;pointers-in-c&quot;&gt;Pointers in C&lt;/h2&gt;
+
+&lt;h3 id=&quot;arrays-and-pointers-not-entirely-the-same&quot;&gt;Arrays and Pointers not entirely the same!&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 7&lt;/strong&gt; : One of the heavily misunderstood concepts of C is that pointers and arrays are the same. They are not. Pointers are merely variables holding the address of some location where as an array is conceptualized as a sequence of memory locations of a type. At compile time, an array is an array. Only during runtime, an array degenerates to a pointer. To prove this fact, let me show you an example -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;%d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;sizeof&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;sizeof&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig31&quot;&gt;Fig(3.1)&lt;/h6&gt;
+
+&lt;p&gt;And the output is (assuming size of int is 4 bytes and address size is 8 bytes) -&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;40
+8
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig32&quot;&gt;Fig(3.2)&lt;/h6&gt;
+
+&lt;p&gt;See what happens? At compile time, the compiler has information regarding the array. It drops all the information in the end and so at runtime, an array acts like a constant pointer.&lt;/p&gt;
+
+&lt;h3 id=&quot;vindex-and-indexv-are-the-same&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;v[index] and index[v]&lt;/code&gt; are the same&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 8&lt;/strong&gt; : Yes arrays and pointers are not the same, but are interpreted in the same way; by dereferencing them to get the value. The indexing operation &lt;code class=&quot;highlighter-rouge&quot;&gt;v[index]&lt;/code&gt; where &lt;code class=&quot;highlighter-rouge&quot;&gt;v&lt;/code&gt; is some array and &lt;code class=&quot;highlighter-rouge&quot;&gt;index&lt;/code&gt; is some index is internally converted to &lt;code class=&quot;highlighter-rouge&quot;&gt;*(v + index)&lt;/code&gt;. The funny thing now is that if you use this as &lt;code class=&quot;highlighter-rouge&quot;&gt;index[v]&lt;/code&gt;, its converted to &lt;code class=&quot;highlighter-rouge&quot;&gt;*(index + v)&lt;/code&gt; and both mean the same!&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;standard-io&quot;&gt;Standard I/O&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 9&lt;/strong&gt; :You are no doubt familiar with &lt;code class=&quot;highlighter-rouge&quot;&gt;scanf&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;printf&lt;/code&gt; functions. You also be familiar with &lt;code class=&quot;highlighter-rouge&quot;&gt;fscanf&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;fprintf&lt;/code&gt; if you have worked on file handling. 
+For example -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;FILE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fptr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fopen&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;some_file.txt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;r&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;fscanf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fptr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;%s %d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Name: %s&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Age: %d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;fclose&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fptr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig41&quot;&gt;Fig(4.1)&lt;/h6&gt;
+
+&lt;p&gt;The above snippet demonstrates reading from a file using &lt;code class=&quot;highlighter-rouge&quot;&gt;fscanf&lt;/code&gt;.&lt;br /&gt;
+How about this? You have a string containing two integers and you’d like to read from that. Its not a file name, its a character array. C provides reading and writing to character arrays (or C strings) with the use of &lt;code class=&quot;highlighter-rouge&quot;&gt;sscanf&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;sprintf&lt;/code&gt;.&lt;br /&gt;
+Let me demonstrate this -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;10 20&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;sscanf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;%d %d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;sprintf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;%d %d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%s&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig42&quot;&gt;Fig(4.2)&lt;/h6&gt;
+
+&lt;p&gt;In the above snippet, a string contains two numbers 10 and 20 (as characters of the string). Using sscanf you can read these to variables and also write back to the C string!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 10&lt;/strong&gt; : &lt;code class=&quot;highlighter-rouge&quot;&gt;scanf&lt;/code&gt; is probably one of the most magical function in C. To know more about the tricks in &lt;code class=&quot;highlighter-rouge&quot;&gt;scanf&lt;/code&gt;, visit &lt;a href=&quot;http://qr.ae/IHQTN&quot;&gt;my answer in quora&lt;/a&gt; about the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 11&lt;/strong&gt; : One of the many problems with C strings is reading them; C strings can easily overflow if a string longer than size of the character array is entered. &lt;code class=&quot;highlighter-rouge&quot;&gt;scanf&lt;/code&gt; is useless and so is &lt;code class=&quot;highlighter-rouge&quot;&gt;gets&lt;/code&gt;. The best function to use when reading strings is &lt;code class=&quot;highlighter-rouge&quot;&gt;fgets&lt;/code&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;fgets&lt;/code&gt; takes the string, the length to be read and the file stream where the string is to be read from as arguments. If you want to read from the console, you can use &lt;code class=&quot;highlighter-rouge&quot;&gt;stdin&lt;/code&gt; as your input file stream. The function call would then go like this -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//some length; maybe known later.
+&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//works from c99
+&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;fgets&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;stdin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//reads max n characters to 'str' from stdin.
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig43&quot;&gt;Fig(4.3)&lt;/h6&gt;
+
+&lt;p&gt;You can also use the new &lt;code class=&quot;highlighter-rouge&quot;&gt;gets_s&lt;/code&gt; function; but &lt;code class=&quot;highlighter-rouge&quot;&gt;fgets&lt;/code&gt; is pretty much the standard convention.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;c99-c11-and-misc&quot;&gt;C99, C11 and misc&lt;/h2&gt;
+
+&lt;p&gt;You’ve been using the old fashioned way of initializing C structures right? Like so -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;123&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d %d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig51&quot;&gt;Fig(5.1)&lt;/h6&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 12&lt;/strong&gt; : C99 provides a new way of doing the same with more ease. Like so -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;123&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// C99 style
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d %d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig52&quot;&gt;Fig(5.2)&lt;/h6&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 13&lt;/strong&gt; : C99 also provides a mechanism to initialize only certain indices of an array.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//initializes a[0] and a[50] to 1 and the rest 0
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%d %d %d %d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;51&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig53&quot;&gt;Fig(5.3)&lt;/h6&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 14&lt;/strong&gt; : Did you know about the &lt;code class=&quot;highlighter-rouge&quot;&gt;atexit&lt;/code&gt; function? This function can be used to register functions that are to be called when the program finishes its execution! For example -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+#include &amp;lt;stdlib.h&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Goodbye Foo!&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Goodbye Bar!&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;wchar_t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[])&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;atexit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;atexit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig54&quot;&gt;Fig(5.4)&lt;/h6&gt;
+
+&lt;p&gt;Notice that &lt;code class=&quot;highlighter-rouge&quot;&gt;foo&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;bar&lt;/code&gt; functions haven’t been called but are registered to be called when the program exits. Such functions should not return anything nor accept any arguments. You can register upto 32 such functions. They’ll be called in the LIFO order.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 15&lt;/strong&gt; : I found this somewhere in stackoverflow. It seems that a game the developer had to initialize a huge two dimensional float array with lots of values. And he employed this to do so -&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;double&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SIZE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SIZE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;cp&quot;&gt;#include &quot;float_values.txt&quot;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig56&quot;&gt;Fig(5.6)&lt;/h6&gt;
+
+&lt;p&gt;The file &lt;em&gt;float_values.txt&lt;/em&gt; contains all the values to be initialized in the array. This way, the values are not inlined in the file containing the code. The preprocessor will have included that file. Nice idea!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feature/Trick 16&lt;/strong&gt; : C11 has introduced something great! Heard of templates in C++ where you could write type independent code? Well, that’s possible in a slightly different way in C11 now! Want to see how? Scroll down a little.&lt;/p&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+#include &amp;lt;stdlib.h&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;printchar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;char: %c&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;printint&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;int: %d&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;printfloat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;float: %f&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;printdouble&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;double&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;double: %lf&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#define print(X) _Generic((X), \
+                               char: printchar, \
+                               int: printint, \
+                               float: printfloat, \
+                               double: printdouble)(X)
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;sc&quot;&gt;'a'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h6 id=&quot;fig57&quot;&gt;Fig(5.7)&lt;/h6&gt;
+
+&lt;p&gt;The above program illustrates a generic &lt;code class=&quot;highlighter-rouge&quot;&gt;print&lt;/code&gt; function which adapts to the type of the argument sent! How is this achieved? C11 introduced the &lt;code class=&quot;highlighter-rouge&quot;&gt;_Generic&lt;/code&gt; keyword. This maps the type and the corresponding function that should be called for the type. You can abstract this to a function-like MACRO. In the above program, a function-like macro &lt;code class=&quot;highlighter-rouge&quot;&gt;print(X)&lt;/code&gt; is defined to expand to the &lt;code class=&quot;highlighter-rouge&quot;&gt;_Generic&lt;/code&gt; keyword construct. This takes in as its first argument &lt;code class=&quot;highlighter-rouge&quot;&gt;_Generic((X), ...&lt;/code&gt;as the parameter and the rest map the type to the function that needs to be called &lt;code class=&quot;highlighter-rouge&quot;&gt;_Generic((X), char: printchar, int: printint, ...&lt;/code&gt;; in the end this construct is invoked like a function by passing the value &lt;code class=&quot;highlighter-rouge&quot;&gt;...double: printdouble)(X)&lt;/code&gt;. The abstract function-like MACRO can be used to call this type-generic function and that’s cool!&lt;/p&gt;
+
+&lt;p&gt;That’s it folks! Hope you enjoyed reading this!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Sep 2013 20:33:00 -0700</pubDate>
+        <link>/blog/cool-c-programming/</link>
+        <guid isPermaLink="true">/blog/cool-c-programming/</guid>
+        
+        
+        <category>tech</category>
+        
+        <category>c</category>
+        
+        <category>tricks</category>
+        
+      </item>
+    
+      <item>
+        <title>0 A.D. Game</title>
+        <description>&lt;p&gt;I grew up in a time where Age of Empires was everything! You can’t find many people who haven’t played it. Many others followed suit; Empire Earth for example. But they were not like Age of Empires. Ensemble Studios (now Microsoft Studios) did revolutionize the real-time strategy genre of computer games.&lt;br /&gt;
+The question is, how many who played have actually bought it?
+&lt;!-- more --&gt;
+In this era where we look for free (as in cost) software/games, open source software/games really are a good replacement.&lt;/p&gt;
+
+&lt;p&gt;And here’s one for Age of Empires : &lt;strong&gt;0 A.D.&lt;/strong&gt;&lt;br /&gt;
+This game has a very interesting story behind its development. It started as a development of a modpack for Age of Empires II – The Age of Kings. But halfway through, the developers saw that they couldn’t change much of the game’s functionality as the game engine was closed. And thus started the journey of developing a new game engine itself – &lt;strong&gt;Pyrogenesis&lt;/strong&gt;. This was taken further into developing a new game itself. The development was initiated with the team who started with 0ad (Wildfire Games) under a closed environment and went open source on July 10 2009. It has then slowly attracted a community of developers and has evolved to a very promising Historic-Real-Time-Strategy game. Though it has lots of bugs and features missing, its already playable and enjoyable. The game also concentrates on the correctness of the historic details that they want to convey from the game. Powered by OpenGL, it hosts amazing graphics with a completely 3D Graphical Engine. Below is a screenshot of some Mauryan Structures that are currently in use. (The following image is from Aplha XIII : Magadha). You can checkout more screenshots &lt;a href=&quot;http://play0ad.com/screenshots&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/mauryan-structures.jpg&quot; alt=&quot;Mauryan Structures&quot; title=&quot;Mauryan Structures&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Do contribute to this game! Visit the &lt;a href=&quot;http://play0ad.com&quot;&gt;website&lt;/a&gt;, IRC – &lt;code class=&quot;highlighter-rouge&quot;&gt;#0ad&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;#0ad-dev&lt;/code&gt; and the &lt;a href=&quot;http://trac.wildfiregames.com/wiki&quot;&gt;wiki&lt;/a&gt;. The source is maintained with svn &lt;a href=&quot;http://svn.wildfiregames.com/public/ps/trunk/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Jul 2013 19:15:00 -0700</pubDate>
+        <link>/blog/0ad-game/</link>
+        <guid isPermaLink="true">/blog/0ad-game/</guid>
+        
+        
+        <category>tech</category>
+        
+        <category>games</category>
+        
+        <category>open-source</category>
+        
+        <category>age-of-empires</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;In the Hindu pantheon, &lt;strong&gt;Lord Vinayaka&lt;/strong&gt; is worshipped first; believed to be the remover of obstacles. For a programmer, “Hello World” serves this purpose!
+&lt;!-- more --&gt;
+Through this blog you’ll experience the world I live in. As the tagline (in the home page) reads -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Music, Food and Code -&lt;br /&gt;
+The three dimensions to my world.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, lets get started!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jul 2013 19:40:00 -0700</pubDate>
+        <link>/blog/hello-world/</link>
+        <guid isPermaLink="true">/blog/hello-world/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+  </channel>
+</rss>

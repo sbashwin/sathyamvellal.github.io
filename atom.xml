@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sathyam Vellal]]></title>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2016-10-24T00:15:53-07:00</updated>
+  <id>/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[sathyam@vellals.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to PES OpenSource]]></title>
+    <link href="/blog/welcome-to-pes-opensource/"/>
+    <updated>2014-08-23T21:08:00-07:00</updated>
+    <id>/blog/welcome-to-pes-opensource</id>
+    <content type="html"><![CDATA[<p>Heya there! This post is mainly targeted to the students of PES Institute of Technology/PES University, Bangalore. If you are not, and are new to the Open Source Movement, you can still find a lot of useful information here. You can also learn the ways of PES Open Source, and join our movement in making educational institutions a place of more knowledge and productivity.</p>
+
+<!-- more -->
+
+<h4 id="prologue">Prologue</h4>
+
+<p>Firstly, I want you to think what an open source project means to you. Give it a minute. Done?<br />
+Now did you think one of these?</p>
+
+<ol>
+  <li>Getting access to the source code of the project.</li>
+  <li>Getting/Using the project for free (as in free beer).</li>
+  <li>Using the project’s source to either contribute to it or create a fork of the project. ie, ability to modify the project freely (as in free libre).</li>
+</ol>
+
+<p>Well, if you did, you are somewhat on the right track. But wait, this was kind of easy. Now, I want you think what “Open Source” means. Woah, now that wasn’t simple right? Understanding what <em>Open Source</em> stands for, deep down, is equivalent to understanding what open source projects stand for.</p>
+
+<p>As a beginner to the world of open source, you must first make it a point to understand the philosophy of open source. This is critical in understanding why there are open source projects and what the community stands for.</p>
+
+<h4 id="the-philosophy">The Philosophy</h4>
+
+<p>The concept of open source has been there since the stone age, surely even before, but let’s stick to the stone age for now as a start. People from back then have shared the knowledge on how to start a fire, how to make tools, how to hunt using tools, how to build houses, how to cultivate crops, how to cook, how to this and how to that… the list goes on! Open Source has been driving our lives each and every moment. But how? Through knowledge. Knowledge is the key takeaway with Open Source. It’s the only takeaway in this world that’s also a giveaway.<br />
+At the core, <em>Open Source</em> stands for spreading knowledge and making the world a better place to live in; the one entity that empowers everything and everyone. It is important to understand this since all open source projects are driven by this philosophy. It is this immense passion towards learning and learning through sharing that has built the open source world. To be a successful open source enthusiast, realising this passion within you is very essential.</p>
+
+<p>Over the next few sections of the post, I’m going to give a broad perspective of the world of Open Source and come back to what you can start doing. Firstly, We saw three points above, which give a fair idea some typical traits of open source projects. These traits are the results of what a given open source project stands for. We learnt what <em>Open Source</em> is actually about deep down. So now, we’ll see why and how projects are open sourced.</p>
+
+<h4 id="why-are-projects-open-sourced">Why are projects open sourced?</h4>
+
+<p>There is no general reason why projects are open soourced. However, there are some values that a project picks up when open sourced.</p>
+
+<ol>
+  <li><strong>Trust</strong><br />
+This is one of the two biggest reasons why projects go open source. If the source is open then the public has the freedom to inspect the code and verify that the software is doing what it’s supposed to do and nothing more or less, thus making it feel more secure and stable.</li>
+  <li><strong>Community</strong><br />
+Most open source projects have a community of developers, contributors and users. This is a big advantage as you can interact with the community regarding the project, providing you the support to use it or also contribute to it.</li>
+  <li><strong>Control</strong><br />
+Open source software gives users the control they would want on the software since they will know what it is and isn’t. Also, users can request features or enhancements by interacting with the community.</li>
+  <li><strong>Source of Knowledge</strong><br />
+As discussed before, the best trait of any open source project is the amount of knowledge you gain by learning about the project, the domain, the design, the implementation and its way of usage. And all this for free of cost.</li>
+</ol>
+
+<p>Some companies/corporations also open source projects as a PR move, but with a stronger intention to give something back to public. This helps in mutual growth a well established product built over open source tools or libraries, in a way appreciating them and launching an open source project of their own.<br />
+On a side note, many a times, open source projects are prefered when developing long term projects as they are more likely to be standing as a community with the source also being open. Imagine if you were to use a closed-source library in a project of yours and its development stops! It’s a risk that is mostly not taken.</p>
+
+<h4 id="the-problems-with-open-source-softwareprojects">The problems with Open Source software/projects</h4>
+
+<p>Mind you, that these may not apply to some projects. There are quite a lot of truly exceptional open source projects!</p>
+
+<ol>
+  <li><strong>The development Philosophy (minor problem)</strong><br />
+Usually, open source development follows the “Release Early, Release Often” philosophy. The reason behind this is to attract more developers, funding and early users so that the project is a success. This however causes a side effect - It sometimes feels that the development is slow and version 1.0 might never be seen.</li>
+  <li><strong>Development pace may vary</strong><br />
+Most of the developers are volunteers, who contribute out of passion in their free time. In projects where there aren’t many contributors, or less contributors to core ares of the software, this might create some problems and delays when one (or few) go offline for a while.</li>
+  <li><strong>Documentation</strong><br />
+One of the most troublesome issue with Open Source Software is documentation. There is often inadequate documentation in projects which cause a great deal of inconvenience to new users, contributors and adopters of the project. This is not the case with all, but many projects. It mainly arises because contributors concentrate more towards working on the project than on documenting it (which takes a great deal of time and decreases productivity).</li>
+  <li><strong>Compatibility Issues</strong><br />
+There are cases when project X uses library Y v2.0 and another project Z which uses library Y v1.5; and now you can’t install X and Z in your system, mainly because incompatibility. Although this is not frequent, it does happen, and a hard one to solve at that.</li>
+  <li><strong>Hard code base, not intuitive</strong><br />
+One of the tricky problems in software development is the codebase. The developers work on a project without realizing parts, or most of the codebase might be hard for users to understand. This is not a problem with OSS per se, but it is more apparent here. This happens mainly because the developers feel that the piece of code is intuitive, which is true for them as they wrote it, but may not be the case for others. Many projects don’t attract enough contributors for this very reason - The codebase is too hard to understand.</li>
+  <li><strong>Licensing issues</strong><br />
+There are many open source licenses with subtle differences in their licensing guidelines. Although most aren’t too restrictive, some are. This creates problems when trying to use an open source library in a software which might be proprietary and commercial, for example. Each license has governing rules for usage and distribution of the software using it.
+Here’s a comparison of free and open-source software licenses</li>
+  <li><strong>User Experience</strong><br />
+This doesn’t get expressed enough. Many open source tools and software give an interface over the command line as they target other developers first. The UI which is then developed is not good enough to impress end-users. Even if the software is feature-rich, a less impressive experience bids adieu to users.</li>
+  <li><strong>Accountability</strong><br />
+This is a very visible problem with quite a lot of open source projects. If the software developed breaks down in any format, there is no one to hold resoponsible but the community itself, which doesn’t seem fair. In such situations, users of such projects would have to find a solution and fix it themselves.</li>
+  <li><strong>Maintainability</strong><br />
+With a lot of rapid development, there is lesser bandwidth to maintain current releases. As a result, you might see projects being maintained at a lower pace or sometimes, very little.</li>
+</ol>
+
+<p>Phew! That was a lot of disadvantages listed down. But wait, these are all specific problems with open source software, the benefits are very broad and their magnitude are much higher! Also, knowing these issues will help you to contribute better.</p>
+
+<p>Okay, so till now, we looked at open source software, their benefits and their disadvantages. But I’ve saved the best part for the last.</p>
+
+<h4 id="open-source-for-a-student">Open Source for a student</h4>
+
+<p>Yes, you read it right! Open Source projects are a boon and a treasure for students. Why so? Because they are professionally crafted, coded and maintainted projects. And for a student, this is as good as Atlantis’s lost treasure! Being exposed to open source projects and contributing to them makes you look at developing projects differently, exposing you to industry standard conventions, coding styles, design patterns and much more. You will gain a lot of maturity in the field and get first-hand experience in handling live products.<br />
+What is even more exciting is that there are hundreds of open source project for you to contribute to! You can contribute to the project of your choice and get the most out of it.</p>
+
+<h4 id="so-how-do-you-begin">So how do you begin?</h4>
+
+<p>Let’s now see how you can begin contributing to open source projects. Remember, that all experts started as beginners. So if you don’t know coding yet, or have very little experience in programming, no issues! Open source projects have something for everyone at every level! However, (oh, that’s a not a good word to hear…) as it goes with other domains too, there is a learning curve associated with being involved in open source projects - Tools. There are few tools which become essential while contributing to open source projects. It is almost necessary for you to know about version controlling with either SVN or Git, but most preferably Git.<br />
+All open source projects are version controlled (you can search about this on the web), mostly using SVN or Git. Nowadays its mainly Git or Mercurial, but I’d recommend you to learn Git. Having an understanding of how Git works and how you use it will help to a great extent, since everything is managed through Git.</p>
+
+<p>Well, now that’ve established that you need to know about version controlling, you can move ahead on to searching for tasks to do by beginners on projects. These typically involve bug fixing, documentation writeup, etc which even though doesn’t sound like a great contribution, takes you a long way! Believe me, even for a small task, as simple as fixing a bug, you’ll be -</p>
+
+<ol>
+  <li>Learning how to access source code, get a copy on your local machine.</li>
+  <li>Set up the development environment necessary for building executing the project; to test things out.</li>
+  <li>Reading code written by others, which is an extremely professional task; something which is also not easy in the corporate industry.</li>
+  <li>Understanding what you need to fix, where and how you need to do it.</li>
+  <li>Communicating with people across the globe - open source projects are not written by your neighbours!</li>
+  <li>Professionally solving problems - the solution to fix the bug may look simple, but its implementation must take into account the philosophy and conventions used in the project, the language constraints, the architecture of the project, etc. What you are now doing here is something no less than what is done professionally by understanding end-to-end, the project’s details and implementing your solution accordingly.</li>
+  <li>Learning how your changes are reflected back to the project’s main codebase.</li>
+  <li>Partying when your changes go live!</li>
+</ol>
+
+<p>And now you can realise why prior open source contribution is valued high in the industry. The amount of experience and knowledge you gain are more than what you can practically learn in your academics. No doubt that you gain techincal knowledge and understanding of Computer Science and Information Technology in your academics, but active participation in open source projects give you a very practical and professional experience and an understanding of concepts at a different level.</p>
+
+<p>And that’s not all, the feeling you get when assited by a community of developers willing to help, the satisfaction you get in contributing to the community, the connections you make by networking with others are immeasurable.</p>
+
+<p>This, for now is an introduction to the open source world for you. I’ll update in this post soon with some points from where you can begin from. If you have any queries, you can post in the <a href="http://pesos.pes.edu/fb">PES Open Source Facebook group</a>, email me at <a href="mailto:mail@sathyamvellal.in">mail@sathyamvellal.in</a> or email PES Open Source at <a href="mailto:pesos@pes.edu">pesos@pes.edu</a>.</p>
+
+<p>Ciao!<br />
+<strong>Let Knowledge Flow From All Sides.</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[It's been six months!]]></title>
+    <link href="/blog/its-been-6-months/"/>
+    <updated>2014-05-31T10:03:00-07:00</updated>
+    <id>/blog/its-been-6-months</id>
+    <content type="html"><![CDATA[<p>Yes. That’s how long it’s been since last I wrote. Not that I wasn’t interested or anything, I had a lot of work! My final year project and my internship at PayPal, eBayInc. It wasn’t easy. Going to work in the morning and coming back to work on the college project. Phew! My college project’s done and its my last week of internship now, ending on June 6th. And the best part - I’m back to working on things I’ve missed since the past 6-7 months!</p>
+
+<!-- more -->
+
+<p>So here’s my checklist -</p>
+
+<ol>
+  <li>Working back on Boost.uBLAS. It was a really exciting project for me, during GSoC and learnt a lot. My GSoC mentors have been amazing and talking to them again brings me back to the game! There’s a pretty neat checklist we have and it’s really interesting!</li>
+  <li>It’s pretty disappointing for me that I couldn’t work on 0 A.D. as much. The game has changed my perceptions of coding in a significant way. I plan to get back on this soon, though not yet.</li>
+  <li>PES OpenSource has had a special place in my heart since it started back in 2011 and working with the community to help other students and peers with what I know and getting them to work on open source projects will be something that I’ll be spending my time on surely.</li>
+  <li>I’m also finally stepping into the other dimension of my world - Music. I have pretty good setup of FL Studio and VSTs and have been learning from <a href="http://musictheory.net">Music Theory</a>. Let’s see what I’m capable of by the end of the year.</li>
+</ol>
+
+<p>There are others that I’ll be spending time on but cannot discuss publicly either because it’s still “hush hush” or not yet begun. Keep an eye on this feed, it’s gonna be very active from now!</p>
+
+<p>Bye!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hollywood in 2014 (for me)]]></title>
+    <link href="/blog/hollywood-in-2014-for-me/"/>
+    <updated>2013-12-19T15:51:00-08:00</updated>
+    <id>/blog/hollywood-in-2014-for-me</id>
+    <content type="html"><![CDATA[<p>2013 is almost closing and its time to take a peak at films of 2014. This list though, is my preference. You can check the <a href="http://en.wikipedia.org/wiki/2014_in_film">entire list in wikipedia</a>. Here, I’ve linked the films to a trailer and a rating of my expectations (arranged by rating and alphabetically).</p>
+
+<!-- more -->
+
+<h3 id="im-interested-in">I’m interested in</h3>
+
+<p>The Hobbit: There and Back Again ★★★★½<br />
+<a href="http://www.youtube.com/watch?v=3WzHXI5HizQ">Interstellar</a> ★★★★½<br />
+<a href="http://www.youtube.com/watch?v=mBwsUD7jYCI">Godzilla</a> ★★★★<br />
+<a href="http://www.youtube.com/watch?v=Z9a4PvzlqoQ">How to Train Your Dragon 2</a> ★★★★<br />
+<a href="http://www.youtube.com/watch?v=fZ_JOBCLF-I">The LEGO Movie</a> ★★★★<br />
+<a href="http://www.youtube.com/watch?v=nbp3Ra3Yp74">The Amazing Spider-Man 2</a> ★★★½<br />
+Dumb and Dumber To ★★★½<br />
+Night at the Museum 3 ★★★½<br />
+<a href="http://www.youtube.com/watch?v=jiHDJ19A3dk">Non-Stop</a> ★★★½<br />
+<a href="http://www.youtube.com/watch?v=IkZM1Zc0mBU">Rio 2</a> ★★★½<br />
+<a href="http://www.youtube.com/watch?v=t6TRwfxDICM">Pompeii</a> ★★★</p>
+
+<h3 id="i-can-be-interested-in">I can be interested in</h3>
+
+<p><a href="http://www.youtube.com/watch?v=2zqy21Z29ps">300: Rise of An Empire</a> ★★★½<br />
+<a href="http://www.youtube.com/watch?v=NLWsK1ZFunA">Captain America: The Winter Soldier</a> ★★★½<br />
+<a href="http://www.youtube.com/watch?v=v0wP5ZkaUGg">Dawn of the Planet of the Apes</a> ★★★½<br />
+Transformers: Age of Extinction ★★★½<br />
+Gaurdians of the Galaxy ★★★<br />
+<a href="http://www.youtube.com/watch?v=N-ewaCVARtM">Heaven is for Real</a> ★★★<br />
+The Judge ★★★<br />
+<a href="http://www.youtube.com/watch?v=INmtQXUXez8">RoboCop</a> ★★★<br />
+<a href="http://www.youtube.com/watch?v=pK2zYHWDZKo">X-Men: Days of Future Past</a> ★★½<br />
+<a href="http://www.youtube.com/watch?v=eBq1AupSrLI">Hercules: The Legend Begins</a> ★★</p>
+
+<h3 id="im-not-interested-in">I’m not interested in</h3>
+
+<p><a href="http://www.youtube.com/watch?v=fsrJWUVoXeM">Need For Speed</a> ★★★<br />
+<a href="http://www.youtube.com/watch?v=FZtVfmTZftk">Jack Ryan: Shadow Recruit</a> ★★½<br />
+<a href="http://www.youtube.com/watch?v=pxOSPfUw3qw">I, Frankenstein</a> ★★<br />
+<a href="http://www.youtube.com/watch?v=J39iyK_aqDE">Paranormal Activity: The Marked Ones</a> ★½</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[An introduction to <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>]]></title>
+    <link href="/blog/an-introduction-to-latex/"/>
+    <updated>2013-10-27T14:32:00-07:00</updated>
+    <id>/blog/an-introduction-to-latex</id>
+    <content type="html"><![CDATA[<p>The write-up of my talk on <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span> for beginners, as a part of <em>Tech Talk Tuesday</em>, an initiative of <a href="http://pesos.pes.edu/fb">PES OpenSource</a>. I structured my talk based on this book - <a href="http://tobi.oetiker.ch/lshort/lshort.pdf">The Not So Short Introduction to <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></a>. So refer this book for all details as I’ve posted the notes I made to deliver my talk.</p>
+
+<!-- more -->
+
+<h3 id="introduction">Introduction</h3>
+
+<ul>
+  <li>Donald Knuth
+    <ul>
+      <li>1977 - <span class="latex">T<sub>E</sub>X</span></li>
+      <li>1982 - first <span class="latex">T<sub>E</sub>X</span> engine</li>
+      <li>1989 - enhancements</li>
+      <li>Why the name <span class="latex">T<sub>E</sub>X</span> ? - Technology</li>
+    </ul>
+  </li>
+  <li>about <span class="latex">T<sub>E</sub>X</span> and <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></li>
+  <li><span class="latex">L<sup>A</sup>T<sub>E</sub>X</span> - Lay-Tech</li>
+  <li>Why <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span> ?
+    <ul>
+      <li>professional look</li>
+      <li>mathematics &amp; science</li>
+      <li>only few commands used to specify the structure</li>
+      <li>easy generation of footnotes, references, table of contents, etc</li>
+      <li>add-on packages</li>
+      <li>highly portable</li>
+      <li>free</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+<h3 id="basic-layout">Basic Layout</h3>
+
+<h5 id="level--2">Level -2</h5>
+
+<ul>
+  <li>spaces are uniform &amp; single line break</li>
+  <li>empty line defines end of para &amp; severl empty lines</li>
+  <li>10 meta-characters. Escape to print metachar. <code class="highlighter-rouge">\textbackslash</code> to print escape char</li>
+</ul>
+
+<h5 id="level--1">Level -1</h5>
+
+<ul>
+  <li>Commands start with <code class="highlighter-rouge">\</code></li>
+  <li>case sensitive</li>
+  <li>starred variant</li>
+  <li>terminated with a non-letter</li>
+  <li>Commands are space-hungry!</li>
+  <li>use <code class="highlighter-rouge"><span class="p">{}</span></code></li>
+  <li>parameters in <code class="highlighter-rouge"><span class="p">{}</span></code></li>
+  <li>optional params <code class="highlighter-rouge">[]</code></li>
+  <li><code class="highlighter-rouge">\command[optional]{param}</code></li>
+  <li><code class="highlighter-rouge">%</code> -&gt; Comments</li>
+  <li><code class="highlighter-rouge">verbatim</code> package. <code class="highlighter-rouge">\begin{comment}</code> to <code class="highlighter-rouge">\end{commend}</code></li>
+</ul>
+
+<h5 id="level-0">Level 0</h5>
+
+<ul>
+  <li>file must start with <code class="highlighter-rouge"><span class="k">\documentclass</span><span class="p">{</span>class<span class="p">}</span></code>
+    <ul>
+      <li>specifies type of document</li>
+      <li>some commands following this to specify some more details</li>
+      <li>optional commands -
+        <ul>
+          <li>size, papertype, formulae alignment, titlepage, twosided, openright, landscape, doc, font encoding, etc</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>to load some package <code class="highlighter-rouge">\usepackage{name}</code></li>
+  <li>write content within <code class="highlighter-rouge">\begin{document}</code> and <code class="highlighter-rouge">\end{document}</code></li>
+  <li><code class="highlighter-rouge">\pagestyle{style}</code> &amp; <code class="highlighter-rouge">\thispagestyle{style}</code>
+    <ul>
+      <li><code class="highlighter-rouge">plain</code> - page number in footer, middle</li>
+      <li><code class="highlighter-rouge">headings</code> - headings, page number. empty footer.</li>
+      <li><code class="highlighter-rouge">empty</code> - both empty</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">\include{file}</code> &amp; <code class="highlighter-rouge">\includeonly{file,file,...}</code> &amp; <code class="highlighter-rouge"><span class="k">\input</span><span class="p">{</span>file<span class="p">}</span></code></li>
+</ul>
+
+<hr />
+<h3 id="typesetting-text">Typesetting Text</h3>
+
+<h5 id="level-1">Level 1</h5>
+
+<ul>
+  <li><code class="highlighter-rouge">\\</code> &amp; <code class="highlighter-rouge">\newline</code> &amp; <code class="highlighter-rouge">\newpage</code> &amp; <code class="highlighter-rouge">\\*</code></li>
+  <li><code class="highlighter-rouge">\linebreak[n]</code> &amp; <code class="highlighter-rouge">\nolinebreak[n]</code> &amp; <code class="highlighter-rouge">\pagebreak[n]</code> &amp; <code class="highlighter-rouge">\nopagebreak[n]</code></li>
+  <li><code class="highlighter-rouge">\hyphenation{word list}</code></li>
+  <li><code class="highlighter-rouge">\-</code></li>
+  <li><code class="highlighter-rouge">\mbox{text}</code> &amp; <code class="highlighter-rouge">\fbox{text}</code></li>
+  <li><code class="highlighter-rouge">\today</code> &amp; <code class="highlighter-rouge">\TeX{}</code> &amp; <code class="highlighter-rouge">\LaTeX{}</code></li>
+  <li>quotation marks ` and ‘</li>
+  <li>ligatures -  ff fi fl etc [Refer book, Sec:2.4.8, page 24]</li>
+  <li>ellipsis - <code class="highlighter-rouge">\ldtos</code></li>
+  <li><code class="highlighter-rouge">~</code> &amp; <code class="highlighter-rouge">\@</code> &amp; <code class="highlighter-rouge">\frenchspacing</code></li>
+  <li><code class="highlighter-rouge">label{...}</code> &amp; <code class="highlighter-rouge">\ref{...}</code> &amp; <code class="highlighter-rouge">\pageref{...}</code></li>
+  <li><code class="highlighter-rouge">\footnote{...}</code></li>
+</ul>
+
+<h5 id="level-2">Level 2</h5>
+
+<ul>
+  <li><code class="highlighter-rouge">\maketitle</code>
+    <ul>
+      <li><code class="highlighter-rouge">\title</code></li>
+      <li><code class="highlighter-rouge">\author</code></li>
+      <li><code class="highlighter-rouge">\date</code> - optional</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">\tableofcontents</code></li>
+  <li>divide publication
+    <ul>
+      <li><code class="highlighter-rouge">\frontmatter</code></li>
+      <li><code class="highlighter-rouge">\mainmatter</code></li>
+      <li><code class="highlighter-rouge">\appendix</code></li>
+      <li><code class="highlighter-rouge">\backmatter</code></li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">\part</code></li>
+  <li><code class="highlighter-rouge">\chapter</code> - depends on document class</li>
+  <li><code class="highlighter-rouge">\section</code></li>
+  <li><code class="highlighter-rouge">\subsection</code></li>
+  <li><code class="highlighter-rouge">subsubsection</code></li>
+  <li><code class="highlighter-rouge">\paragraph</code></li>
+  <li><code class="highlighter-rouge">\subparagraph</code></li>
+  <li><code class="highlighter-rouge">\begin{...}</code> &amp; <code class="highlighter-rouge">\end{...}</code>
+    <ul>
+      <li><code class="highlighter-rouge">enumerate</code>
+        <ul>
+          <li>use <code class="highlighter-rouge">\item</code></li>
+        </ul>
+      </li>
+      <li><code class="highlighter-rouge">itemize</code>
+        <ul>
+          <li>use <code class="highlighter-rouge">\item</code></li>
+        </ul>
+      </li>
+      <li><code class="highlighter-rouge">description</code>
+        <ul>
+          <li>use <code class="highlighter-rouge">\item[Name] Description ...</code></li>
+        </ul>
+      </li>
+      <li><code class="highlighter-rouge"><span class="p">{</span><span class="err">flushleft</span><span class="p">}</span></code> &amp; <code class="highlighter-rouge"><span class="p">{</span><span class="err">flushright</span><span class="p">}</span></code> &amp; <code class="highlighter-rouge"><span class="p">{</span><span class="err">center</span><span class="p">}</span></code></li>
+      <li><code class="highlighter-rouge"><span class="p">{</span><span class="err">quote</span><span class="p">}</span></code> &amp; <code class="highlighter-rouge"><span class="p">{</span><span class="err">verse</span><span class="p">}</span></code></li>
+      <li><code class="highlighter-rouge"><span class="p">{</span><span class="err">verbatim</span><span class="p">}</span></code></li>
+      <li><code class="highlighter-rouge"><span class="p">{</span><span class="err">tabular</span><span class="p">}</span></code> &amp; <code class="highlighter-rouge"><span class="p">{</span><span class="err">|l|c|r|p{...</span><span class="p">}</span><span class="err">}</span></code></li>
+      <li><code class="highlighter-rouge"><span class="p">{</span><span class="err">verbatim</span><span class="p">}</span></code></li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">\verb+text+</code></li>
+</ul>
+
+<h3 id="mathematics--font-handling">Mathematics &amp; Font handling</h3>
+
+<p>Refer the <a href="http://tobi.oetiker.ch/lshort/lshort.pdf">book</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Piano Guys]]></title>
+    <link href="/blog/the-piano-guys/"/>
+    <updated>2013-10-15T17:26:00-07:00</updated>
+    <id>/blog/the-piano-guys</id>
+    <content type="html"><![CDATA[<p>Its a typical day and I’m just looking at <em>Recommended Videos</em> in my YouTube, which are usually songs/music/mixes; that’s what I listen to. So I’m there, listening to UK Piano’s new video and I find a playlist recommended for me. In that playlist is a <a href="http://www.youtube.com/watch?v=ydRAb9cwHnA&amp;list=RD03X6a9odk6b_c">Cello cover of Game of Thrones</a> by <a href="http://www.youtube.com/user/BreakofReaIity">BreakofReality</a>. YouTube then features <a href="http://www.youtube.com/watch?v=5wLfOZiAd8Y">Misty Mountains Orchestral Cover</a> from <a href="http://www.imdb.com/title/tt0903624/">The Hobbit</a> by <a href="http://www.youtube.com/user/sleightlymusical">sleightlymusical</a> in my <em>Recommended for You</em> list. Now it comes! Another video recommended for me from <a href="http://thepianoguys.com/">ThePianoGuys</a>. And WOW!</p>
+
+<!-- more -->
+
+<p>I just sat back, stopped my work and watched one video after the other. The first one that caught my eye was <strong>Kung Fu Piano: Cello Ascends</strong>, a play on <strong><a href="http://www.youtube.com/watch?v=cdjnonJdxtM">Oogway Ascends</a></strong> from <a href="http://www.imdb.com/title/tt0441773/">Kung Fu Panda</a>.</p>
+
+<div class="youtube">
+    <iframe id="vid1" type="text/html" class="youtube" width="440" height="440" src="http://www.youtube.com/embed/NCaH-qqTWpk" frameborder="0">
+    </iframe>
+</div>
+<div class="youtube">
+    <iframe id="vid2" type="text/html" class="youtube" width="440" height="440" src="http://www.youtube.com/embed/3v-HaH0h6gA" frameborder="0">
+    </iframe>
+</div>
+
+<p>Before you start thinking there was a green screen for the Great Wall of China, watch the <a href="http://www.youtube.com/watch?v=3v-HaH0h6gAz">second video</a>. They actually got the piano on top of it!</p>
+
+<p>I didn’t stop there! I then watched the video which YouTube originally recommended for me - A <a href="http://www.youtube.com/watch?v=FZNqs0YgWkM">Lord of the Rings cover</a>. And after that, I continued …</p>
+
+<div class="youtube">
+    <iframe id="vid3" type="text/html" class="youtube" width="440" height="440" src="http://www.youtube.com/embed/FZNqs0YgWkM" frameborder="0">
+    </iframe>
+</div>
+
+<p>Music is not just about melody or harmony. Its about enjoying, feeling and extracting the emotions out of the listener and ThePianoGuys do just that. I’ve included some more of the many they’ve made, below. DON’T forget to visit <a href="http://www.youtube.com/user/ThePianoGuys">their YouTube channel</a>!
+Obviously I can’t list all the <a href="http://www.youtube.com/user/ThePianoGuys/videos">videos</a> here!</p>
+
+<div class="youtube">
+    <iframe id="vid4" type="text/html" class="youtube" width="440" height="440" src="http://www.youtube.com/embed/9p0BqUcQ7i0" frameborder="0">
+    </iframe>
+</div>
+<div class="youtube">
+    <iframe id="vid5" type="text/html" class="youtube" width="440" height="440" src="http://www.youtube.com/embed/lUjWJSnGVB0" frameborder="0">
+    </iframe>
+</div>
+
+<p><br /></p>
+
+<div class="youtube">
+    <iframe id="vid6" type="text/html" class="youtube" width="440" height="440" src="http://www.youtube.com/embed/P94DusN4LsY" frameborder="0">
+    </iframe>
+</div>
+<div class="youtube">
+    <iframe id="vid7" type="text/html" class="youtube" width="440" height="440" src="http://www.youtube.com/embed/mJ_fkw5j-t0" frameborder="0">
+    </iframe>
+</div>
+
+<p>A quote by Ludwig Van Beethoven, included in one of the videos -</p>
+
+<blockquote>
+  <p>Don’t only practice your art,<br />
+but force your way into its secrets,<br />
+for it and knowledge can raise men to the divine.</p>
+</blockquote>
+
+<script type="text/javascript">
+var vid1 = document.getElementById("vid1");
+var vid2 = document.getElementById("vid2");
+var vid3 = document.getElementById("vid3");
+var vid4 = document.getElementById("vid4");
+var vid5 = document.getElementById("vid5");
+var vid6 = document.getElementById("vid6");
+var vid7 = document.getElementById("vid7");
+if (document.width < 700) {
+    vid1.width = document.width * 0.7;
+    vid2.width = document.width * 0.7;
+    vid3.width = document.width * 0.7;
+    vid4.width = document.width * 0.7;
+    vid5.width = document.width * 0.7;
+    vid6.width = document.width * 0.7;
+    vid7.width = document.width * 0.7;
+} else {
+    vid1.width = document.width * 0.32;
+    vid2.width = document.width * 0.32;
+    vid3.width = document.width * 0.64;
+    vid4.width = document.width * 0.32;
+    vid5.width = document.width * 0.32;
+    vid6.width = document.width * 0.32;
+    vid7.width = document.width * 0.32;
+}
+vid1.height = vid1.width * 0.75;
+vid2.height = vid2.width * 0.75;
+vid3.height = vid3.width * 0.75;
+vid4.height = vid4.width * 0.75;
+vid5.height = vid5.width * 0.75;
+vid6.height = vid6.width * 0.75;
+vid7.height = vid7.width * 0.75;
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[0 A.D. Fundraiser: 3 weeks remain!]]></title>
+    <link href="/blog/0ad-fundraiser-3-weeks/"/>
+    <updated>2013-10-02T01:23:00-07:00</updated>
+    <id>/blog/0ad-fundraiser-3-weeks</id>
+    <content type="html"><![CDATA[<p><a href="http://play0ad.com">0 A.D.</a> is a free and open source, historical RTS game. The concept of the game was designed in 2003 and was developed for around six years as a closed-source freeware project. In 2009 the game went open source under the GPL license and art content under CC-BY-SA. This steadily attracted a lot of contributors ranging from art designers to programmers to develop the game. Much of the development and contribution started after the project was open sourced.</p>
+
+<p>Less than a month ago, <a href="http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/">0 A.D. launched a crowdfunding campaign in Indiegogo</a> to help hire two contributors full-time to get it to a release state much sooner and better than its current pace of development.</p>
+
+<!-- more -->
+
+<div class="youtube">
+    <iframe id="vid3" type="text/html" class="youtube" width="440" height="300" src="http://www.youtube.com/embed/Y-0l7Ej3cM8" frameborder="0">
+    </iframe>
+</div>
+<div class="youtube">
+    <iframe id="vid4" type="text/html" class="youtube" width="440" height="300" src="http://www.youtube.com/embed/DXDxXGTzIf4" frameborder="0">
+    </iframe>
+</div>
+
+<p>The previous and the current alpha versions have improved the game’s performance and added many new features into the game. The stage is being set for the next alpha release which brings a host of new features including a featured Multiplayer Lobby! No wonder this project pushes the bar up for gaming in Linux open source games.<br />
+The <a href="http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/">Indiegogo campaign</a> is flexibly funded with targets starting from $40,000 till $240,000 and goals ranging from improving the game performance till releasing the first version of the game within a couple of years.</p>
+
+<p>The best part of this project being open source is the developer community! They’re not just developers and contributors. They are a family. The modern ancient family. They are a constantly working group, who’ve volunteered to build this game.</p>
+
+<p>IndieStatik covered an in-depth article about <a href="http://indiestatik.com/2013/10/01/10-years-in-alpha-how-volunteer-modders-created-0-a-d-with-the-help-of-a-community/">0 A.D. and its crowdfunding campaign</a> in which the author beautifully states -</p>
+
+<blockquote>
+  <p>“A huge project like 0 A.D. is worthy of people’s time because it’s a community project that people can find resolve in, share stories with others who helped to build it, and in a few months, or a year, or maybe even a decade, they’ll be able to look back at the game and remember the people they met, the things they learned, the things they shared.”</p>
+</blockquote>
+
+<p>I also would like to quote -</p>
+
+<blockquote>
+  <p>“It’s remarkable how a project of this size is sustainable with practically no budget, built from the passion of volunteers, who talk with one another, congratulate each other, see newcomers arrive and welcome them with open arms.”</p>
+</blockquote>
+
+<p>For there is no greater gift in the world than knowledge!<br />
+Donate to the 0 A.D. Project and be a part of this great community.</p>
+
+<p><strong>Website:</strong> http://play0ad.com</p>
+
+<p><strong>Indiegogo Campaign:</strong> http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/</p>
+
+<p><strong>IRC Channels:</strong> <a href="http://webchat.quakenet.org/?channels=#0ad">#0ad</a> and <a href="http://webchat.quakenet.org/?channels=#0ad-dev">#0ad-dev</a> on QuakeNet IRC</p>
+
+<hr />
+<p>I’ve included some screenshots below for you to have a quick look at the game!</p>
+
+<p>A Village in Gaul and Depth and Fog rendering!</p>
+
+<p><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/1237349_10151914968049859_1015039661_o.jpg" alt="A Village in Gaul" />
+<img src="http://play0ad.com/wp-content/gallery/screenshots/tilt-shift-filter.jpg" alt="Depth and Fog Rendering" /></p>
+
+<p>Persian Heavy Infantry and 0 A.D.’s Atlas Map Editor</p>
+
+<p><img src="http://play0ad.com/wp-content/gallery/screenshots/alpha-8-persianheavyinfantry.jpg" alt="Persian Heavy Infantry" />
+<img src="http://play0ad.com/wp-content/gallery/screenshots/scr.png" alt="Atlas Editor" /></p>
+
+<p>Oasis in 0 A.D. Desert and Water Rendering effects.</p>
+
+<p><img src="http://play0ad.com/wp-content/gallery/screenshots/screenshot0343.png" alt="Oasis" />
+<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/1073220_10151752821764859_690497580_o.jpg" alt="Care for a swim?" /></p>
+
+<p>Building an Empire on Islands and Whales in oceans!</p>
+
+<p><img src="http://play0ad.com/wp-content/gallery/screenshots/screenshot0072.jpg" alt="Island Life" />
+<img src="http://play0ad.com/wp-content/gallery/screenshots/screenshot0060.jpg" alt="Whales" /></p>
+
+<script type="text/javascript">
+    var elem = $("#content img").eq(0).load(function() {
+        var width = $(this).width();
+        var height = $(this).height();
+        var vid3 = document.getElementById("vid3");
+        var vid4 = document.getElementById("vid4");
+        vid3.width = vid4.width = width;
+        vid3.height = vid4.height = height;
+    });
+    $("#content img").eq(4).load(function() {
+        var img2 = $(this);
+        $("#content img").eq(5).load(function() {
+            img2.height($(this).height());
+        });
+    });
+    $("#content img").eq(1).load(function() {
+        var img2 = $(this);
+        $("#content img").eq(0).load(function() {
+            img2.height($(this).height());
+        });
+    });
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cool C Programming]]></title>
+    <link href="/blog/cool-c-programming/"/>
+    <updated>2013-09-09T20:33:00-07:00</updated>
+    <id>/blog/cool-c-programming</id>
+    <content type="html"><![CDATA[<p>This post contains the writeup of my talk on <strong>Cool C Programming</strong> as part of the <strong>Tech Talk Tuesday</strong> series by <strong><a href="http://pesos.pes.edu">PES OpenSource</a></strong> at PES Institute of Technology.
+(Please ignore any typos in this post; its pretty long and I wrote it in a hurry!)</p>
+
+<h2 id="the-c-preprocessor">The C Preprocessor</h2>
+
+<p>In the C Program build process, there are three main phases.</p>
+
+<ul>
+  <li>Preprocessing</li>
+  <li>Compiling</li>
+  <li>Linking</li>
+</ul>
+
+<p>The C Preprocessor is dumb! It does not know anything about a C program. It is mainly used to manage the program’s text according to our needs before the compiler begins its task. Managing involves including of header files, conditional inclusion of pieces of code, expanding macros, etc.<br />
+<!-- more -->
+If you want to see the output of the preprocessor, you can use the <code class="highlighter-rouge">-E</code> flag for the compiler; ie compile the program as <code class="highlighter-rouge">gcc -E file.c</code>. This dumps the preprocessed output of file.c onto your terminal.</p>
+
+<p>There are three standard input/output buffers</p>
+
+<ul>
+  <li><code class="highlighter-rouge">stdin</code> The input buffer</li>
+  <li><code class="highlighter-rouge">stdout</code> The default output buffer</li>
+  <li><code class="highlighter-rouge">stderr</code> The output buffer for error/log messages</li>
+</ul>
+
+<h3 id="conditional-syntax---ifdef-and-ifndef">Conditional Syntax - <code class="highlighter-rouge">#ifdef</code> and <code class="highlighter-rouge">#ifndef</code></h3>
+
+<p>The preprocessor directive <code class="highlighter-rouge">#ifdef</code> is used to define conditional groups of code at the preprocessor level. Based on a condition, a piece of code may or may not be included in the program. The body of this directive is usually termed <em>controlled text</em></p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#ifdef SOME_MACRO
+</span><span class="c1">//some piece of code
+</span><span class="cp">#endif
+</span></code></pre>
+</div>
+
+<p>In the above example, the body of <code class="highlighter-rouge">#ifdef</code> is included only if <code class="highlighter-rouge">SOME_MACRO</code> is defined. The <code class="highlighter-rouge">#define</code> directive is used to define MACROs.</p>
+
+<h4 id="example">Example</h4>
+
+<p>Here’s a sample program.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#ifdef SOME_MACRO
+</span><span class="kt">void</span> <span class="nf">foo</span> <span class="p">()</span>
+<span class="p">{</span>
+<span class="p">}</span>
+<span class="cp">#endif
+</span>
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+<h6 id="fig11">Fig(1.1)</h6>
+
+<p>Observe that <code class="highlighter-rouge">SOME_MACRO</code> is not defined. And hence the controlled text should not be included. And here’s the output of the preprocessor (compiled with <code class="highlighter-rouge">-E</code> option)</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp"># 1 "1.c"
+# 1 "&lt;command-line&gt;"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 1 "&lt;command-line&gt;" 2
+# 1 "1.c"
+</span>
+
+
+
+
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+<h6 id="fig12">Fig(1.2)</h6>
+
+<p>Let me now define the MACRO <code class="highlighter-rouge">#ifdef</code> using <code class="highlighter-rouge">#define</code>.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define SOME_MACRO
+</span>
+<span class="cp">#ifdef SOME_MACRO
+</span><span class="kt">void</span> <span class="nf">foo</span> <span class="p">()</span>
+<span class="p">{</span>
+<span class="p">}</span>
+<span class="cp">#endif
+</span>
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig13">Fig(1.3)</h6>
+
+<p>And this is the output of the preprocessor now.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp"># 1 "1.c"
+# 1 "&lt;command-line&gt;"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 1 "&lt;command-line&gt;" 2
+# 1 "1.c"
+</span>
+
+
+<span class="kt">void</span> <span class="nf">foo</span> <span class="p">()</span>
+<span class="p">{</span>
+<span class="p">}</span>
+
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig14">Fig(1.4)</h6>
+
+<p>You can observe that when the macro is defined, the controlled text is included. Note again, that the preprocessor does not know that the controlled text is a function or any of the C constructs. All it sees is some text.<br />
+You can also define MACROs when invoking the compiler with the <code class="highlighter-rouge">-D</code> option. Compiling the code in Fig(1.1) as <code class="highlighter-rouge">gcc -E -DSOME_MACRO 1.c</code> gives me the same output as Fig(1.4).</p>
+
+<p>MACROs also can be object-like MACROs and function-like MACROs.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define BAR 5
+#define FOO(X) printf("%d", X)
+</span>
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="c1">//FOO is a function-like MACRO and BAR is an object-like MACRO.
+</span>    <span class="n">FOO</span><span class="p">(</span><span class="n">BAR</span><span class="p">);</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+<h6 id="fig15">Fig(1.5)</h6>
+
+<p>Here’s the preprocessed output of the code in Fig(1.5)</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp"># 1 "1.c"
+# 1 "&lt;command-line&gt;"
+# 1 "/usr/include/stdc-predef.h" 1 3 4
+# 1 "&lt;command-line&gt;" 2
+# 1 "1.c"
+</span>
+
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+
+    <span class="n">printf</span><span class="p">(</span><span class="s">"%d"</span><span class="p">,</span> <span class="mi">5</span><span class="p">);</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig16">Fig(1.6)</h6>
+
+<p><code class="highlighter-rouge">BAR</code> is an object-like MACRO which the preprocessor substitutes as 5, according to its definition. Therefore, the MACRO call <code class="highlighter-rouge">FOO(BAR)</code> is now <code class="highlighter-rouge">FOO(5)</code>. It then expands the function-like MACRO <code class="highlighter-rouge">FOO</code> with its parameter as 5. You therefore see <code class="highlighter-rouge">printf("%d", 5);</code>. Note that the <code class="highlighter-rouge">printf</code> of <code class="highlighter-rouge">FOO</code> does not end with a semicolon. But the MACRO is used with a semicolon <code class="highlighter-rouge">FOO(...);</code>. This ensures that printf ends with a semicolon. Why this approach? Its a standard convention to end every statement of a C program with a semicolon and it would be very odd to have some line not ending with it.</p>
+
+<h3 id="and-now-for-a-few-tricks">And now for a few tricks</h3>
+
+<h4 id="creating-debug-macros">Creating debug MACROs</h4>
+
+<p>Lot of programmers are used to debug by logging the program’s execution. This can be as simple as using <code class="highlighter-rouge">printf</code> all over the code to print messages (on the <code class="highlighter-rouge">stderr</code> buffer) and use this information to debug. Further more, you may want to write pieces of code to mainly check the correctness of the program (only while you’re developing it). When its time for you to release your code, you’ll have to remove all the logging statements, blocks of code which was used to check correctness, etc. This brings in a lot of work the developer. Additionally, if at some later point of time, the user had to improve his code, he might want to insert all such blocks again (its literally a headache!).<br />
+Now, the preprocessor turns out to be very helpful!</p>
+
+<p>The following program demonstrates three features widely used in C Programs. We’ll go through each one by one</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#include &lt;stdio.h&gt;
+#include &lt;assert.h&gt;
+</span>
+<span class="cp">#ifdef CHECK_ENABLED
+#define CHECK(X, Y) \
+do { printf("Performing Assertion\n"); assert((X - Y) != 0); printf("Assertion passed\n"); } while (0)
+#else
+#define CHECK(X, Y)
+#endif
+</span>
+<span class="kt">void</span> <span class="nf">foo</span> <span class="p">(</span><span class="kt">int</span> <span class="n">x</span><span class="p">,</span> <span class="kt">int</span> <span class="n">y</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="n">CHECK</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">);</span>
+    <span class="n">printf</span> <span class="p">(</span><span class="s">"%d: %d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">__LINE__</span><span class="p">,</span> <span class="p">(</span><span class="n">x</span><span class="o">+</span><span class="n">y</span><span class="p">)</span><span class="o">/</span><span class="p">(</span><span class="n">x</span><span class="o">-</span><span class="n">y</span><span class="p">));</span>
+<span class="p">}</span>
+
+<span class="kt">int</span> <span class="nf">main</span> <span class="p">()</span>
+<span class="p">{</span>
+    <span class="n">foo</span> <span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">3</span><span class="p">);</span>
+    <span class="n">foo</span> <span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">);</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig17">Fig(1.7)</h6>
+
+<p>Let this be a file, <em>debug.c</em> .
+What is this program trying to do? This program calls the function <code class="highlighter-rouge">foo()</code> with 2 arguments, <code class="highlighter-rouge">x</code> and <code class="highlighter-rouge">y</code>.; and foo wants perform the operation <code class="highlighter-rouge">(x + y) / (x - y)</code>. It also uses a function-like MACRO <code class="highlighter-rouge">CHECK</code> which expands to an assert statement (forget about the <code class="highlighter-rouge">do {...} while(0)</code> for now). <code class="highlighter-rouge">assert</code> is a library function declared in <code class="highlighter-rouge">assert.h</code> which aborts the program if the given assertion fails (in this example <code class="highlighter-rouge">(x - y) != 0</code>).</p>
+
+<p>According to our expectations, The program and must execute the first <code class="highlighter-rouge">foo(4, 3)</code> function call and should fail when trying execute the second <code class="highlighter-rouge">foo(4, 4)</code> function call because of division by zero (Forget about the <code class="highlighter-rouge">__LINE__</code> in the printf). Now let me compile it without defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO. Compile with <code class="highlighter-rouge">gcc debug.c</code> and run <code class="highlighter-rouge">./a.out</code>; the following is the output.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>14: 7
+Floating point exception (core dumped)
+
+</code></pre>
+</div>
+<h6 id="fig18">Fig(1.8)</h6>
+
+<p>It worked as expected. The program printed “7” and failed when executing the second <code class="highlighter-rouge">foo(4, 4)</code> function call because of the division with zero. Let me now compile with also defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO. Compile with <code class="highlighter-rouge">gcc debug.c DCHECK_ENABLED</code> and run <code class="highlighter-rouge">./a.out</code> and here’s the output.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Performing Assertion
+Assertion passed
+14: 7
+Performing Assertion
+a.out: 1_preprocessor.c:13: foo: Assertion `(x - y) != 0' failed.
+Aborted (core dumped)
+
+</code></pre>
+</div>
+<h6 id="fig19">Fig(1.9)</h6>
+
+<p>Wow! That’s magic! The program did not even try to perform the division because the assertion <code class="highlighter-rouge">(4 - 4) != 0</code> failed and also printed a lot of debugging messages!</p>
+
+<p>Let us now analyze what happened.<br />
+In Fig(1.9), the program was compiled with the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO defined which included the following controlled text in the program.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define CHECK(X, Y) \
+do { printf("Performing Assertion\n"); assert((X - Y) != 0); printf("Assertion passed\n"); } while (0)
+</span></code></pre>
+</div>
+<h6 id="fig110">Fig(1.10)</h6>
+
+<p>This defines a function-like MACRO <code class="highlighter-rouge">CHECK(X, Y)</code> to be <code class="highlighter-rouge">do { printf("Performing Assertion\n"); assert((X - Y) != 0); printf("Assertion passed\n"); } while (0)</code>. Hence this function-like MACRO <code class="highlighter-rouge">CHECK(X, Y);</code> expands to <code class="highlighter-rouge">do { printf("Performing Assertion\n"); assert((X - Y) != 0); printf("Assertion passed\n"); } while (0)</code>. With <code class="highlighter-rouge">foo(4, 3);</code> this assertion succeeds and prints “7”; with <code class="highlighter-rouge">foo(4, 4");</code> this assertion fails and the program aborts.</p>
+
+<p>When the program is compiled without defining <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO [refer Fig(1.8)], the controlled text in the else portion of the conditional group gets included in the program. ie</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define CHECK(X, Y)
+</span></code></pre>
+</div>
+<h6 id="fig111">Fig(1.11)</h6>
+
+<p>This defines a function-like MACRO <code class="highlighter-rouge">CHECK(X, Y)</code> to nothing! So the function-like MACRO expands to nothing! ie the assertion is not in the code any more and so the program prints “7” and gets a floating point exception when trying a division with zero.</p>
+
+<p>So what just happened? In Fig(1.9) the program was executed in a debugging mode; the debugging mode in the above example was enabled by defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO; and in this debugging mode, the assertion statement was included in the code and the program aborted stating where it failed and why. The debugging mode also included some debugging messages which I printed so that I’d know what went wrong and where.<br />
+When the debugging mode wasn’t enabled (by not defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO), the assertion wasn’t included in the code by the preprocessor as <code class="highlighter-rouge">CHECK(X, Y)</code> expands to nothing. Now the program crashes.<br />
+Look at the error that comes up - <code class="highlighter-rouge">Floating point exception (core dumped)</code>. You cannot make out what happened where! The runtime threw an error message and exited the program. Whereas when the debugging is enabled, the assertion gives a better error message - <code class="highlighter-rouge">a.out: 1_preprocessor.c:13: foo: Assertion </code>(x - y) != 0’ failed.<code class="highlighter-rouge">. It failed in line 13. That's where the function-like MACRO </code>CHECK(x, y)` expands.</p>
+
+<p><strong>Feature/Trick #1</strong> : In short, you can now run your program in debug mode and release mode by just defining / not-defining a debug MACRO. Normally this debug MACRO is <code class="highlighter-rouge">DEBUG</code>. I’ve used <code class="highlighter-rouge">CHECK_ENABLED</code> in the example to include some checks. You must also understand now that in the release mode, we only concentrate on execution of the program and not error checking because they can make the program slower. Imagine calling the <code class="highlighter-rouge">foo(4, 3)</code> a million times in the debug mode. The assert function is called a million times but your intention is to check the correctness of the code and not the execution speed. In the release mode, the assertion is not even there and so your program executes much faster and is assumed to be correct.<br />
+Nice trick huh? Such an amazing work around to solve such an important problem and that too with just using the C Preprocessor!</p>
+
+<p>I mentioned long back that there are three features the above program [Fig(1.7)] tries to show. The first was the debug/release switch which we have covered in detail. The second is this very odd statement -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">do</span> <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"Performing Assertion</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span> <span class="n">assert</span><span class="p">((</span><span class="n">X</span> <span class="o">-</span> <span class="n">Y</span><span class="p">)</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">);</span> <span class="n">printf</span><span class="p">(</span><span class="s">"Assertion passed</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span> <span class="p">}</span> <span class="k">while</span> <span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+
+</code></pre>
+</div>
+<h6 id="fig112">Fig(1.12)</h6>
+
+<p><strong>Feature/Trick #2</strong> : Why the <code class="highlighter-rouge">do { ... } while(0)</code> ??! Why can’t I just write a set of statements? Maybe because I wanted to group them. Then why couldn’t I just use <code class="highlighter-rouge"><span class="p">{</span><span class="w"> </span><span class="err">...</span><span class="w"> </span><span class="p">}</span></code> instead of the do while zero?<br />
+Consider this situation</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define FOO(X, Y) printf("%s\n", X); printf("%s\n", Y)
+</span>
+<span class="kt">int</span> <span class="nf">main</span> <span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="cm">/*some condition*/</span><span class="p">)</span>
+        <span class="n">FOO</span><span class="p">(</span><span class="s">"YES"</span><span class="p">,</span> <span class="s">"TRUE"</span><span class="p">);</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig113">Fig(1.13)</h6>
+
+<p>Remember that its a standard convention not to end the code within a function-like MACRO with a semicolon (because the MACRO is used with a semicolon at the end)? So the second <code class="highlighter-rouge">printf</code> doesn’t end with a semicolon, its taken care of later.<br />
+An if condition is associated only with the statement/block following it. After the function-like MACRO <code class="highlighter-rouge">FOO(X, Y)</code> expands, we have something like the following -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">if</span> <span class="p">(</span><span class="cm">/*some condition*/</span><span class="p">)</span>
+        <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"YES"</span><span class="p">);</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"TRUE"</span><span class="p">);</span>
+</code></pre>
+</div>
+<h6 id="fig114">Fig(1.14)</h6>
+
+<p>Note that the first printf gets associated with the if condition and not the second! So “TRUE” is always printed. What a bug! So to avoid this let me rewrite the program as follows -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define FOO(X, Y) { printf("%s\n", X); printf("%s\n", Y) }
+</span>
+<span class="kt">int</span> <span class="nf">main</span> <span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="cm">/*some condition*/</span><span class="p">)</span>
+        <span class="n">FOO</span><span class="p">(</span><span class="s">"YES"</span><span class="p">,</span> <span class="s">"TRUE"</span><span class="p">);</span>
+    <span class="k">else</span>
+        <span class="n">FOO</span><span class="p">(</span><span class="s">"NO"</span><span class="p">,</span> <span class="s">"FALSE"</span><span class="p">);</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig115">Fig(1.15)</h6>
+
+<p>Notice that I’ve now included flower brackets to group the two printfs into a block and I also wanted an else portion which I’ve included. This sounds fine. Lets now observe what happens when the function-like MACRO <code class="highlighter-rouge">FOO(X, Y)</code> expands.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">if</span> <span class="p">(</span><span class="cm">/*some condition*/</span><span class="p">)</span>
+    <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"YES"</span><span class="p">);</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"TRUE"</span><span class="p">)</span> <span class="p">};</span>
+<span class="k">else</span>
+    <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"NO"</span><span class="p">);</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"FALSE"</span><span class="p">)</span> <span class="p">};</span>
+</code></pre>
+</div>
+<h6 id="fig116">Fig(1.16)</h6>
+
+<p>Observe that the second printf doesn’t end with a semicolon but the blocks end with a semicolon, because the semicolon was present after the MACRO. This will through a bunch of errors because printf doesn’t have a semicolon to start with and there’s a semicolon after the if block (which ends the if block) so the else portion becomes stray code without a corresponding if! Uff! This is crazy! Well, no. Here is why do while zero is used. Lets rewrite the program using do while zero</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define FOO(X, Y) do { printf("%s\n", X); printf("%s\n", Y); } while(0)
+</span>
+<span class="kt">int</span> <span class="nf">main</span> <span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="cm">/*some condition*/</span><span class="p">)</span>
+        <span class="n">FOO</span><span class="p">(</span><span class="s">"YES"</span><span class="p">,</span> <span class="s">"TRUE"</span><span class="p">);</span>
+    <span class="k">else</span>
+        <span class="n">FOO</span><span class="p">(</span><span class="s">"NO"</span><span class="p">,</span> <span class="s">"FALSE"</span><span class="p">);</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig117">Fig(1.17)</h6>
+
+<p>When the MACRO expands, we get it like this -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">if</span> <span class="p">(</span><span class="cm">/*some condition*/</span><span class="p">)</span>
+    <span class="k">do</span> <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"YES"</span><span class="p">);</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"TRUE"</span><span class="p">);</span> <span class="p">}</span> <span class="k">while</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+<span class="k">else</span>
+    <span class="k">do</span> <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"NO"</span><span class="p">);</span> <span class="n">printf</span><span class="p">(</span><span class="s">"%s</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="s">"FALSE"</span><span class="p">);</span> <span class="p">}</span> <span class="k">while</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
+</code></pre>
+</div>
+<h6 id="fig118">Fig(1.18)</h6>
+
+<p>You can now see that the if block contains one statement which is a loop. All the statements are placed in that loop and this loop executes only once because the condition fails. Isn’t that amazing?!</p>
+
+<p><strong>Feature/Trick #3</strong> : And lastly, the third feature the program uses is <code class="highlighter-rouge">printf("%d", __LINE__);</code>. <code class="highlighter-rouge">__LINE__</code> is a preprocessor MACRO that expands to current line number in the source file, as an integer. <code class="highlighter-rouge">__LINE__</code> is useful when generating log statements, debug messages, etc. There’s also <code class="highlighter-rouge">__FILE__</code> which expands to the current file name.</p>
+
+<p><strong>Feature/Trick #4</strong> : Consider the following header file (say <em>file.h</em>)</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">struct</span> <span class="n">foo</span> <span class="p">{</span>
+    <span class="kt">int</span> <span class="n">a</span><span class="p">;</span>
+    <span class="kt">char</span> <span class="n">b</span><span class="p">;</span>
+<span class="p">};</span>
+
+</code></pre>
+</div>
+<h6 id="fig119">Fig(1.19)</h6>
+
+<p>Now if your project contains a lot of files and you include this header file in many of them and compile, you’ll encounter errors of redeclaration! And so header files begin with the following construct</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#ifndef FILE_H
+#define FILE_H
+</span>
+<span class="k">struct</span> <span class="n">foo</span> <span class="p">{</span>
+    <span class="kt">int</span> <span class="n">a</span><span class="p">;</span>
+    <span class="kt">char</span> <span class="n">b</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="cp">#endif
+</span></code></pre>
+</div>
+<h6 id="fig120">Fig(1.20)</h6>
+
+<p>So what’s the change now? When some .c file which includes this header is being compiled, it sees the directive <code class="highlighter-rouge">#ifndef FILE_H ... #endif</code>; which basically means include the controlled text if the MACRO <code class="highlighter-rouge">FILE_H</code> is not defined. But wait, what is this present in the controlled text? <code class="highlighter-rouge">#define FILE_H</code>. What I’m doing is defining the MACRO <code class="highlighter-rouge">FILE_H</code> and including the header contents if <code class="highlighter-rouge">FILE_H</code> was previously not declared. Now when another file is being compiled which includes the same header, the compiler sees that the MACRO <code class="highlighter-rouge">FILE_H</code>  is defined now and skips including the controlled text of the conditional group avoiding redeclaration of structures and other entities of a header file.</p>
+
+<p><strong>Feature/Trick 5</strong> : This is the last preprocessor feature I’ll be discussing! The C preprocessor gives two directives <code class="highlighter-rouge">#warning</code> and <code class="highlighter-rouge">#error</code>. I expect you might have guessed their uses. Consider the following code snippet -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#ifdef USE_OLD_FOO
+#warning "Using old foo(). This is deprecated! You are getting this message because USE_OLD_FOO is defined"
+</span><span class="kt">void</span> <span class="nf">foo</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="c1">//This implementation is no longer recommended for use. 
+</span>    <span class="cm">/*
+    Some implementation
+    */</span>
+<span class="p">}</span>
+<span class="cp">#else
+</span><span class="kt">void</span> <span class="nf">foo</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="c1">//A better foo implementation
+</span>    <span class="cm">/*
+    Some implementation
+    */</span>
+<span class="p">}</span>
+<span class="cp">#endif
+</span>
+</code></pre>
+</div>
+<h6 id="fig121">Fig(1.21)</h6>
+
+<p>The above snippet includes the old version of the function <code class="highlighter-rouge">foo()</code> if <code class="highlighter-rouge">USE_OLD_FOO</code> is defined, else by default the new version would be used. One may need to use old versions of codes for legacy support (say). But when using the old version, the developer would like to warn the user about it. In such cases, you can use the <code class="highlighter-rouge">#warning</code> directive. The <code class="highlighter-rouge">#errror</code> is similar, but throws an error</p>
+
+<hr />
+<h2 id="swapping-two-variables">Swapping two variables</h2>
+
+<p><strong>Feature/Trick 6</strong> : This is more a programming trick than a trick in C. To swap two variables without using additional space or arithmetic operators, you can simply use the xor operator; like so -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="n">a</span> <span class="o">=</span> <span class="n">a</span> <span class="o">^</span> <span class="n">b</span><span class="p">;</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">a</span> <span class="o">^</span> <span class="n">b</span><span class="p">;</span>
+<span class="n">a</span> <span class="o">=</span> <span class="n">a</span> <span class="o">^</span> <span class="n">b</span><span class="p">;</span>
+</code></pre>
+</div>
+<h6 id="fig21">Fig(2.1)</h6>
+
+<hr />
+<h2 id="pointers-in-c">Pointers in C</h2>
+
+<h3 id="arrays-and-pointers-not-entirely-the-same">Arrays and Pointers not entirely the same!</h3>
+
+<p><strong>Feature/Trick 7</strong> : One of the heavily misunderstood concepts of C is that pointers and arrays are the same. They are not. Pointers are merely variables holding the address of some location where as an array is conceptualized as a sequence of memory locations of a type. At compile time, an array is an array. Only during runtime, an array degenerates to a pointer. To prove this fact, let me show you an example -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="mi">10</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">9</span> <span class="p">};</span>
+<span class="kt">int</span> <span class="o">*</span><span class="n">b</span> <span class="o">=</span> <span class="n">a</span><span class="p">;</span>
+
+<span class="n">printf</span><span class="p">(</span><span class="s">"%d</span><span class="se">\n</span><span class="s">%d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="k">sizeof</span><span class="p">(</span><span class="n">a</span><span class="p">),</span> <span class="k">sizeof</span><span class="p">(</span><span class="n">b</span><span class="p">));</span>
+</code></pre>
+</div>
+<h6 id="fig31">Fig(3.1)</h6>
+
+<p>And the output is (assuming size of int is 4 bytes and address size is 8 bytes) -</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>40
+8
+</code></pre>
+</div>
+<h6 id="fig32">Fig(3.2)</h6>
+
+<p>See what happens? At compile time, the compiler has information regarding the array. It drops all the information in the end and so at runtime, an array acts like a constant pointer.</p>
+
+<h3 id="vindex-and-indexv-are-the-same"><code class="highlighter-rouge">v[index] and index[v]</code> are the same</h3>
+
+<p><strong>Feature/Trick 8</strong> : Yes arrays and pointers are not the same, but are interpreted in the same way; by dereferencing them to get the value. The indexing operation <code class="highlighter-rouge">v[index]</code> where <code class="highlighter-rouge">v</code> is some array and <code class="highlighter-rouge">index</code> is some index is internally converted to <code class="highlighter-rouge">*(v + index)</code>. The funny thing now is that if you use this as <code class="highlighter-rouge">index[v]</code>, its converted to <code class="highlighter-rouge">*(index + v)</code> and both mean the same!</p>
+
+<hr />
+<h2 id="standard-io">Standard I/O</h2>
+
+<p><strong>Feature/Trick 9</strong> :You are no doubt familiar with <code class="highlighter-rouge">scanf</code> and <code class="highlighter-rouge">printf</code> functions. You also be familiar with <code class="highlighter-rouge">fscanf</code> and <code class="highlighter-rouge">fprintf</code> if you have worked on file handling. 
+For example -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">FILE</span> <span class="o">*</span><span class="n">fptr</span> <span class="o">=</span> <span class="n">fopen</span><span class="p">(</span><span class="s">"some_file.txt"</span><span class="p">,</span> <span class="s">"r"</span><span class="p">);</span>
+<span class="kt">char</span><span class="o">*</span> <span class="n">first_name</span><span class="p">;</span> <span class="kt">int</span> <span class="n">age</span><span class="p">;</span>
+
+<span class="n">fscanf</span><span class="p">(</span><span class="n">fptr</span><span class="p">,</span> <span class="s">"%s %d"</span><span class="p">,</span> <span class="n">first_name</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">age</span><span class="p">);</span>
+<span class="n">printf</span><span class="p">(</span><span class="s">"Name: %s</span><span class="se">\n</span><span class="s">Age: %d</span><span class="se">\n\n</span><span class="s">"</span><span class="p">,</span> <span class="n">first_name</span><span class="p">,</span> <span class="n">age</span><span class="p">);</span>
+
+<span class="n">fclose</span><span class="p">(</span><span class="n">fptr</span><span class="p">);</span>
+</code></pre>
+</div>
+<h6 id="fig41">Fig(4.1)</h6>
+
+<p>The above snippet demonstrates reading from a file using <code class="highlighter-rouge">fscanf</code>.<br />
+How about this? You have a string containing two integers and you’d like to read from that. Its not a file name, its a character array. C provides reading and writing to character arrays (or C strings) with the use of <code class="highlighter-rouge">sscanf</code> and <code class="highlighter-rouge">sprintf</code>.<br />
+Let me demonstrate this -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">char</span> <span class="n">str</span><span class="p">[</span><span class="mi">20</span><span class="p">]</span> <span class="o">=</span> <span class="s">"10 20"</span><span class="p">;</span>
+<span class="kt">int</span> <span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">;</span>
+
+<span class="n">sscanf</span><span class="p">(</span><span class="n">str</span><span class="p">,</span> <span class="s">"%d %d"</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">a</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">b</span><span class="p">);</span>
+<span class="n">sprintf</span><span class="p">(</span><span class="n">str</span><span class="p">,</span> <span class="s">"%d %d"</span><span class="p">,</span> <span class="n">a</span><span class="o">*</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="o">*</span><span class="n">b</span><span class="p">);</span>
+<span class="n">printf</span><span class="p">(</span><span class="s">"%s"</span><span class="p">,</span> <span class="n">str</span><span class="p">);</span>
+</code></pre>
+</div>
+<h6 id="fig42">Fig(4.2)</h6>
+
+<p>In the above snippet, a string contains two numbers 10 and 20 (as characters of the string). Using sscanf you can read these to variables and also write back to the C string!</p>
+
+<p><strong>Feature/Trick 10</strong> : <code class="highlighter-rouge">scanf</code> is probably one of the most magical function in C. To know more about the tricks in <code class="highlighter-rouge">scanf</code>, visit <a href="http://qr.ae/IHQTN">my answer in quora</a> about the same.</p>
+
+<p><strong>Feature/Trick 11</strong> : One of the many problems with C strings is reading them; C strings can easily overflow if a string longer than size of the character array is entered. <code class="highlighter-rouge">scanf</code> is useless and so is <code class="highlighter-rouge">gets</code>. The best function to use when reading strings is <code class="highlighter-rouge">fgets</code>. <code class="highlighter-rouge">fgets</code> takes the string, the length to be read and the file stream where the string is to be read from as arguments. If you want to read from the console, you can use <code class="highlighter-rouge">stdin</code> as your input file stream. The function call would then go like this -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">int</span> <span class="n">n</span><span class="p">;</span> <span class="c1">//some length; maybe known later.
+</span><span class="kt">char</span> <span class="n">str</span><span class="p">[</span><span class="n">n</span><span class="p">];</span> <span class="c1">//works from c99
+</span>
+<span class="n">fgets</span><span class="p">(</span><span class="n">str</span><span class="p">,</span> <span class="n">n</span><span class="p">,</span> <span class="n">stdin</span><span class="p">);</span> <span class="c1">//reads max n characters to 'str' from stdin.
+</span></code></pre>
+</div>
+<h6 id="fig43">Fig(4.3)</h6>
+
+<p>You can also use the new <code class="highlighter-rouge">gets_s</code> function; but <code class="highlighter-rouge">fgets</code> is pretty much the standard convention.</p>
+
+<hr />
+<h2 id="c99-c11-and-misc">C99, C11 and misc</h2>
+
+<p>You’ve been using the old fashioned way of initializing C structures right? Like so -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">struct</span> <span class="n">foo</span>
+<span class="p">{</span>
+    <span class="kt">int</span> <span class="n">a</span><span class="p">;</span>
+    <span class="kt">int</span> <span class="n">b</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">struct</span> <span class="n">foo</span> <span class="n">f</span> <span class="o">=</span> <span class="p">{</span><span class="mi">100</span><span class="p">,</span> <span class="mi">123</span><span class="p">};</span>
+    <span class="n">printf</span><span class="p">(</span><span class="s">"%d %d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">f</span><span class="p">.</span><span class="n">a</span><span class="p">,</span> <span class="n">f</span><span class="p">.</span><span class="n">b</span><span class="p">);</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+<h6 id="fig51">Fig(5.1)</h6>
+
+<p><strong>Feature/Trick 12</strong> : C99 provides a new way of doing the same with more ease. Like so -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">struct</span> <span class="n">foo</span>
+<span class="p">{</span>
+    <span class="kt">int</span> <span class="n">a</span><span class="p">;</span>
+    <span class="kt">int</span> <span class="n">b</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="k">struct</span> <span class="n">foo</span> <span class="n">f</span> <span class="o">=</span> <span class="p">{.</span><span class="n">b</span> <span class="o">=</span> <span class="mi">123</span><span class="p">,</span> <span class="p">.</span><span class="n">a</span> <span class="o">=</span> <span class="mi">100</span><span class="p">};</span> <span class="c1">// C99 style
+</span>    <span class="n">printf</span><span class="p">(</span><span class="s">"%d %d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">f</span><span class="p">.</span><span class="n">a</span><span class="p">,</span> <span class="n">f</span><span class="p">.</span><span class="n">b</span><span class="p">);</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+<h6 id="fig52">Fig(5.2)</h6>
+
+<p><strong>Feature/Trick 13</strong> : C99 also provides a mechanism to initialize only certain indices of an array.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="mi">100</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span><span class="mi">1</span><span class="p">,</span> <span class="p">[</span><span class="mi">50</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span><span class="p">};</span> <span class="c1">//initializes a[0] and a[50] to 1 and the rest 0
+</span><span class="n">printf</span><span class="p">(</span><span class="s">"%d %d %d %d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">a</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">a</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">a</span><span class="p">[</span><span class="mi">50</span><span class="p">],</span> <span class="n">a</span><span class="p">[</span><span class="mi">51</span><span class="p">]);</span>
+</code></pre>
+</div>
+<h6 id="fig53">Fig(5.3)</h6>
+
+<p><strong>Feature/Trick 14</strong> : Did you know about the <code class="highlighter-rouge">atexit</code> function? This function can be used to register functions that are to be called when the program finishes its execution! For example -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+</span>
+<span class="kt">void</span> <span class="nf">foo</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="n">printf</span><span class="p">(</span><span class="s">"Goodbye Foo!</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kt">void</span> <span class="nf">bar</span><span class="p">(</span><span class="kt">void</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="n">printf</span><span class="p">(</span><span class="s">"Goodbye Bar!</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">wchar_t</span><span class="o">*</span> <span class="n">argv</span><span class="p">[])</span>
+<span class="p">{</span>
+    <span class="n">atexit</span><span class="p">(</span><span class="n">bar</span><span class="p">);</span>
+    <span class="n">atexit</span><span class="p">(</span><span class="n">foo</span><span class="p">);</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig54">Fig(5.4)</h6>
+
+<p>Notice that <code class="highlighter-rouge">foo</code> and <code class="highlighter-rouge">bar</code> functions haven’t been called but are registered to be called when the program exits. Such functions should not return anything nor accept any arguments. You can register upto 32 such functions. They’ll be called in the LIFO order.</p>
+
+<p><strong>Feature/Trick 15</strong> : I found this somewhere in stackoverflow. It seems that a game the developer had to initialize a huge two dimensional float array with lots of values. And he employed this to do so -</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">double</span> <span class="n">array</span><span class="p">[</span><span class="n">SIZE</span><span class="p">][</span><span class="n">SIZE</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="cp">#include "float_values.txt"
+</span><span class="p">}</span>
+</code></pre>
+</div>
+<h6 id="fig56">Fig(5.6)</h6>
+
+<p>The file <em>float_values.txt</em> contains all the values to be initialized in the array. This way, the values are not inlined in the file containing the code. The preprocessor will have included that file. Nice idea!</p>
+
+<p><strong>Feature/Trick 16</strong> : C11 has introduced something great! Heard of templates in C++ where you could write type independent code? Well, that’s possible in a slightly different way in C11 now! Want to see how? Scroll down a little.</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+</span>
+<span class="kt">void</span> <span class="nf">printchar</span><span class="p">(</span><span class="kt">char</span> <span class="n">X</span><span class="p">)</span> <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"char: %c</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">X</span><span class="p">);</span> <span class="p">}</span>
+<span class="kt">void</span> <span class="nf">printint</span><span class="p">(</span><span class="kt">int</span> <span class="n">X</span><span class="p">)</span> <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"int: %d</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">X</span><span class="p">);</span> <span class="p">}</span>
+<span class="kt">void</span> <span class="nf">printfloat</span><span class="p">(</span><span class="kt">float</span> <span class="n">X</span><span class="p">)</span> <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"float: %f</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">X</span><span class="p">);</span> <span class="p">}</span>
+<span class="kt">void</span> <span class="nf">printdouble</span><span class="p">(</span><span class="kt">double</span> <span class="n">X</span><span class="p">)</span> <span class="p">{</span> <span class="n">printf</span><span class="p">(</span><span class="s">"double: %lf</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">X</span><span class="p">);</span> <span class="p">}</span>
+<span class="cp">#define print(X) _Generic((X), \
+                               char: printchar, \
+                               int: printint, \
+                               float: printfloat, \
+                               double: printdouble)(X)
+</span>
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="n">print</span> <span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+    <span class="n">print</span> <span class="p">(</span><span class="mi">1</span><span class="p">.</span><span class="mi">2</span><span class="p">);</span>
+    <span class="n">print</span> <span class="p">((</span><span class="kt">char</span><span class="p">)</span><span class="sc">'a'</span><span class="p">);</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+
+</code></pre>
+</div>
+<h6 id="fig57">Fig(5.7)</h6>
+
+<p>The above program illustrates a generic <code class="highlighter-rouge">print</code> function which adapts to the type of the argument sent! How is this achieved? C11 introduced the <code class="highlighter-rouge">_Generic</code> keyword. This maps the type and the corresponding function that should be called for the type. You can abstract this to a function-like MACRO. In the above program, a function-like macro <code class="highlighter-rouge">print(X)</code> is defined to expand to the <code class="highlighter-rouge">_Generic</code> keyword construct. This takes in as its first argument <code class="highlighter-rouge">_Generic((X), ...</code>as the parameter and the rest map the type to the function that needs to be called <code class="highlighter-rouge">_Generic((X), char: printchar, int: printint, ...</code>; in the end this construct is invoked like a function by passing the value <code class="highlighter-rouge">...double: printdouble)(X)</code>. The abstract function-like MACRO can be used to call this type-generic function and that’s cool!</p>
+
+<p>That’s it folks! Hope you enjoyed reading this!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[0 A.D. Game]]></title>
+    <link href="/blog/0ad-game/"/>
+    <updated>2013-07-11T19:15:00-07:00</updated>
+    <id>/blog/0ad-game</id>
+    <content type="html"><![CDATA[<p>I grew up in a time where Age of Empires was everything! You can’t find many people who haven’t played it. Many others followed suit; Empire Earth for example. But they were not like Age of Empires. Ensemble Studios (now Microsoft Studios) did revolutionize the real-time strategy genre of computer games.<br />
+The question is, how many who played have actually bought it?
+<!-- more -->
+In this era where we look for free (as in cost) software/games, open source software/games really are a good replacement.</p>
+
+<p>And here’s one for Age of Empires : <strong>0 A.D.</strong><br />
+This game has a very interesting story behind its development. It started as a development of a modpack for Age of Empires II – The Age of Kings. But halfway through, the developers saw that they couldn’t change much of the game’s functionality as the game engine was closed. And thus started the journey of developing a new game engine itself – <strong>Pyrogenesis</strong>. This was taken further into developing a new game itself. The development was initiated with the team who started with 0ad (Wildfire Games) under a closed environment and went open source on July 10 2009. It has then slowly attracted a community of developers and has evolved to a very promising Historic-Real-Time-Strategy game. Though it has lots of bugs and features missing, its already playable and enjoyable. The game also concentrates on the correctness of the historic details that they want to convey from the game. Powered by OpenGL, it hosts amazing graphics with a completely 3D Graphical Engine. Below is a screenshot of some Mauryan Structures that are currently in use. (The following image is from Aplha XIII : Magadha). You can checkout more screenshots <a href="http://play0ad.com/screenshots">here</a></p>
+
+<p><img src="http://play0ad.com/wp-content/gallery/screenshots/mauryan-structures.jpg" alt="Mauryan Structures" title="Mauryan Structures" /></p>
+
+<p>Do contribute to this game! Visit the <a href="http://play0ad.com">website</a>, IRC – <code class="highlighter-rouge">#0ad</code> and <code class="highlighter-rouge">#0ad-dev</code> and the <a href="http://trac.wildfiregames.com/wiki">wiki</a>. The source is maintained with svn <a href="http://svn.wildfiregames.com/public/ps/trunk/">here</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="/blog/hello-world/"/>
+    <updated>2013-07-04T19:40:00-07:00</updated>
+    <id>/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>In the Hindu pantheon, <strong>Lord Vinayaka</strong> is worshipped first; believed to be the remover of obstacles. For a programmer, “Hello World” serves this purpose!
+<!-- more -->
+Through this blog you’ll experience the world I live in. As the tagline (in the home page) reads -</p>
+
+<blockquote>
+  <p>Music, Food and Code -<br />
+The three dimensions to my world.</p>
+</blockquote>
+
+<p>So, lets get started!</p>
+]]></content>
+  </entry>
+  
+</feed>
