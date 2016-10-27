@@ -1,8 +1,8 @@
 - title: home
   url: /
 
-- title: blog
-  url: /blog/
+# - title: blog
+#   url: /blog/
 
 - title: twitter
   url: https://twitter.com/sathyamvellal
