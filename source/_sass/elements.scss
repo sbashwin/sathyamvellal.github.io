@@ -1,9 +1,10 @@
 body {
 	color: $color-text;
 	background: $color-background;
-	font-family: 'Sahitya', serif;
+	font-family: 'Alegreya', serif;
 	font-size: 120%;
 	font-weight: 400;
+	padding-bottom: 1em;
 }
 h1 {
 	font-size: 1.4em;
@@ -18,7 +19,7 @@ h3 {
 }
 p {
 	font-size: 1em;
-	line-height: 150%;
+	line-height: 1.5em;
 }
 a {
   color: $color-link;
