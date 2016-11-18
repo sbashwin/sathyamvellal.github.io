@@ -5,10 +5,10 @@ layout: default
 ## Hi.
 
 <br/>
-I'm **Sathyam** [/sʌθ-jəm/][0], a Computer Science graduate student at the [University of Southern California][1], Los Angeles, and specializing in [Simulations][2] and [High Performance Computing][3]. I love programming and am crazy about simulating [stuff][4]. I plan to one day contribute in [Space Tech][5]. Yes, I'm a huge fan of [SimCity][6] and [Kerbal Space Program][7].
+I'm **Sathyam** [/sʌθ-jəm/][0], a Computer Science graduate student at the [University of Southern California][1], Los Angeles, and specializing in [Simulations][2] and [High Performance Computing][3]. I love programming and am crazy about simulating [things around me][4]. I plan to one day contribute in [Space Tech][5]. Yes, I'm a huge fan of [SimCity][6] and [Kerbal Space Program][7].
 
 <br/>
-I come from [Bangalore, India][8] (which is pretty much the LA of India; minus Hollywood). So it should come as no surprise that I'm a [foodie][9] and run on [coffee][10]! I love instrumental music and worship [Hans Zimmer][11]. I draw a lot of inspiration from him -  
+I come from [Bangalore, India][8] (which is pretty much the LA of India; minus Hollywood). So, it should come as no surprise that I'm a [foodie][9] and run on [coffee][10]! I love instrumental music and worship [Hans Zimmer][11]. I draw a lot of inspiration from him -  
 
 <br/>
 > If something happened where I couldn't write music anymore, it would kill me. It's not just a job. It's not just a hobby. It's why I get up in the morning.
@@ -17,7 +17,7 @@ I come from [Bangalore, India][8] (which is pretty much the LA of India; minus H
 To reach me, tweet [@sathyamvellal][12]. Or email **sathyam AT vellals DOT com**. You can find my [resume here][13].
 
 <br/>
-Live Long and Prosper! \\\\//
+Live Long and Prosper! 🖖
 
 [0]: http://www.phonemicchart.com/
 [1]: http://www.usc.edu/
