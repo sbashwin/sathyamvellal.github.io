@@ -1,11 +1,93 @@
-<p><html>
-<head></p>
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+
+  <title>Sathyam Vellal</title>
+
+
+<meta name="description" content="Music, Food and Code - The three dimensions to my world.">
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya:400,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+<script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-42225587-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+<body>
+  <div class="wrapper">
+    <div class="header">
+  <!-- <div class="title">
+    <a href="/"><h1>Sathyam Vellal</h1></a>
+  </div> -->
+  <ul>
+      
+      <li>
+          <a href="/" >home</a>
+      </li>
+      
+      <li>
+          <a href="https://twitter.com/sathyamvellal" >twitter</a>
+      </li>
+      
+      <li>
+          <a href="https://github.com/sathyamvellal" >github</a>
+      </li>
+      
+      <li>
+          <a href="https://linkedin.com/in/sathyamvellal" >linkedin</a>
+      </li>
+      
+  </ul>
+</div>
+
+    <div class="music-stage" id="stage">
+    <p>Music I personally like.</p>
+    <p class="work-in-progress">Work in progress. Currently showing only recents.</p>
+    <!-- <iframe src="https://tools.applemusic.com/embed/v1/album/1170763548?country=us" height="480px" width="90%" frameborder="0"></iframe> -->
+    <!-- <iframe src="https://www.youtube.com/embed/M7lc1UVf-VE?origin=http://sathyam.me" height="360px" width="90%" frameborder="0"></iframe> -->
+</div>
 
 <script type="text/javascript">
-window.location.href="https://groups.google.com/forum/#!forum/zimcity";
+$.getJSON("http://sathyam.me/m/recent.json", function(data) {
+    for (var i in data) {
+        if (data[i].match("youtu\.?be") != null) {
+            $("#stage").append($("<iframe></iframe>").attr({
+                src: data[i] + '&output=embed',
+                height: "360px",
+                width: "90%",
+                frameborder: "0"
+            }));
+        } else {
+            $("#stage").append($("<iframe></iframe>").attr({
+                src: data[i],
+                height: "480px",
+                width: "90%",
+                frameborder: "0"
+            }));
+        }
+    }
+});
 </script>
 
+    
 
-<p><link rel="canonical" href="https://groups.google.com/forum/#!forum/zimcity" />
-</head>
-</html></p>
+  </div>
+</body>
+</html>
