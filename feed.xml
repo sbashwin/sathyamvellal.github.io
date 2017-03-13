@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Mar 2017 12:09:32 -0700</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2017 12:09:32 -0700</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2017 13:08:21 -0700</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2017 13:08:21 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -122,6 +122,8 @@ All open source projects are version controlled (you can search about this on th
         <guid isPermaLink="true">/blog/welcome-to-pes-opensource/</guid>
         
         
+        <category>oldblog</category>
+        
       </item>
     
       <item>
@@ -148,7 +150,7 @@ All open source projects are version controlled (you can search about this on th
         <guid isPermaLink="true">/blog/its-been-6-months/</guid>
         
         
-        <category>general</category>
+        <category>oldblog</category>
         
       </item>
     
@@ -198,11 +200,7 @@ The Judge ★★★&lt;br /&gt;
         <guid isPermaLink="true">/blog/hollywood-in-2014-for-me/</guid>
         
         
-        <category>general</category>
-        
-        <category>film</category>
-        
-        <category>hollywood</category>
+        <category>oldblog</category>
         
       </item>
     
@@ -374,6 +372,8 @@ The Judge ★★★&lt;br /&gt;
         <guid isPermaLink="true">/blog/an-introduction-to-latex/</guid>
         
         
+        <category>oldblog</category>
+        
       </item>
     
       <item>
@@ -473,9 +473,7 @@ vid7.height = vid7.width * 0.75;
         <guid isPermaLink="true">/blog/the-piano-guys/</guid>
         
         
-        <category>music</category>
-        
-        <category>the-piano-guys</category>
+        <category>oldblog</category>
         
       </item>
     
@@ -574,13 +572,7 @@ Donate to the 0 A.D. Project and be a part of this great community.&lt;/p&gt;
         <guid isPermaLink="true">/blog/0ad-fundraiser-3-weeks/</guid>
         
         
-        <category>tech</category>
-        
-        <category>games</category>
-        
-        <category>open-source</category>
-        
-        <category>indiegogo</category>
+        <category>oldblog</category>
         
       </item>
     
@@ -958,7 +950,7 @@ An if condition is associated only with the statement/block following it. After 
 #warning &quot;Using old foo(). This is deprecated! You are getting this message because USE_OLD_FOO is defined&quot;
 &lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;//This implementation is no longer recommended for use. 
+    &lt;span class=&quot;c1&quot;&gt;//This implementation is no longer recommended for use.
 &lt;/span&gt;    &lt;span class=&quot;cm&quot;&gt;/*
     Some implementation
     */&lt;/span&gt;
@@ -1023,7 +1015,7 @@ An if condition is associated only with the statement/block following it. After 
 &lt;hr /&gt;
 &lt;h2 id=&quot;standard-io&quot;&gt;Standard I/O&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Feature/Trick 9&lt;/strong&gt; :You are no doubt familiar with &lt;code class=&quot;highlighter-rouge&quot;&gt;scanf&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;printf&lt;/code&gt; functions. You also be familiar with &lt;code class=&quot;highlighter-rouge&quot;&gt;fscanf&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;fprintf&lt;/code&gt; if you have worked on file handling. 
+&lt;p&gt;&lt;strong&gt;Feature/Trick 9&lt;/strong&gt; :You are no doubt familiar with &lt;code class=&quot;highlighter-rouge&quot;&gt;scanf&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;printf&lt;/code&gt; functions. You also be familiar with &lt;code class=&quot;highlighter-rouge&quot;&gt;fscanf&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;fprintf&lt;/code&gt; if you have worked on file handling.
 For example -&lt;/p&gt;
 
 &lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;FILE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fptr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fopen&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;some_file.txt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;r&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
@@ -1191,11 +1183,7 @@ Let me demonstrate this -&lt;/p&gt;
         <guid isPermaLink="true">/blog/cool-c-programming/</guid>
         
         
-        <category>tech</category>
-        
-        <category>c</category>
-        
-        <category>tricks</category>
+        <category>oldblog</category>
         
       </item>
     
@@ -1219,13 +1207,7 @@ This game has a very interesting story behind its development. It started as a d
         <guid isPermaLink="true">/blog/0ad-game/</guid>
         
         
-        <category>tech</category>
-        
-        <category>games</category>
-        
-        <category>open-source</category>
-        
-        <category>age-of-empires</category>
+        <category>oldblog</category>
         
       </item>
     
@@ -1247,7 +1229,7 @@ The three dimensions to my world.&lt;/p&gt;
         <guid isPermaLink="true">/blog/hello-world/</guid>
         
         
-        <category>general</category>
+        <category>oldblog</category>
         
       </item>
     

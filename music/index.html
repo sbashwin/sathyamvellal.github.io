@@ -45,6 +45,8 @@
           
       
           
+      
+          
             <li>
                 <a href="https://twitter.com/sathyamvellal">twitter</a>
             </li>
@@ -67,30 +69,15 @@
 
     <div class="music-stage" id="stage">
     <p>Music I personally like.</p>
-    <p class="work-in-progress">Work in progress. Currently showing only recents.</p>
+    <p class="work-in-progress">This space is a work in progress!</p>
 </div>
 
-<script type="text/javascript">
-$.getJSON("http://sathyam.me/m/recent.json", function(data) {
-    for (var i in data) {
-        if (data[i].match("youtu\.?be") != null) {
-            $("#stage").append($("<iframe></iframe>").attr({
-                src: data[i] + '&output=embed',
-                height: "360px",
-                width: "90%",
-                frameborder: "0"
-            }));
-        } else {
-            $("#stage").append($("<iframe></iframe>").attr({
-                src: data[i],
-                height: "480px",
-                width: "90%",
-                frameborder: "0"
-            }));
-        }
-    }
-});
-</script>
+<div class="blog">
+    <!-- <h1>Blog Posts:</h1> -->
+    <ul>
+        
+    </ul>
+</div>
 
     
 

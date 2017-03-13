@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2017-03-13T12:09:32-07:00</updated>
+  <updated>2017-03-13T13:08:21-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -933,7 +933,7 @@ An if condition is associated only with the statement/block following it. After 
 #warning "Using old foo(). This is deprecated! You are getting this message because USE_OLD_FOO is defined"
 </span><span class="kt">void</span> <span class="nf">foo</span><span class="p">()</span>
 <span class="p">{</span>
-    <span class="c1">//This implementation is no longer recommended for use. 
+    <span class="c1">//This implementation is no longer recommended for use.
 </span>    <span class="cm">/*
     Some implementation
     */</span>
@@ -998,7 +998,7 @@ An if condition is associated only with the statement/block following it. After 
 <hr />
 <h2 id="standard-io">Standard I/O</h2>
 
-<p><strong>Feature/Trick 9</strong> :You are no doubt familiar with <code class="highlighter-rouge">scanf</code> and <code class="highlighter-rouge">printf</code> functions. You also be familiar with <code class="highlighter-rouge">fscanf</code> and <code class="highlighter-rouge">fprintf</code> if you have worked on file handling. 
+<p><strong>Feature/Trick 9</strong> :You are no doubt familiar with <code class="highlighter-rouge">scanf</code> and <code class="highlighter-rouge">printf</code> functions. You also be familiar with <code class="highlighter-rouge">fscanf</code> and <code class="highlighter-rouge">fprintf</code> if you have worked on file handling.
 For example -</p>
 
 <div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">FILE</span> <span class="o">*</span><span class="n">fptr</span> <span class="o">=</span> <span class="n">fopen</span><span class="p">(</span><span class="s">"some_file.txt"</span><span class="p">,</span> <span class="s">"r"</span><span class="p">);</span>
