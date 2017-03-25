@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Mar 2017 10:31:30 -0700</pubDate>
-    <lastBuildDate>Sat, 25 Mar 2017 10:31:30 -0700</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2017 11:06:08 -0700</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 11:06:08 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -374,8 +374,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 13 Mar 2017 14:50:00 -0700</pubDate>
-        <link>/music/1/</link>
-        <guid isPermaLink="true">/music/1/</guid>
+        <link>/music/2017/03/</link>
+        <guid isPermaLink="true">/music/2017/03/</guid>
         
         
         <category>music</category>
