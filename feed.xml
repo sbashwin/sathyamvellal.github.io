@@ -5,13 +5,59 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Mar 2017 11:29:48 -0700</pubDate>
-    <lastBuildDate>Sat, 25 Mar 2017 11:29:48 -0700</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2017 11:40:13 -0700</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 11:40:13 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>March 2017</title>
         <description>&lt;div class=&quot;music-tracks&quot;&gt;
+    
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Plastic Beach - &lt;/span&gt;
+                &lt;span&gt; On Melancholy Hill &lt;/span&gt;
+                
+                &lt;span&gt; by Gorillaz&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=04mfKJWDSzI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://itun.es/us/KKv7Q?i=720198178&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Gorillaz-on-melancholy-hill-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+    
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt; Rhinestone Eyes &lt;/span&gt;
+                
+                &lt;span&gt; by Gorillaz&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=yYDmaexVHic&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://itun.es/us/KKv7Q?i=720198093&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Gorillaz-rhinestone-eyes-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
     
         &lt;div class=&quot;music-track&quot;&gt;
             &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
