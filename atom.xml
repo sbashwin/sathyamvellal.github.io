@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2017-04-15T09:31:14-07:00</updated>
+  <updated>2017-04-18T23:36:08-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -18,25 +18,40 @@
     <link href="/music/2017/04/"/>
     <updated>2017-04-01T00:00:00-07:00</updated>
     <id>/music/2017/april-2017</id>
-    <content type="html"><![CDATA[<div class="music-tracks">
+    <content type="html"><![CDATA[<script type="text/javascript">
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+}
+</script>
+
+<div class="music-tracks">
     
         
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Peter Gunn - </span>
-                <span> Main Theme </span>
+                <span> <strong>Main Theme</strong> </span>
                 
-                <span> by Henry Mancini</span>
+                <span> <span class="dark-grey">by</span> Henry Mancini</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=nz3WMFEC9Gs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/S0j3r?i=299670942" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn/id299670828?i=299670942&app=music&ign-mpt=uo%3D4');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3RRdmSE4Vytb60hakTWNb3" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -47,19 +62,23 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Peter Gunn - </span>
-                <span> Spook! </span>
+                <span> <strong>Spook!</strong> </span>
                 
-                <span> by Henry Mancini</span>
+                <span> <span class="dark-grey">by</span> Henry Mancini</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=KexV_b7hY00" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/S0j3r?i=299670972" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn-music-from-the-tv-series/id299670828?i=299670972');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://www.youtube.com/watch?v=KexV_b7hY00" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -70,19 +89,23 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Brahms: Piano Concerto No. 2, III. Andante </span>
+                <span> <strong>Brahms: Piano Concerto No. 2, III. Andante</strong> </span>
                 
-                <span> by Eugen Jochum & Berlin Philharmonic</span>
+                <span> <span class="dark-grey">by</span> Eugen Jochum & Berlin Philharmonic</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=0KQSF2V7vh0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/Odvd6?i=973951217" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-the-piano-concertos-fantasias-op-116/id973951208?i=973951217');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0iLSUQGuPzEzFg3dhlAZI4" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -93,16 +116,20 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Brahms: Variations on a Theme of Haydn, Finale </span>
+                <span> <strong>Brahms: Variations on a Theme of Haydn, Finale</strong> </span>
                 
-                <span> by Valery Gergiev & London Symphony Orchestra</span>
+                <span> <span class="dark-grey">by</span> Valery Gergiev & London Symphony Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=GrcaTCrgMBk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/smlMp?i=261666995" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-piaño-concerto-no-2-haydn-variations/id261665554?i=261666995');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                
+                
                 
                 
                 
@@ -114,22 +141,26 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Should Have Known Better </span>
+                <span> <strong>Should Have Known Better</strong> </span>
                 
-                <span> by Sufjan Stevens</span>
+                <span> <span class="dark-grey">by</span> Sufjan Stevens</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lJJT00wqlOo" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/igo94?i=955572619" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/carrie-lowell/id955572616?i=955572619');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Sufjan-stevens-should-have-known-better-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
@@ -139,20 +170,22 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Ludwig van Beethoven: Symphony No. 7 </span>
+                <span> <strong>Ludwig van Beethoven: Symphony No. 7</strong> </span>
                 
-                <span> by Leonard Bernstein & New York Philharmonic</span>
+                <span> <span class="dark-grey">by</span> Leonard Bernstein & New York Philharmonic</span>
             </p></div>
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/t3oxB?i=459075579" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/beethoven-symphony-no-2-in-d-major-op-36-symphony-no/id459075027?i=459075579');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/39ZBv0BWVhcY2d2dniNuTd" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
-                    <a class="music-link music-link-geniuslyrics" href="" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
+                
+                
                 
             </div>
         </div>
@@ -162,17 +195,21 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Mahler: Symphony No. 6, "Tragic", III. Andante Moderato </span>
+                <span> <strong>Mahler: Symphony No. 6, "Tragic", III. Andante Moderato</strong> </span>
                 
-                <span> by Leonard Bernstein & New York Philharmonic</span>
+                <span> <span class="dark-grey">by</span> Leonard Bernstein & New York Philharmonic</span>
             </p></div>
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/1WoJu?i=344780042" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/mahler-symphony-no-6/id344779829?i=344780042');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2jQYbcE2g0ndBu6BHJjsWA" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -183,21 +220,25 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Mudra - </span>
-                <span> Lahore Connection </span>
+                <span> <strong>Lahore Connection</strong> </span>
                 
-                <span> by Prem Joshua</span>
+                <span> <span class="dark-grey">by</span> Prem Joshua</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=44NBdnym_do" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/VXY8z?i=435367028" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.tunes.apple.com/us/album/mudra/id435367023?i=435367028');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/53cDaVwZz2DGa0Hp7GciBI" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
         
@@ -206,19 +247,23 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Slavonic March ("Marche Slave") </span>
+                <span> <strong>Slavonic March ("Marche Slave")</strong> </span>
                 
-                <span> by Valery Gergiev & Mariinsky Theatre Orchestra</span>
+                <span> <span class="dark-grey">by</span> Valery Gergiev & Mariinsky Theatre Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/pEZQt?i=329990057" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-1812-overture-moscow-cantata-marche-slave/id329987983?i=329990057');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2ekobkR084HwfutkbznsLk" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
         
@@ -227,16 +272,20 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Tchaikovsky: Symphony No. 4 </span>
+                <span> <strong>Tchaikovsky: Symphony No. 4</strong> </span>
                 
-                <span> by Valery Gergiev & Mariinsky Theatre Orchestra</span>
+                <span> <span class="dark-grey">by</span> Valery Gergiev & Mariinsky Theatre Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=V-MH3DnBDn8&index=1&list=PLmIi1Kb7sWB9iWuXrzlaUBOw7z8wY8CxQ" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/KWTCB" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-symphony-no-4/id460512292');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                
+                
                 
                 
                 
@@ -248,22 +297,26 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Memories...Do Not Open - </span>
-                <span> Something Just Like This </span>
+                <span> <strong>Something Just Like This</strong> </span>
                 
-                <span> by The Chainsmokers & Coldplay</span>
+                <span> <span class="dark-grey">by</span> The Chainsmokers & Coldplay</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=FM7MFYoylVs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/MiZ8hb?i=1207120448" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/memories-do-not-open/id1207120422?i=1207120448');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/The-chainsmokers-and-coldplay-something-just-like-this-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
@@ -272,6 +325,7 @@
         
     
 </div>
+
 ]]></content>
   </entry>
   
@@ -280,33 +334,51 @@
     <link href="/music/2017/03/"/>
     <updated>2017-03-13T14:50:00-07:00</updated>
     <id>/music/2017/march-2017</id>
-    <content type="html"><![CDATA[<div class="music-tracks">
+    <content type="html"><![CDATA[<script type="text/javascript">
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+}
+</script>
+
+<div class="music-tracks">
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Masaan - </span>
-                <span> Mann Kasturi </span>
+                <span> <strong>Mann Kasturi</strong> </span>
                 
-                <span> by Indian Ocean</span>
+                <span> <span class="dark-grey">by</span> Indian Ocean</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://youtu.be/kI3Zq6fJ5eM?t=3m49s" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/y1zWcb?i=1119985116" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/masaan-original-motion-picture-soundtrack-single/id1119984984?i=1119985116');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                
+                
                 
                 
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Inside Llewyn Davis - </span>
-                <span> Fare Thee Well </span>
-                <span> (cover) </span>
-                <span> by Dan & Charlie</span>
+                <span> <strong>Fare Thee Well</strong> </span>
+                <span class="dark-grey"> (cover) </span>
+                <span> <span class="dark-grey">by</span> Dan & Charlie</span>
             </p></div>
             <div class="music-links">
                 
@@ -315,283 +387,361 @@
                 
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Oscar-isaac-and-marcus-mumford-fare-thee-well-dinks-song-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Inside Llewyn Davis - </span>
-                <span> Fare Thee Well </span>
+                <span> <strong>Fare Thee Well</strong> </span>
                 
-                <span> by Oscar Isaac & Marcus Mumford</span>
+                <span> <span class="dark-grey">by</span> Oscar Isaac & Marcus Mumford</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=W4GyKTRduhs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/X4qFQ?i=712838720" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/inside-llewyn-davis-original-soundtrack-recording/id712838705?i=712838720');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Oscar-isaac-and-marcus-mumford-fare-thee-well-dinks-song-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Pete Townshend Classic Quadrophenia - </span>
-                <span> The Rock </span>
+                <span> <strong>The Rock</strong> </span>
                 
-                <span> by Robert Ziegler & Royal Philharmonic Orchestra</span>
+                <span> <span class="dark-grey">by</span> Robert Ziegler & Royal Philharmonic Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/myV36?i=987692452" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/pete-townshends-classic-quadrophenia/id987690508?i=987692452');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6CFoXdpTTmMGJCcHs0skKq" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> The Doors Concerto: Riders on the Storm </span>
+                <span> <strong>The Doors Concerto: Riders on the Storm</strong> </span>
                 
-                <span> by Nigel Kennedy, Jaz Coleman and Prague Symphony Orchestra</span>
+                <span> <span class="dark-grey">by</span> Nigel Kennedy, Jaz Coleman and Prague Symphony Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=z2Uz3AsVOi4" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/TQ3q?i=4422242" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/riders-on-the-storm-the-doors-concerto/id4422317?i=4422242');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2PDJMbjCieq3UOmSF7CUZS" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Metallica - </span>
-                <span> Nothing Else Matters </span>
-                <span> (live cover) </span>
-                <span> by Metallica and San Francisco Symphony Orchestra</span>
+                <span> <strong>Nothing Else Matters</strong> </span>
+                <span class="dark-grey"> (live cover) </span>
+                <span> <span class="dark-grey">by</span> Metallica and San Francisco Symphony Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=Q93n3dvaaTI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/2JjII?i=579377485" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/s-m-live/id579377398?i=579377485');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6R2MWNoXJ2UKYLDQZrZFy6" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Metallica-nothing-else-matters-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Nothing Else Matters </span>
+                <span> <strong>Nothing Else Matters</strong> </span>
                 
-                <span> by Metallica</span>
+                <span> <span class="dark-grey">by</span> Metallica</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=waBb-UM5m4g" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/wEiII?i=579373086" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/metallica/id579372950?i=579373086');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Metallica-nothing-else-matters-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Symphony No. 4 "Heroes", I. Heroes </span>
+                <span> <strong>Symphony No. 4 "Heroes", I. Heroes</strong> </span>
                 
-                <span> by Philip Glass</span>
+                <span> <span class="dark-grey">by</span> Philip Glass</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=Hepf31JoBNo" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/qtmGm?i=209765595" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/glass-symphony-no-4-heroes-the-light/id209765584?i=209765595');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/7nHSsZVDYOGyV0jwvDWaRq" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> I Like It Like That </span>
+                <span> <strong>I Like It Like That</strong> </span>
                 
-                <span> by Pete Rodriguez</span>
+                <span> <span class="dark-grey">by</span> Pete Rodriguez</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=CIJfdVPACyw" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/qKELE?i=513141189" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/i-like-it-like-that/id513141008?i=513141189');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Pete-rodriguez-i-like-it-like-that-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Plastic Beach - </span>
-                <span> On Melancholy Hill </span>
+                <span> <strong>On Melancholy Hill</strong> </span>
                 
-                <span> by Gorillaz</span>
+                <span> <span class="dark-grey">by</span> Gorillaz</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=04mfKJWDSzI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/KKv7Q?i=720198178" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198178');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Gorillaz-on-melancholy-hill-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Rhinestone Eyes </span>
+                <span> <strong>Rhinestone Eyes</strong> </span>
                 
-                <span> by Gorillaz</span>
+                <span> <span class="dark-grey">by</span> Gorillaz</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=yYDmaexVHic" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/KKv7Q?i=720198093" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198093');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Gorillaz-rhinestone-eyes-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Xtatic Truth </span>
+                <span> <strong>Xtatic Truth</strong> </span>
                 
-                <span> by Crystal Fighters</span>
+                <span> <span class="dark-grey">by</span> Crystal Fighters</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=EfVuVLis8wU" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/vdA2E?i=517579089" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/star-of-love/id517578965?i=517579089');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://play.spotify.com/track/133uDbk8HSSmtYj3eshOY6" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Crystal-fighters-xtatic-truth-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Ludwig van Beethoven - </span>
-                <span> Symphony No. 7, II. Allegretto </span>
+                <span> <strong>Symphony No. 7, II. Allegretto</strong> </span>
                 
-                <span> by Joshua Bell & Academy of St. Martin in the Fields</span>
+                <span> <span class="dark-grey">by</span> Joshua Bell & Academy of St. Martin in the Fields</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=6AtnngKU-7c" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/2Cj6I?i=585668704" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/beethoven-symphonies-nos-4-7/id585668406?i=585668704');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5f0XjqrPQfzKz7vYGw2RUD" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> I Wanna Go To Marz (feat. Midlake) </span>
+                <span> <strong>I Wanna Go To Marz (feat. Midlake)</strong> </span>
                 
-                <span> by John Grant</span>
+                <span> <span class="dark-grey">by</span> John Grant</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=83iPcpY3TPg" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/hofSab?i=1085297546" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/marz/id1085297543?i=1085297546&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5YxtCGHvn9oE43NM9Hh5VE" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/John-grant-marz-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Pharrell Williams - </span>
-                <span> Happy </span>
-                <span> (live loop cover) </span>
-                <span> by Randler Music</span>
+                <span> <strong>Happy</strong> </span>
+                <span class="dark-grey"> (live loop cover) </span>
+                <span> <span class="dark-grey">by</span> Randler Music</span>
             </p></div>
             <div class="music-links">
                 
@@ -600,15 +750,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (cover) </span>
-                <span> by Randler Music</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (cover) </span>
+                <span> <span class="dark-grey">by</span> Randler Music</span>
             </p></div>
             <div class="music-links">
                 
@@ -617,15 +773,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (a cappella cover) </span>
-                <span> by The Gentlemen of the College</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (a cappella cover) </span>
+                <span> <span class="dark-grey">by</span> The Gentlemen of the College</span>
             </p></div>
             <div class="music-links">
                 
@@ -634,15 +796,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (rock cover) </span>
-                <span> by Touch of Class</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (rock cover) </span>
+                <span> <span class="dark-grey">by</span> Touch of Class</span>
             </p></div>
             <div class="music-links">
                 
@@ -651,36 +819,48 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>The Weeknd - </span>
-                <span> Starboy </span>
-                <span> (fingerstyle guitar cover) </span>
-                <span> by Eddie van der Meer</span>
+                <span> <strong>Starboy</strong> </span>
+                <span class="dark-grey"> (fingerstyle guitar cover) </span>
+                <span> <span class="dark-grey">by</span> Eddie van der Meer</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=jG1lbuvKVM0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/oq20hb?i=1205036198" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/starboy-feat-daft-punk/id1156172520?i=1156172683&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5ZlAq2Z7GglWqlr1j8I4eB" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Gustavo Santaolalla - </span>
-                <span> The Last of Us </span>
-                <span> (fingerstyle guitar cover) </span>
-                <span> by Eddie van der Meer</span>
+                <span> <strong>The Last of Us</strong> </span>
+                <span class="dark-grey"> (fingerstyle guitar cover) </span>
+                <span> <span class="dark-grey">by</span> Eddie van der Meer</span>
             </p></div>
             <div class="music-links">
                 
@@ -689,15 +869,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Pirates of the Caribbean (Dead Man's Chest) - </span>
-                <span> Davy Jones </span>
-                <span> (fingerstyle guitar cover) </span>
-                <span> by Eddie van der Meer</span>
+                <span> <strong>Davy Jones</strong> </span>
+                <span class="dark-grey"> (fingerstyle guitar cover) </span>
+                <span> <span class="dark-grey">by</span> Eddie van der Meer</span>
             </p></div>
             <div class="music-links">
                 
@@ -706,80 +892,104 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>xx - </span>
-                <span> Crystalised </span>
+                <span> <strong>Crystalised</strong> </span>
                 
-                <span> by The xx</span>
+                <span> <span class="dark-grey">by</span> The xx</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=Pib8eYDSFEI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/NV3Ot?i=329481203" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/crystalised/id329481191?i=329481203&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/1nmCmB3qdXrzxFhvLJuhuB" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/The-xx-crystalised-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>The Game of Thrones Symphony - </span>
-                <span> Light of the Seven </span>
-                <span> (cover) </span>
-                <span> by City of Prague Philharmonic Orchestra (and choir)</span>
+                <span> <strong>Light of the Seven</strong> </span>
+                <span class="dark-grey"> (cover) </span>
+                <span> <span class="dark-grey">by</span> City of Prague Philharmonic Orchestra (and choir)</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lNroNErjdo0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/msS9hb?i=1207354536" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/light-of-the-seven/id1207354508?i=1207354536&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                
+                
                 
                 
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>I See You - </span>
-                <span> I Dare You </span>
+                <span> <strong>I Dare You</strong> </span>
                 
-                <span> by The xx</span>
+                <span> <span class="dark-grey">by</span> The xx</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lGBn9_aEtB8" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/C8gYfb?i=1170764262" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/i-dare-you/id1170763548?i=1170764262&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/044qU7kwVZaDwzWnRsmVVL" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/The-xx-i-dare-you-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (epic chant) </span>
-                <span> by Gregorian</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (epic chant) </span>
+                <span> <span class="dark-grey">by</span> Gregorian</span>
             </p></div>
             <div class="music-links">
                 
@@ -788,15 +998,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Bohemian Rhapsody for Symphony Orchestra and Solo Viola </span>
+                <span> <strong>Bohemian Rhapsody for Symphony Orchestra and Solo Viola</strong> </span>
                 
-                <span> by The Indiana University Symphony Orchestra</span>
+                <span> <span class="dark-grey">by</span> The Indiana University Symphony Orchestra</span>
             </p></div>
             <div class="music-links">
                 
@@ -805,15 +1021,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (sax cover) </span>
-                <span> by MusicianWave</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (sax cover) </span>
+                <span> <span class="dark-grey">by</span> MusicianWave</span>
             </p></div>
             <div class="music-links">
                 
@@ -822,15 +1044,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (orchestral cover) </span>
-                <span> by Bellows Free Academy St. Albans</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (orchestral cover) </span>
+                <span> <span class="dark-grey">by</span> Bellows Free Academy St. Albans</span>
             </p></div>
             <div class="music-links">
                 
@@ -839,15 +1067,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (cover) </span>
-                <span> by Nouela</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (cover) </span>
+                <span> <span class="dark-grey">by</span> Nouela</span>
             </p></div>
             <div class="music-links">
                 
@@ -856,36 +1090,48 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (cover) </span>
-                <span> by Disturbed</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (cover) </span>
+                <span> <span class="dark-grey">by</span> Disturbed</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=u9Dg-g7t2l4" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/Ovkb8?i=1006937459" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/the-sound-of-silence/id1006937448?i=1006937459&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0UYPJogBP1JDvfTSSbEvL0" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (guitar cover) </span>
-                <span> by Caliko Kat</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (guitar cover) </span>
+                <span> <span class="dark-grey">by</span> Caliko Kat</span>
             </p></div>
             <div class="music-links">
                 
@@ -894,15 +1140,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (guitar cover) </span>
-                <span> by BurnsErnst</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (guitar cover) </span>
+                <span> <span class="dark-grey">by</span> BurnsErnst</span>
             </p></div>
             <div class="music-links">
                 
@@ -911,15 +1163,21 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Simon & Garfunkel - </span>
-                <span> The Sound of Silence </span>
-                <span> (guitar cover) </span>
-                <span> by geoffers47</span>
+                <span> <strong>The Sound of Silence</strong> </span>
+                <span class="dark-grey"> (guitar cover) </span>
+                <span> <span class="dark-grey">by</span> geoffers47</span>
             </p></div>
             <div class="music-links">
                 
@@ -928,38 +1186,50 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> The Sound of Silence </span>
+                <span> <strong>The Sound of Silence</strong> </span>
                 
-                <span> by Simon & Garfunkel</span>
+                <span> <span class="dark-grey">by</span> Simon & Garfunkel</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=4fWyzwo1xg0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/aqqEl?i=192480260" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/the-sound-of-silence/id192480256?i=192480260&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Simon-and-garfunkel-the-sound-of-silence-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
+        
     
+        
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>How to Train Your Dragon - </span>
-                <span> Forbidden Friendship </span>
-                <span> (handbells cover) </span>
-                <span> by The UNSW Handbells Society</span>
+                <span> <strong>Forbidden Friendship</strong> </span>
+                <span class="dark-grey"> (handbells cover) </span>
+                <span> <span class="dark-grey">by</span> The UNSW Handbells Society</span>
             </p></div>
             <div class="music-links">
                 
@@ -968,10 +1238,16 @@
                 
                 
                 
+                
+                
+                
+                
             </div>
         </div>
+        
     
 </div>
+
 ]]></content>
   </entry>
   

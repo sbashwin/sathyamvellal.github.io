@@ -86,7 +86,7 @@
     <div class="music-top" id="stage">
         <p><strong><i class="fa fa-headphones" aria-hidden="true"></i></strong><p>
         <p>Music I like/listen to.</p>
-        <p class="work-in-progress">This space shows recents. Updated monthly music archives are below.</p>
+        <p class="grey">This space shows recents. Updated monthly music archives are below.</p>
     </div>
 
     <div class="music-posts">
@@ -97,25 +97,40 @@
                           <span class="url"><a href="/music/new">New Music This Week</a></span>
                         </div>
                         <div class="music-post-content">
-                            <div class="music-tracks">
+                            <script type="text/javascript">
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+}
+</script>
+
+<div class="music-tracks">
     
         
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Peter Gunn - </span>
-                <span> Main Theme </span>
+                <span> <strong>Main Theme</strong> </span>
                 
-                <span> by Henry Mancini</span>
+                <span> <span class="dark-grey">by</span> Henry Mancini</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=nz3WMFEC9Gs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/S0j3r?i=299670942" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn/id299670828?i=299670942&app=music&ign-mpt=uo%3D4');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3RRdmSE4Vytb60hakTWNb3" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -126,19 +141,23 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Peter Gunn - </span>
-                <span> Spook! </span>
+                <span> <strong>Spook!</strong> </span>
                 
-                <span> by Henry Mancini</span>
+                <span> <span class="dark-grey">by</span> Henry Mancini</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=KexV_b7hY00" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/S0j3r?i=299670972" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn-music-from-the-tv-series/id299670828?i=299670972');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://www.youtube.com/watch?v=KexV_b7hY00" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -149,19 +168,23 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Brahms: Piano Concerto No. 2, III. Andante </span>
+                <span> <strong>Brahms: Piano Concerto No. 2, III. Andante</strong> </span>
                 
-                <span> by Eugen Jochum & Berlin Philharmonic</span>
+                <span> <span class="dark-grey">by</span> Eugen Jochum & Berlin Philharmonic</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=0KQSF2V7vh0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/Odvd6?i=973951217" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-the-piano-concertos-fantasias-op-116/id973951208?i=973951217');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0iLSUQGuPzEzFg3dhlAZI4" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -172,16 +195,20 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Brahms: Variations on a Theme of Haydn, Finale </span>
+                <span> <strong>Brahms: Variations on a Theme of Haydn, Finale</strong> </span>
                 
-                <span> by Valery Gergiev & London Symphony Orchestra</span>
+                <span> <span class="dark-grey">by</span> Valery Gergiev & London Symphony Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=GrcaTCrgMBk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/smlMp?i=261666995" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-piaño-concerto-no-2-haydn-variations/id261665554?i=261666995');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                
+                
                 
                 
                 
@@ -193,22 +220,26 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Should Have Known Better </span>
+                <span> <strong>Should Have Known Better</strong> </span>
                 
-                <span> by Sufjan Stevens</span>
+                <span> <span class="dark-grey">by</span> Sufjan Stevens</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lJJT00wqlOo" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/igo94?i=955572619" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/carrie-lowell/id955572616?i=955572619');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/Sufjan-stevens-should-have-known-better-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
@@ -218,20 +249,22 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Ludwig van Beethoven: Symphony No. 7 </span>
+                <span> <strong>Ludwig van Beethoven: Symphony No. 7</strong> </span>
                 
-                <span> by Leonard Bernstein & New York Philharmonic</span>
+                <span> <span class="dark-grey">by</span> Leonard Bernstein & New York Philharmonic</span>
             </p></div>
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/t3oxB?i=459075579" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/beethoven-symphony-no-2-in-d-major-op-36-symphony-no/id459075027?i=459075579');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/39ZBv0BWVhcY2d2dniNuTd" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
-                    <a class="music-link music-link-geniuslyrics" href="" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
+                
+                
                 
             </div>
         </div>
@@ -241,17 +274,21 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Mahler: Symphony No. 6, "Tragic", III. Andante Moderato </span>
+                <span> <strong>Mahler: Symphony No. 6, "Tragic", III. Andante Moderato</strong> </span>
                 
-                <span> by Leonard Bernstein & New York Philharmonic</span>
+                <span> <span class="dark-grey">by</span> Leonard Bernstein & New York Philharmonic</span>
             </p></div>
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/1WoJu?i=344780042" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/mahler-symphony-no-6/id344779829?i=344780042');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2jQYbcE2g0ndBu6BHJjsWA" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
                 
                 
             </div>
@@ -262,21 +299,25 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Mudra - </span>
-                <span> Lahore Connection </span>
+                <span> <strong>Lahore Connection</strong> </span>
                 
-                <span> by Prem Joshua</span>
+                <span> <span class="dark-grey">by</span> Prem Joshua</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=44NBdnym_do" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/VXY8z?i=435367028" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.tunes.apple.com/us/album/mudra/id435367023?i=435367028');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/53cDaVwZz2DGa0Hp7GciBI" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
         
@@ -285,19 +326,23 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Slavonic March ("Marche Slave") </span>
+                <span> <strong>Slavonic March ("Marche Slave")</strong> </span>
                 
-                <span> by Valery Gergiev & Mariinsky Theatre Orchestra</span>
+                <span> <span class="dark-grey">by</span> Valery Gergiev & Mariinsky Theatre Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/pEZQt?i=329990057" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-1812-overture-moscow-cantata-marche-slave/id329987983?i=329990057');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2ekobkR084HwfutkbznsLk" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
+                
             </div>
         </div>
         
@@ -306,16 +351,20 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 
-                <span> Tchaikovsky: Symphony No. 4 </span>
+                <span> <strong>Tchaikovsky: Symphony No. 4</strong> </span>
                 
-                <span> by Valery Gergiev & Mariinsky Theatre Orchestra</span>
+                <span> <span class="dark-grey">by</span> Valery Gergiev & Mariinsky Theatre Orchestra</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=V-MH3DnBDn8&index=1&list=PLmIi1Kb7sWB9iWuXrzlaUBOw7z8wY8CxQ" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/KWTCB" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-symphony-no-4/id460512292');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                
+                
                 
                 
                 
@@ -327,22 +376,26 @@
         <div class="music-track">
             <div class="music-track-title"><p>
                 <span>Memories...Do Not Open - </span>
-                <span> Something Just Like This </span>
+                <span> <strong>Something Just Like This</strong> </span>
                 
-                <span> by The Chainsmokers & Coldplay</span>
+                <span> <span class="dark-grey">by</span> The Chainsmokers & Coldplay</span>
             </p></div>
             <div class="music-links">
                 
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=FM7MFYoylVs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="https://itun.es/us/MiZ8hb?i=1207120448" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/memories-do-not-open/id1207120422?i=1207120448');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
+                
+                
+                
                     <a class="music-link music-link-geniuslyrics" href="https://genius.com/The-chainsmokers-and-coldplay-something-just-like-this-lyrics" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
                 
             </div>
         </div>
