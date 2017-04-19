@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Apr 2017 23:36:08 -0700</pubDate>
-    <lastBuildDate>Tue, 18 Apr 2017 23:36:08 -0700</lastBuildDate>
+    <pubDate>Tue, 18 Apr 2017 23:43:22 -0700</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2017 23:43:22 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -222,7 +222,7 @@ function openAppleMusic(url) {
                     &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=44NBdnym_do&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
                 
                 
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.tunes.apple.com/us/album/mudra/id435367023?i=435367028');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/mudra/id435367023?i=435367028');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
                 
                 
                     &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/53cDaVwZz2DGa0Hp7GciBI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
