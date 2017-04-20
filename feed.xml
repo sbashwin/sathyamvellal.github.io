@@ -5,12 +5,12 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Apr 2017 19:20:22 -0700</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2017 19:20:22 -0700</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2017 19:38:50 -0700</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 19:38:50 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>April 2017</title>
+        <title>Music Archive - April 2017</title>
         <description>&lt;script type=&quot;text/javascript&quot;&gt;
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -330,7 +330,7 @@ function openAppleMusic(url) {
       </item>
     
       <item>
-        <title>March 2017</title>
+        <title>Music Archive - March 2017</title>
         <description>&lt;script type=&quot;text/javascript&quot;&gt;
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -1256,7 +1256,7 @@ function openAppleMusic(url) {
       </item>
     
       <item>
-        <title>February 2017</title>
+        <title>Music Archive - February 2017</title>
         <description>&lt;script type=&quot;text/javascript&quot;&gt;
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
