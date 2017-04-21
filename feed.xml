@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Apr 2017 21:13:43 -0700</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2017 21:13:43 -0700</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2017 21:24:08 -0700</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2017 21:24:08 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -288,8 +288,6 @@ function openAppleMusic(url) {
                     &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2dH7BXGFX9dVzHR3MMv0OG&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
                 
                 
-                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tajhqo4ugez7ku3synbdqy7vs3m&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
-                
                 
                 
                 
@@ -371,8 +369,6 @@ function openAppleMusic(url) {
                     &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6v8TkIE3rRdUD2msyIpznf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
                 
                 
-                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tbpmehh4zmus74ffcxadkds6kfa&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
-                
                 
                     &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/junkiexl/03-leave-behind-your-ego-2&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
                 
@@ -399,8 +395,6 @@ function openAppleMusic(url) {
                 
                     &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6X26rLdeqAjcUCO08c9HDZ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
                 
-                
-                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tdoukj5kb447fbbup6enhnybjsu&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
                 
                 
                     &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/nettwerkmusicgroup/junkie-xl-kill-the-band&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
@@ -506,8 +500,6 @@ function openAppleMusic(url) {
                     &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7F7dxDZ87XBxBzZgpDRnFN&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
                 
                 
-                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/T3fp475z52zd7wzq3af5nqn7udi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
-                
                 
                 
                 
@@ -532,8 +524,6 @@ function openAppleMusic(url) {
                     &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/summertime-sadness-nick-warrens-vocal-remix/id824271963?i=824271970&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
                 
                 
-                
-                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tx6ym2cezna4v3q55meuqzqypyq&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
                 
                 
                 
