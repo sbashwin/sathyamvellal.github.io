@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Apr 2017 19:38:50 -0700</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2017 19:38:50 -0700</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2017 21:13:43 -0700</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2017 21:13:43 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -22,7 +22,611 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
+
+
 &lt;div class=&quot;music-tracks&quot;&gt;
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Back To Life - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Hot&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sarah Ozelle&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=6LOeWRstavM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://sarahozelle.bandcamp.com/track/hot&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Sarah-Ozelle/Hot&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt; &lt;strong&gt;Stranger Think&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (Stranger Things remix) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; C418&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=Jmv5pTyz--I&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/c418/stranger-think&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://c418.bandcamp.com/track/stranger-think&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Psychocandy - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Just Like Honey&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; The Jesus and Mary Chain&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=7EgB__YratE&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/psychocandy-expanded-version/id464703647?i=464703649');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://itun.es/us/FcTSB?i=464703649&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Tchaikovsky - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Slavonic March (Marche Slave)&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Bernard Haitink &amp; Royal Concertgebouw Orchestra&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=VEQiHLMj6es&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://itunes.apple.com/us/album/tchaikovsky-the-symphonies/id722096687?i=722096969');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/71hUD2txcSJ4uSzYRQhS38&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Tandanu - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Tandanu (feat. Shankar Mahadevan)&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Indian Ocean&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://youtu.be/qCjKMnTLBMU?t=15m39s&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tandanu/id874483796?i=874483826');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2d4GucTQJVp7XXToFJ7Wvx&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/indian-ocean-music/tandanu&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Indian-Ocean-feat-Shankar-Mahadevan/Tandanu&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Navarasam - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;One&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Siddharth Menon &amp; Thaikkudam Bridge&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=XSZHjIWX6qY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://itunes.apple.com/us/album/navarasam/id1053123387?i=1053123579');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Siddharth-Menon/One&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Brahms - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Variations on a Theme by Haydn, X. Finale&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Royal Concertgebouw Orchestra&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289328');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7onQyhUmsH6MDmrJ5L11Nc&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Brahms - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Piano Concert No. 2, III. Andante&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Royal Concertgebouw Orchestra&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289051');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5p4dXXDQDo25YauDTAQABz&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Fujiya &amp; Miyagi - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Synthetic Symphonies&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Fujiya &amp; Miyagi&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/synthetic-symphonies/id1203768292?i=1203768422&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5SV7IlVfw952Re11yrWybh&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Mad Max Fury: Road - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Brothers In Arms (Extended Version)&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=xllG3fSUAOw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brothers-in-arms-extended-version/id981700350?i=981700399&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2dH7BXGFX9dVzHR3MMv0OG&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tajhqo4ugez7ku3synbdqy7vs3m&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Man of Steel - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Arcade&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Hans Zimmer &amp; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=JoNf4hfbfBI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/arcade/id642515245?i=642515587&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Synthesized - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Synthesized&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=wFAo-GFR6r0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/synthesized/id568763558?i=568763562&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/55Jrk2h02qqVF73CnDCXQh&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/nettwerkmusicgroup/junkie-xl-synthesized&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Synthesized - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Leave Behind Your Ego&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=HfHfP0JHKSk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/leave-behind-your-ego-feat-timothy-leary/id568763558?i=568763561&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6v8TkIE3rRdUD2msyIpznf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tbpmehh4zmus74ffcxadkds6kfa&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/junkiexl/03-leave-behind-your-ego-2&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Synthesized - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Kill the Band&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/kill-the-band-feat-joost-van-bellen/id568763558?i=568763572&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6X26rLdeqAjcUCO08c9HDZ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tdoukj5kb447fbbup6enhnybjsu&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/nettwerkmusicgroup/junkie-xl-kill-the-band&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Celebrate the Oscars - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;D_Generation&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/d-generation/id505624696?i=505624806&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt; &lt;strong&gt;Growing Sun&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Kilon Tek&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=MgtZc3mbtPU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://kilontek.bandcamp.com/track/growing-sun&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Tracers - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Angry Elephants&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=AA35zJbNtwM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/angry-elephants/id988109762?i=988110385&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/3NxMf9se0uk7LZnvfDTOur&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Divergent - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Choosing Dauntless&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Tom Holkenborg aka Junkie XL&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=G3hr_U6a3fw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/choosing-dauntless-feat-ellie-goulding/id837049349?i=837049409&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7F7dxDZ87XBxBzZgpDRnFN&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/T3fp475z52zd7wzq3af5nqn7udi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Lana Del Rey - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Summertime Sadness&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (vocal remix) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Nick Warren&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=Sefhiio_XFU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/summertime-sadness-nick-warrens-vocal-remix/id824271963?i=824271970&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-playmusic&quot; href=&quot;https://play.google.com/music/r/m/Tx6ym2cezna4v3q55meuqzqypyq&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span class=&quot;orange&quot;&gt;&lt;i class=&quot;fa fa-play-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;grey&quot;&gt;Play&lt;/span&gt;&lt;span class=&quot;orange&quot;&gt;Music&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Forever - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Do It Again (feat. GOOSE)&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Soldout&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=TdMwg22Q-QA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/do-it-again-feat-goose/id1201874335?i=1201875556&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0YC285VZVUJndRtYth1530&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://wearesoldout.bandcamp.com/track/do-it-again-feat-goose&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                &lt;span&gt;Forever - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Forever&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Soldout&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/forever/id1201874335?i=1201875539&amp;mt=1&amp;app=music');&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5V2iBVHlajrQg15YTsJSSQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://wearesoldout.bandcamp.com/track/forever&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Soldout/Forever&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt; &lt;strong&gt;Everyone is Dark&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; New Canyons&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=99Z-9yLa5CU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4Psp8FfOxtkHrbeTqGz0UV&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://newcanyons.bandcamp.com/track/everyone-is-dark&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
     
         
         &lt;div class=&quot;music-track&quot;&gt;
@@ -341,6 +945,8 @@ function openAppleMusic(url) {
     }
 }
 &lt;/script&gt;
+
+
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -1267,6 +1873,8 @@ function openAppleMusic(url) {
     }
 }
 &lt;/script&gt;
+
+
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
