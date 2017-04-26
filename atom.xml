@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2017-04-25T22:02:18-07:00</updated>
+  <updated>2017-04-25T22:53:42-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -38,6 +38,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Back To Life - </span>
                 <span> <strong>Hot</strong> </span>
                 
@@ -66,6 +67,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Stranger Think</strong> </span>
                 <span class="dark-grey"> (Stranger Things remix) </span>
                 <span> <span class="dark-grey">by</span> C418</span>
@@ -92,6 +94,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Psychocandy - </span>
                 <span> <strong>Just Like Honey</strong> </span>
                 
@@ -121,6 +124,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Tchaikovsky - </span>
                 <span> <strong>Slavonic March (Marche Slave)</strong> </span>
                 
@@ -148,6 +152,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Tandanu - </span>
                 <span> <strong>Tandanu (feat. Shankar Mahadevan)</strong> </span>
                 
@@ -179,6 +184,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Navarasam - </span>
                 <span> <strong>One</strong> </span>
                 
@@ -206,6 +212,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Brahms - </span>
                 <span> <strong>Variations on a Theme by Haydn, X. Finale</strong> </span>
                 
@@ -231,6 +238,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Brahms - </span>
                 <span> <strong>Piano Concert No. 2, III. Andante</strong> </span>
                 
@@ -256,6 +264,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Fujiya & Miyagi - </span>
                 <span> <strong>Synthetic Symphonies</strong> </span>
                 
@@ -281,6 +290,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Mad Max Fury: Road - </span>
                 <span> <strong>Brothers In Arms (Extended Version)</strong> </span>
                 
@@ -308,6 +318,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Man of Steel - </span>
                 <span> <strong>Arcade</strong> </span>
                 
@@ -333,6 +344,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Synthesized - </span>
                 <span> <strong>Synthesized</strong> </span>
                 
@@ -362,6 +374,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Synthesized - </span>
                 <span> <strong>Leave Behind Your Ego</strong> </span>
                 
@@ -391,6 +404,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Synthesized - </span>
                 <span> <strong>Kill the Band</strong> </span>
                 
@@ -418,6 +432,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Celebrate the Oscars - </span>
                 <span> <strong>D_Generation</strong> </span>
                 
@@ -441,6 +456,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 
                 <span> <strong>Growing Sun</strong> </span>
                 
@@ -466,6 +482,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Tracers - </span>
                 <span> <strong>Angry Elephants</strong> </span>
                 
@@ -493,6 +510,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Divergent - </span>
                 <span> <strong>Choosing Dauntless</strong> </span>
                 
@@ -520,6 +538,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Lana Del Rey - </span>
                 <span> <strong>Summertime Sadness</strong> </span>
                 <span class="dark-grey"> (vocal remix) </span>
@@ -545,6 +564,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Forever - </span>
                 <span> <strong>Do It Again (feat. GOOSE)</strong> </span>
                 
@@ -574,6 +594,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Forever - </span>
                 <span> <strong>Forever</strong> </span>
                 
@@ -604,6 +625,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Everyone is Dark</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> New Canyons</span>
@@ -630,6 +652,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Peter Gunn - </span>
                 <span> <strong>Main Theme</strong> </span>
                 
@@ -657,6 +680,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Peter Gunn - </span>
                 <span> <strong>Spook!</strong> </span>
                 
@@ -685,6 +709,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Brahms: Piano Concerto No. 2, III. Andante</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Eugen Jochum & Berlin Philharmonic</span>
@@ -712,6 +737,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Brahms: Variations on a Theme of Haydn, Finale</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Valery Gergiev & London Symphony Orchestra</span>
@@ -736,6 +762,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 
                 <span> <strong>Should Have Known Better</strong> </span>
                 
@@ -766,6 +793,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Ludwig van Beethoven: Symphony No. 7</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Leonard Bernstein & New York Philharmonic</span>
@@ -791,6 +819,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Mahler: Symphony No. 6, "Tragic", III. Andante Moderato</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Leonard Bernstein & New York Philharmonic</span>
@@ -815,6 +844,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Mudra - </span>
                 <span> <strong>Lahore Connection</strong> </span>
                 
@@ -843,6 +873,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Slavonic March ("Marche Slave")</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Valery Gergiev & Mariinsky Theatre Orchestra</span>
@@ -868,6 +899,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Tchaikovsky: Symphony No. 4</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Valery Gergiev & Mariinsky Theatre Orchestra</span>
@@ -892,6 +924,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Memories...Do Not Open - </span>
                 <span> <strong>Something Just Like This</strong> </span>
                 
@@ -950,6 +983,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Masaan - </span>
                 <span> <strong>Mann Kasturi</strong> </span>
                 
@@ -975,6 +1009,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Inside Llewyn Davis - </span>
                 <span> <strong>Fare Thee Well</strong> </span>
                 <span class="dark-grey"> (cover) </span>
@@ -1000,6 +1035,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Inside Llewyn Davis - </span>
                 <span> <strong>Fare Thee Well</strong> </span>
                 
@@ -1029,6 +1065,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Pete Townshend Classic Quadrophenia - </span>
                 <span> <strong>The Rock</strong> </span>
                 
@@ -1054,6 +1091,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 
                 <span> <strong>The Doors Concerto: Riders on the Storm</strong> </span>
                 
@@ -1081,6 +1119,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Metallica - </span>
                 <span> <strong>Nothing Else Matters</strong> </span>
                 <span class="dark-grey"> (live cover) </span>
@@ -1111,6 +1150,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Nothing Else Matters</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Metallica</span>
@@ -1140,6 +1180,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Symphony No. 4 "Heroes", I. Heroes</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Philip Glass</span>
@@ -1166,6 +1207,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 
                 <span> <strong>I Like It Like That</strong> </span>
                 
@@ -1195,6 +1237,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Plastic Beach - </span>
                 <span> <strong>On Melancholy Hill</strong> </span>
                 
@@ -1225,6 +1268,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Rhinestone Eyes</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Gorillaz</span>
@@ -1254,6 +1298,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Xtatic Truth</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Crystal Fighters</span>
@@ -1282,6 +1327,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Ludwig van Beethoven - </span>
                 <span> <strong>Symphony No. 7, II. Allegretto</strong> </span>
                 
@@ -1309,6 +1355,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 
                 <span> <strong>I Wanna Go To Marz (feat. Midlake)</strong> </span>
                 
@@ -1338,6 +1385,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Pharrell Williams - </span>
                 <span> <strong>Happy</strong> </span>
                 <span class="dark-grey"> (live loop cover) </span>
@@ -1361,6 +1409,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (cover) </span>
@@ -1384,6 +1433,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (a cappella cover) </span>
@@ -1407,6 +1457,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (rock cover) </span>
@@ -1430,6 +1481,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>The Weeknd - </span>
                 <span> <strong>Starboy</strong> </span>
                 <span class="dark-grey"> (fingerstyle guitar cover) </span>
@@ -1457,6 +1509,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Gustavo Santaolalla - </span>
                 <span> <strong>The Last of Us</strong> </span>
                 <span class="dark-grey"> (fingerstyle guitar cover) </span>
@@ -1480,6 +1533,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Pirates of the Caribbean (Dead Man's Chest) - </span>
                 <span> <strong>Davy Jones</strong> </span>
                 <span class="dark-grey"> (fingerstyle guitar cover) </span>
@@ -1503,6 +1557,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>xx - </span>
                 <span> <strong>Crystalised</strong> </span>
                 
@@ -1532,6 +1587,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>The Game of Thrones Symphony - </span>
                 <span> <strong>Light of the Seven</strong> </span>
                 <span class="dark-grey"> (cover) </span>
@@ -1557,6 +1613,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>I See You - </span>
                 <span> <strong>I Dare You</strong> </span>
                 
@@ -1586,6 +1643,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (epic chant) </span>
@@ -1610,6 +1668,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Bohemian Rhapsody for Symphony Orchestra and Solo Viola</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> The Indiana University Symphony Orchestra</span>
@@ -1632,6 +1691,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (sax cover) </span>
@@ -1655,6 +1715,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (orchestral cover) </span>
@@ -1678,6 +1739,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (cover) </span>
@@ -1701,6 +1763,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (cover) </span>
@@ -1728,6 +1791,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (guitar cover) </span>
@@ -1751,6 +1815,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (guitar cover) </span>
@@ -1774,6 +1839,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Simon & Garfunkel - </span>
                 <span> <strong>The Sound of Silence</strong> </span>
                 <span class="dark-grey"> (guitar cover) </span>
@@ -1797,6 +1863,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 
                 <span> <strong>The Sound of Silence</strong> </span>
                 
@@ -1826,6 +1893,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>How to Train Your Dragon - </span>
                 <span> <strong>Forbidden Friendship</strong> </span>
                 <span class="dark-grey"> (handbells cover) </span>
@@ -1878,6 +1946,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Gioachino Rossini - </span>
                 <span> <strong>William Tell Overture</strong> </span>
                 <span class="dark-grey"> (remix) </span>
@@ -1901,6 +1970,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Clint Mansell - </span>
                 <span> <strong>Requiem for a Dream (ft. SIRI)</strong> </span>
                 <span class="dark-grey"> (Indian version) </span>
@@ -1924,6 +1994,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Antonio Vivaldi - </span>
                 <span> <strong>The Four Seasons</strong> </span>
                 
@@ -1949,6 +2020,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Inception - </span>
                 <span> <strong>TIME</strong> </span>
                 <span class="dark-grey"> (remix) </span>
@@ -1974,6 +2046,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Hans Zimmer - </span>
                 <span> <strong>Interstellar Theme</strong> </span>
                 <span class="dark-grey"> (memento chillstep remix) </span>
@@ -1999,6 +2072,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Game of Thrones - </span>
                 <span> <strong>Main Theme</strong> </span>
                 <span class="dark-grey"> (remix) </span>
@@ -2024,6 +2098,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Kashmir: Symphonic Led Zeppelin - </span>
                 <span> <strong>Kashmir</strong> </span>
                 
@@ -2051,6 +2126,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>The Resistance - </span>
                 <span> <strong>Exogenesis: Symphony, Pt. 1 (Overture)</strong> </span>
                 
@@ -2080,6 +2156,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>The Resistance - </span>
                 <span> <strong>Exogenesis: Symphony, Pt. 2 (Cross-pollination)</strong> </span>
                 
@@ -2109,6 +2186,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>The Resistance - </span>
                 <span> <strong>Exogenesis: Symphony, Pt. 3 (Redemption)</strong> </span>
                 
@@ -2139,6 +2217,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Midnight in Paris</strong> </span>
                 <span class="dark-grey"> (Music from the Motion Picture) </span>
                 
@@ -2165,6 +2244,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Star of Love - </span>
                 <span> <strong>At Home</strong> </span>
                 
@@ -2198,6 +2278,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Tchaikovsky - </span>
                 <span> <strong>Slavnoic March (Marche Slave)</strong> </span>
                 <span class="dark-grey"> (four hands piano cover) </span>
@@ -2221,6 +2302,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Tchaikovsky - </span>
                 <span> <strong>Slavonic March (Marche Slave)</strong> </span>
                 
@@ -2244,6 +2326,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Navarasam - </span>
                 <span> <strong>Navarasam</strong> </span>
                 
@@ -2272,6 +2355,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Arcadia</strong> </span>
                 <span class="dark-grey"> (Telefon Tel Aviv Version) </span>
                 <span> <span class="dark-grey">by</span> Apparat</span>
@@ -2298,6 +2382,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 
                 <span> <strong>94</strong> </span>
                 <span class="dark-grey"> (Eme DJ & Couenmain Remix) </span>
@@ -2326,6 +2411,7 @@ function openAppleMusic(url) {
         <div class="music-track">
             <div class="music-track-title"><p>
                 
+                
                 <span> <strong>Bassically</strong> </span>
                 
                 <span> <span class="dark-grey">by</span> Tei Shi</span>
@@ -2352,6 +2438,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>In Tension - </span>
                 <span> <strong>Dark Allies</strong> </span>
                 
@@ -2379,6 +2466,7 @@ function openAppleMusic(url) {
         
         <div class="music-track">
             <div class="music-track-title"><p>
+                
                 <span>Trance - </span>
                 <span> <strong>Trance 4</strong> </span>
                 
