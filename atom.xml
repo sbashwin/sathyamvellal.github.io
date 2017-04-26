@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2017-04-20T21:24:08-07:00</updated>
+  <updated>2017-04-25T22:02:18-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -26,6 +26,8 @@ function openAppleMusic(url) {
     } else { // otherwise
         window.open(url, '_blank');
     }
+
+    return false;
 }
 </script>
 
@@ -100,7 +102,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=7EgB__YratE" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/psychocandy-expanded-version/id464703647?i=464703649');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/psychocandy-expanded-version/id464703647?i=464703649" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/psychocandy-expanded-version/id464703647?i=464703649')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -129,7 +131,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=VEQiHLMj6es" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://itunes.apple.com/us/album/tchaikovsky-the-symphonies/id722096687?i=722096969');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://itunes.apple.com/us/album/tchaikovsky-the-symphonies/id722096687?i=722096969" onclick="return openAppleMusic('https://itunes.apple.com/us/album/tchaikovsky-the-symphonies/id722096687?i=722096969')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/71hUD2txcSJ4uSzYRQhS38" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -156,7 +158,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://youtu.be/qCjKMnTLBMU?t=15m39s" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tandanu/id874483796?i=874483826');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/tandanu/id874483796?i=874483826" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/tandanu/id874483796?i=874483826')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2d4GucTQJVp7XXToFJ7Wvx" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -187,7 +189,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=XSZHjIWX6qY" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://itunes.apple.com/us/album/navarasam/id1053123387?i=1053123579');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://itunes.apple.com/us/album/navarasam/id1053123387?i=1053123579" onclick="return openAppleMusic('https://itunes.apple.com/us/album/navarasam/id1053123387?i=1053123579')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -212,7 +214,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289328');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289328" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289328')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/7onQyhUmsH6MDmrJ5L11Nc" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -237,7 +239,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289051');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289051" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-complete-symphonies-concertos/id397288943?i=397289051')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5p4dXXDQDo25YauDTAQABz" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -262,7 +264,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/synthetic-symphonies/id1203768292?i=1203768422&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/synthetic-symphonies/id1203768292?i=1203768422&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/synthetic-symphonies/id1203768292?i=1203768422&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5SV7IlVfw952Re11yrWybh" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -289,7 +291,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=xllG3fSUAOw" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brothers-in-arms-extended-version/id981700350?i=981700399&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/brothers-in-arms-extended-version/id981700350?i=981700399&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/brothers-in-arms-extended-version/id981700350?i=981700399&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2dH7BXGFX9dVzHR3MMv0OG" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -316,7 +318,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=JoNf4hfbfBI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/arcade/id642515245?i=642515587&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/arcade/id642515245?i=642515587&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/arcade/id642515245?i=642515587&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -341,7 +343,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=wFAo-GFR6r0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/synthesized/id568763558?i=568763562&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/synthesized/id568763558?i=568763562&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/synthesized/id568763558?i=568763562&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/55Jrk2h02qqVF73CnDCXQh" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -370,7 +372,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=HfHfP0JHKSk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/leave-behind-your-ego-feat-timothy-leary/id568763558?i=568763561&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/leave-behind-your-ego-feat-timothy-leary/id568763558?i=568763561&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/leave-behind-your-ego-feat-timothy-leary/id568763558?i=568763561&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6v8TkIE3rRdUD2msyIpznf" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -397,7 +399,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/kill-the-band-feat-joost-van-bellen/id568763558?i=568763572&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/kill-the-band-feat-joost-van-bellen/id568763558?i=568763572&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/kill-the-band-feat-joost-van-bellen/id568763558?i=568763572&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6X26rLdeqAjcUCO08c9HDZ" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -424,7 +426,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/d-generation/id505624696?i=505624806&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/d-generation/id505624696?i=505624806&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/d-generation/id505624696?i=505624806&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -474,7 +476,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=AA35zJbNtwM" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/angry-elephants/id988109762?i=988110385&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/angry-elephants/id988109762?i=988110385&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/angry-elephants/id988109762?i=988110385&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3NxMf9se0uk7LZnvfDTOur" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -501,7 +503,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=G3hr_U6a3fw" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/choosing-dauntless-feat-ellie-goulding/id837049349?i=837049409&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/choosing-dauntless-feat-ellie-goulding/id837049349?i=837049409&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/choosing-dauntless-feat-ellie-goulding/id837049349?i=837049409&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/7F7dxDZ87XBxBzZgpDRnFN" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -528,7 +530,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=Sefhiio_XFU" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/summertime-sadness-nick-warrens-vocal-remix/id824271963?i=824271970&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/summertime-sadness-nick-warrens-vocal-remix/id824271963?i=824271970&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/summertime-sadness-nick-warrens-vocal-remix/id824271963?i=824271970&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -553,7 +555,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=TdMwg22Q-QA" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/do-it-again-feat-goose/id1201874335?i=1201875556&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/do-it-again-feat-goose/id1201874335?i=1201875556&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/do-it-again-feat-goose/id1201874335?i=1201875556&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0YC285VZVUJndRtYth1530" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -580,7 +582,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/forever/id1201874335?i=1201875539&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/forever/id1201874335?i=1201875539&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/forever/id1201874335?i=1201875539&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5V2iBVHlajrQg15YTsJSSQ" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -638,7 +640,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=nz3WMFEC9Gs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn/id299670828?i=299670942&app=music&ign-mpt=uo%3D4');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/peter-gunn/id299670828?i=299670942&app=music&ign-mpt=uo%3D4" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn/id299670828?i=299670942&app=music&ign-mpt=uo%3D4')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3RRdmSE4Vytb60hakTWNb3" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -665,7 +667,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=KexV_b7hY00" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn-music-from-the-tv-series/id299670828?i=299670972');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/peter-gunn-music-from-the-tv-series/id299670828?i=299670972" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/peter-gunn-music-from-the-tv-series/id299670828?i=299670972')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://www.youtube.com/watch?v=KexV_b7hY00" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -692,7 +694,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=0KQSF2V7vh0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-the-piano-concertos-fantasias-op-116/id973951208?i=973951217');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/brahms-the-piano-concertos-fantasias-op-116/id973951208?i=973951217" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-the-piano-concertos-fantasias-op-116/id973951208?i=973951217')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0iLSUQGuPzEzFg3dhlAZI4" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -719,7 +721,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=GrcaTCrgMBk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-piaño-concerto-no-2-haydn-variations/id261665554?i=261666995');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/brahms-piaño-concerto-no-2-haydn-variations/id261665554?i=261666995" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/brahms-piaño-concerto-no-2-haydn-variations/id261665554?i=261666995')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -744,7 +746,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lJJT00wqlOo" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/carrie-lowell/id955572616?i=955572619');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/carrie-lowell/id955572616?i=955572619" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/carrie-lowell/id955572616?i=955572619')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -771,7 +773,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/beethoven-symphony-no-2-in-d-major-op-36-symphony-no/id459075027?i=459075579');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/beethoven-symphony-no-2-in-d-major-op-36-symphony-no/id459075027?i=459075579" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/beethoven-symphony-no-2-in-d-major-op-36-symphony-no/id459075027?i=459075579')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/39ZBv0BWVhcY2d2dniNuTd" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -796,7 +798,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/mahler-symphony-no-6/id344779829?i=344780042');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/mahler-symphony-no-6/id344779829?i=344780042" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/mahler-symphony-no-6/id344779829?i=344780042')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2jQYbcE2g0ndBu6BHJjsWA" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -823,7 +825,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=44NBdnym_do" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/mudra/id435367023?i=435367028');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/mudra/id435367023?i=435367028" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/mudra/id435367023?i=435367028')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/53cDaVwZz2DGa0Hp7GciBI" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -848,7 +850,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-1812-overture-moscow-cantata-marche-slave/id329987983?i=329990057');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/tchaikovsky-1812-overture-moscow-cantata-marche-slave/id329987983?i=329990057" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-1812-overture-moscow-cantata-marche-slave/id329987983?i=329990057')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2ekobkR084HwfutkbznsLk" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -875,7 +877,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=V-MH3DnBDn8&index=1&list=PLmIi1Kb7sWB9iWuXrzlaUBOw7z8wY8CxQ" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-symphony-no-4/id460512292');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/tchaikovsky-symphony-no-4/id460512292" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/tchaikovsky-symphony-no-4/id460512292')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -900,7 +902,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=FM7MFYoylVs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/memories-do-not-open/id1207120422?i=1207120448');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/memories-do-not-open/id1207120422?i=1207120448" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/memories-do-not-open/id1207120422?i=1207120448')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -936,6 +938,8 @@ function openAppleMusic(url) {
     } else { // otherwise
         window.open(url, '_blank');
     }
+
+    return false;
 }
 </script>
 
@@ -956,7 +960,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://youtu.be/kI3Zq6fJ5eM?t=3m49s" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/masaan-original-motion-picture-soundtrack-single/id1119984984?i=1119985116');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/masaan-original-motion-picture-soundtrack-single/id1119984984?i=1119985116" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/masaan-original-motion-picture-soundtrack-single/id1119984984?i=1119985116')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -1006,7 +1010,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=W4GyKTRduhs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/inside-llewyn-davis-original-soundtrack-recording/id712838705?i=712838720');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/inside-llewyn-davis-original-soundtrack-recording/id712838705?i=712838720" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/inside-llewyn-davis-original-soundtrack-recording/id712838705?i=712838720')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1033,7 +1037,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/pete-townshends-classic-quadrophenia/id987690508?i=987692452');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/pete-townshends-classic-quadrophenia/id987690508?i=987692452" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/pete-townshends-classic-quadrophenia/id987690508?i=987692452')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6CFoXdpTTmMGJCcHs0skKq" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1060,7 +1064,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=z2Uz3AsVOi4" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/riders-on-the-storm-the-doors-concerto/id4422317?i=4422242');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/riders-on-the-storm-the-doors-concerto/id4422317?i=4422242" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/riders-on-the-storm-the-doors-concerto/id4422317?i=4422242')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2PDJMbjCieq3UOmSF7CUZS" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1087,7 +1091,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=Q93n3dvaaTI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/s-m-live/id579377398?i=579377485');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/s-m-live/id579377398?i=579377485" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/s-m-live/id579377398?i=579377485')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6R2MWNoXJ2UKYLDQZrZFy6" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1116,7 +1120,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=waBb-UM5m4g" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/metallica/id579372950?i=579373086');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/metallica/id579372950?i=579373086" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/metallica/id579372950?i=579373086')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1145,7 +1149,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=Hepf31JoBNo" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/glass-symphony-no-4-heroes-the-light/id209765584?i=209765595');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/glass-symphony-no-4-heroes-the-light/id209765584?i=209765595" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/glass-symphony-no-4-heroes-the-light/id209765584?i=209765595')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/7nHSsZVDYOGyV0jwvDWaRq" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1172,7 +1176,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=CIJfdVPACyw" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/i-like-it-like-that/id513141008?i=513141189');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/i-like-it-like-that/id513141008?i=513141189" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/i-like-it-like-that/id513141008?i=513141189')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1201,7 +1205,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=04mfKJWDSzI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198178');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198178" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198178')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1230,7 +1234,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=yYDmaexVHic" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198093');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198093" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/plastic-beach-deluxe-version/id720197924?i=720198093')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1259,7 +1263,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=EfVuVLis8wU" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/star-of-love/id517578965?i=517579089');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/star-of-love/id517578965?i=517579089" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/star-of-love/id517578965?i=517579089')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://play.spotify.com/track/133uDbk8HSSmtYj3eshOY6" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1288,7 +1292,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=6AtnngKU-7c" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/beethoven-symphonies-nos-4-7/id585668406?i=585668704');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/beethoven-symphonies-nos-4-7/id585668406?i=585668704" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/beethoven-symphonies-nos-4-7/id585668406?i=585668704')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5f0XjqrPQfzKz7vYGw2RUD" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1315,7 +1319,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=83iPcpY3TPg" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/marz/id1085297543?i=1085297546&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/marz/id1085297543?i=1085297546&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/marz/id1085297543?i=1085297546&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5YxtCGHvn9oE43NM9Hh5VE" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1436,7 +1440,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=jG1lbuvKVM0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/starboy-feat-daft-punk/id1156172520?i=1156172683&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/starboy-feat-daft-punk/id1156172520?i=1156172683&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/starboy-feat-daft-punk/id1156172520?i=1156172683&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5ZlAq2Z7GglWqlr1j8I4eB" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1509,7 +1513,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=Pib8eYDSFEI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/crystalised/id329481191?i=329481203&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/crystalised/id329481191?i=329481203&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/crystalised/id329481191?i=329481203&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/1nmCmB3qdXrzxFhvLJuhuB" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1538,7 +1542,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lNroNErjdo0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/light-of-the-seven/id1207354508?i=1207354536&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/light-of-the-seven/id1207354508?i=1207354536&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/light-of-the-seven/id1207354508?i=1207354536&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -1563,7 +1567,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lGBn9_aEtB8" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/i-dare-you/id1170763548?i=1170764262&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/i-dare-you/id1170763548?i=1170764262&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/i-dare-you/id1170763548?i=1170764262&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/044qU7kwVZaDwzWnRsmVVL" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1707,7 +1711,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=u9Dg-g7t2l4" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/the-sound-of-silence/id1006937448?i=1006937459&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/the-sound-of-silence/id1006937448?i=1006937459&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/the-sound-of-silence/id1006937448?i=1006937459&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0UYPJogBP1JDvfTSSbEvL0" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1803,7 +1807,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=4fWyzwo1xg0" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/the-sound-of-silence/id192480256?i=192480260&mt=1&app=music');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/the-sound-of-silence/id192480256?i=192480260&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/the-sound-of-silence/id192480256?i=192480260&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -1860,6 +1864,8 @@ function openAppleMusic(url) {
     } else { // otherwise
         window.open(url, '_blank');
     }
+
+    return false;
 }
 </script>
 
@@ -1926,7 +1932,7 @@ function openAppleMusic(url) {
             <div class="music-links">
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://tools.applemusic.com/en-us/details/288519596');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://tools.applemusic.com/en-us/details/288519596" onclick="return openAppleMusic('https://tools.applemusic.com/en-us/details/288519596')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/album/5VPLJcOLkBvRBoxZUcdJ01" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2028,7 +2034,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=KF82uxrbZZs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/kashmir-symphonic-led-zeppelin/id4716608?i=4716486');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/kashmir-symphonic-led-zeppelin/id4716608?i=4716486" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/kashmir-symphonic-led-zeppelin/id4716608?i=4716486')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/5e6mbYglnBb1kuQqg4sXAM" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2055,7 +2061,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=l9kqU_7-CgI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509858');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509858" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509858')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6zkhhG8iQ8waiwGkQuhoE1" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2084,7 +2090,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=bgdr1AnlP8s" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509859');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509859" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509859')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/39kUTBz4uJoy5VtmIybz9D" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2113,7 +2119,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=tdhlQzFX-PU" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509860');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509860" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/the-resistance/id991509751?i=991509860')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/76ZDwA8uTyMys4LIS3pBUX" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2142,7 +2148,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/playlist?list=PL4384C518BE33455C" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/midnight-in-paris-music-from-the-motion-picture/id486893310');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/midnight-in-paris-music-from-the-motion-picture/id486893310" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/midnight-in-paris-music-from-the-motion-picture/id486893310')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2169,7 +2175,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=ruakMoSvVsY" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/star-of-love/id517578965?i=517579095');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/star-of-love/id517578965?i=517579095" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/star-of-love/id517578965?i=517579095')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3dXNrqnhNUPdrkvnj8TjvX" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2248,7 +2254,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=oYK6JU7Nx38" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/navarasam/id1053123387?i=1053123397');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/navarasam/id1053123387?i=1053123397" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/navarasam/id1053123387?i=1053123397')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                 
@@ -2275,7 +2281,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=ktnyx4xv76I" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/arcadia-remixes-ep/id271138337?i=271138339');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/arcadia-remixes-ep/id271138337?i=271138339" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/arcadia-remixes-ep/id271138337?i=271138339')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/7zFTFCxm8iA0qQHbeAuSWs" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2302,7 +2308,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=HWsMWmr6Oqw" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/94-single-eme-dj-couenmain-remix/id596212293?i=596212917');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/94-single-eme-dj-couenmain-remix/id596212293?i=596212917" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/94-single-eme-dj-couenmain-remix/id596212293?i=596212917')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/4wYnRREi1CGlzOeFpILVce" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2329,7 +2335,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=9xYrCeucYzk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/bassically-single/id922979602?i=922982907');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/bassically-single/id922979602?i=922982907" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/bassically-single/id922979602?i=922982907')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/6Nt2Su1bBdVcmxSDQO9peo" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2356,7 +2362,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=9E8YQWb7YeY" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/in-tension-ep/id1072994675?i=1072995254');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/in-tension-ep/id1072994675?i=1072995254" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/in-tension-ep/id1072994675?i=1072995254')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/3coGn1Uru4TKkOUpFXPKH1" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
@@ -2383,7 +2389,7 @@ function openAppleMusic(url) {
                     <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=k3SdF_t10rM" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
                 
                 
-                    <a class="music-link music-link-applemusic" href="javascript:openAppleMusic('https://geo.itunes.apple.com/us/album/trance/id411958273?i=411959180');" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/trance/id411958273?i=411959180" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/trance/id411958273?i=411959180')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2RaVDPJkWFVgxoPNMBFWQE" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
