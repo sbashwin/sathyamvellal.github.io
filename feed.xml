@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Apr 2017 23:07:46 -0700</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2017 23:07:46 -0700</lastBuildDate>
+    <pubDate>Fri, 28 Apr 2017 17:40:53 -0700</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2017 17:40:53 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -397,7 +397,7 @@ function openAppleMusic(url) {
         
         &lt;div class=&quot;music-track&quot;&gt;
             &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
+                &lt;span class=&quot;music-explicit&quot;&gt;E&lt;/span&gt;
                 &lt;span&gt;Synthesized - &lt;/span&gt;
                 &lt;span&gt; &lt;strong&gt;Kill the Band&lt;/strong&gt; &lt;/span&gt;
                 
