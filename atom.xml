@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2017-05-14T17:11:15-07:00</updated>
+  <updated>2017-05-15T21:47:38-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -3950,103 +3950,6 @@ function openAppleMusic(url) {
                 
                 
                     <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2RaVDPJkWFVgxoPNMBFWQE" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
-                
-                
-                
-                
-                
-                
-            </div>
-        </div>
-        
-    
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Music Archive - January 2017]]></title>
-    <link href="/music/2017/01/"/>
-    <updated>2017-01-01T00:00:00-08:00</updated>
-    <id>/music/2017/january-2017</id>
-    <content type="html"><![CDATA[<script type="text/javascript">
-function openAppleMusic(url) {
-    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
-    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { // if iOS
-        window.open(url.replace('https', 'music'), '_blank');
-    } else { // otherwise
-        window.open(url, '_blank');
-    }
-
-    return false;
-}
-</script>
-
-
-
-<div class="music-tracks">
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-        <div class="music-track">
-            <div class="music-track-title"><p>
-                
-                <span>The Virgin Suicides - </span>
-                <span> <strong>Highschool Lover</strong> </span>
-                
-                <span> <span class="dark-grey">by</span> AIR</span>
-            </p></div>
-            <div class="music-links">
-                
-                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=zwJcIsSzWb4" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
-                
-                
-                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/the-virgin-suicides-deluxe-version-15th-anniversary/id998794459?i=998794468" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/the-virgin-suicides-deluxe-version-15th-anniversary/id998794459?i=998794468')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
-                
-                
-                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/4Z1vQ7HvG155ByRl8T1WlT" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
                 
                 
                 

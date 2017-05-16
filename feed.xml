@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 May 2017 17:11:15 -0700</pubDate>
-    <lastBuildDate>Sun, 14 May 2017 17:11:15 -0700</lastBuildDate>
+    <pubDate>Mon, 15 May 2017 21:47:38 -0700</pubDate>
+    <lastBuildDate>Mon, 15 May 2017 21:47:38 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -3978,107 +3978,6 @@ function openAppleMusic(url) {
       </item>
     
       <item>
-        <title>Music Archive - January 2017</title>
-        <description>&lt;script type=&quot;text/javascript&quot;&gt;
-function openAppleMusic(url) {
-    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
-    if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { // if iOS
-        window.open(url.replace('https', 'music'), '_blank');
-    } else { // otherwise
-        window.open(url, '_blank');
-    }
-
-    return false;
-}
-&lt;/script&gt;
-
-
-
-&lt;div class=&quot;music-tracks&quot;&gt;
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;The Virgin Suicides - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Highschool Lover&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; AIR&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=zwJcIsSzWb4&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/the-virgin-suicides-deluxe-version-15th-anniversary/id998794459?i=998794468&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/the-virgin-suicides-deluxe-version-15th-anniversary/id998794459?i=998794468')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4Z1vQ7HvG155ByRl8T1WlT&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-        <link>/music/2017/01/</link>
-        <guid isPermaLink="true">/music/2017/01/</guid>
-        
-        
-        <category>music</category>
-        
-      </item>
-    
-      <item>
         <title>Welcome to PES OpenSource</title>
         <description>&lt;p&gt;Heya there! This post is mainly targeted to the students of PES Institute of Technology/PES University, Bangalore. If you are not, and are new to the Open Source Movement, you can still find a lot of useful information here. You can also learn the ways of PES Open Source, and join our movement in making educational institutions a place of more knowledge and productivity.&lt;/p&gt;
 
@@ -4540,6 +4439,105 @@ vid7.height = vid7.width * 0.75;
         <pubDate>Tue, 15 Oct 2013 17:26:00 -0700</pubDate>
         <link>/oldblog/the-piano-guys/</link>
         <guid isPermaLink="true">/oldblog/the-piano-guys/</guid>
+        
+        
+        <category>oldblog</category>
+        
+      </item>
+    
+      <item>
+        <title>0 A.D. Fundraiser: 3 weeks remain!</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://play0ad.com&quot;&gt;0 A.D.&lt;/a&gt; is a free and open source, historical RTS game. The concept of the game was designed in 2003 and was developed for around six years as a closed-source freeware project. In 2009 the game went open source under the GPL license and art content under CC-BY-SA. This steadily attracted a lot of contributors ranging from art designers to programmers to develop the game. Much of the development and contribution started after the project was open sourced.&lt;/p&gt;
+
+&lt;p&gt;Less than a month ago, &lt;a href=&quot;http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/&quot;&gt;0 A.D. launched a crowdfunding campaign in Indiegogo&lt;/a&gt; to help hire two contributors full-time to get it to a release state much sooner and better than its current pace of development.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid3&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;300&quot; src=&quot;http://www.youtube.com/embed/Y-0l7Ej3cM8&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;youtube&quot;&gt;
+    &lt;iframe id=&quot;vid4&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;300&quot; src=&quot;http://www.youtube.com/embed/DXDxXGTzIf4&quot; frameborder=&quot;0&quot;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The previous and the current alpha versions have improved the game’s performance and added many new features into the game. The stage is being set for the next alpha release which brings a host of new features including a featured Multiplayer Lobby! No wonder this project pushes the bar up for gaming in Linux open source games.&lt;br /&gt;
+The &lt;a href=&quot;http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/&quot;&gt;Indiegogo campaign&lt;/a&gt; is flexibly funded with targets starting from $40,000 till $240,000 and goals ranging from improving the game performance till releasing the first version of the game within a couple of years.&lt;/p&gt;
+
+&lt;p&gt;The best part of this project being open source is the developer community! They’re not just developers and contributors. They are a family. The modern ancient family. They are a constantly working group, who’ve volunteered to build this game.&lt;/p&gt;
+
+&lt;p&gt;IndieStatik covered an in-depth article about &lt;a href=&quot;http://indiestatik.com/2013/10/01/10-years-in-alpha-how-volunteer-modders-created-0-a-d-with-the-help-of-a-community/&quot;&gt;0 A.D. and its crowdfunding campaign&lt;/a&gt; in which the author beautifully states -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A huge project like 0 A.D. is worthy of people’s time because it’s a community project that people can find resolve in, share stories with others who helped to build it, and in a few months, or a year, or maybe even a decade, they’ll be able to look back at the game and remember the people they met, the things they learned, the things they shared.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I also would like to quote -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“It’s remarkable how a project of this size is sustainable with practically no budget, built from the passion of volunteers, who talk with one another, congratulate each other, see newcomers arrive and welcome them with open arms.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For there is no greater gift in the world than knowledge!&lt;br /&gt;
+Donate to the 0 A.D. Project and be a part of this great community.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt; http://play0ad.com&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Indiegogo Campaign:&lt;/strong&gt; http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IRC Channels:&lt;/strong&gt; &lt;a href=&quot;http://webchat.quakenet.org/?channels=#0ad&quot;&gt;#0ad&lt;/a&gt; and &lt;a href=&quot;http://webchat.quakenet.org/?channels=#0ad-dev&quot;&gt;#0ad-dev&lt;/a&gt; on QuakeNet IRC&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;I’ve included some screenshots below for you to have a quick look at the game!&lt;/p&gt;
+
+&lt;p&gt;A Village in Gaul and Depth and Fog rendering!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/1237349_10151914968049859_1015039661_o.jpg&quot; alt=&quot;A Village in Gaul&quot; /&gt;
+&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/tilt-shift-filter.jpg&quot; alt=&quot;Depth and Fog Rendering&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Persian Heavy Infantry and 0 A.D.’s Atlas Map Editor&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/alpha-8-persianheavyinfantry.jpg&quot; alt=&quot;Persian Heavy Infantry&quot; /&gt;
+&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/scr.png&quot; alt=&quot;Atlas Editor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oasis in 0 A.D. Desert and Water Rendering effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/screenshot0343.png&quot; alt=&quot;Oasis&quot; /&gt;
+&lt;img src=&quot;https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/1073220_10151752821764859_690497580_o.jpg&quot; alt=&quot;Care for a swim?&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Building an Empire on Islands and Whales in oceans!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/screenshot0072.jpg&quot; alt=&quot;Island Life&quot; /&gt;
+&lt;img src=&quot;http://play0ad.com/wp-content/gallery/screenshots/screenshot0060.jpg&quot; alt=&quot;Whales&quot; /&gt;&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+    var elem = $(&quot;#content img&quot;).eq(0).load(function() {
+        var width = $(this).width();
+        var height = $(this).height();
+        var vid3 = document.getElementById(&quot;vid3&quot;);
+        var vid4 = document.getElementById(&quot;vid4&quot;);
+        vid3.width = vid4.width = width;
+        vid3.height = vid4.height = height;
+    });
+    $(&quot;#content img&quot;).eq(4).load(function() {
+        var img2 = $(this);
+        $(&quot;#content img&quot;).eq(5).load(function() {
+            img2.height($(this).height());
+        });
+    });
+    $(&quot;#content img&quot;).eq(1).load(function() {
+        var img2 = $(this);
+        $(&quot;#content img&quot;).eq(0).load(function() {
+            img2.height($(this).height());
+        });
+    });
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 02 Oct 2013 01:23:00 -0700</pubDate>
+        <link>/oldblog/0ad-fundraiser-3-weeks/</link>
+        <guid isPermaLink="true">/oldblog/0ad-fundraiser-3-weeks/</guid>
         
         
         <category>oldblog</category>
