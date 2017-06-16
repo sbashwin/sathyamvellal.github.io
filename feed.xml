@@ -5,9 +5,392 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Jun 2017 17:32:51 -0700</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2017 17:32:51 -0700</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2017 17:38:14 -0700</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2017 17:38:14 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Music Archive - June 2017</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+
+    return false;
+}
+&lt;/script&gt;
+
+
+
+&lt;div class=&quot;music-tracks&quot;&gt;
+    
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Show You Love&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (feat. Hailee Steinfeld) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; KATO, Sigala&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=ln0nftMJq0U&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/show-you-love-feat-hailee-steinfeld/id1207442827?i=1207443193&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/show-you-love-feat-hailee-steinfeld/id1207442827?i=1207443193&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4govmU9nWC17G8WRIkhEFh&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Kato-and-sigala-show-you-love-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;We Found Love&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (feat. Calvin Harris) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Rihanna&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=tg00YEETFzg&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/we-found-love-feat-calvin-harris/id481067872?i=481067882&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/we-found-love-feat-calvin-harris/id481067872?i=481067882&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Rihanna-we-found-love-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Born This Way&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Lady Gaga&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=wV1FrqwZyKw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/born-this-way/id902180909?i=902180917&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/born-this-way/id902180909?i=902180917&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Lady-gaga-born-this-way-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Boomering&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; She Is We&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=14Z5nVSeN88&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/boomerang/id1049931892?i=1049932004&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/boomerang/id1049931892?i=1049932004&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1LLnic7HKsiYGz08ZyYDaa&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/She-is-we-boomerang-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Say My Name&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (feat. Zyra) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Odesza&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=HdzI-191xhU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/say-my-name-feat-zyra/id1040142721?i=1040142851&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/say-my-name-feat-zyra/id1040142721?i=1040142851&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/32zr9gHyWhgm2Dn5bg0Bpw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Odesza-say-my-name-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Radio Protector&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; 65daysofstatic&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=CpEILvXQaZM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/radio-protector/id275878752?i=275878926&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/radio-protector/id275878752?i=275878926&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Prince Avalanche - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;An Old Peasant Like Me&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Explosions in the Sky &amp; David Wingo&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=VdQnalMYS1U&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/an-old-peasant-like-me/id664635151?i=664635323&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/an-old-peasant-like-me/id664635151?i=664635323&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/78cbhgSNRUkyQ3YqN8fTtH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://explosionsinthesky.bandcamp.com/track/an-old-peasant-like-me&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Ghosts&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Ladytron&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=9yaEwcmrR4Q&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/ghosts/id395621784?i=395621800&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/ghosts/id395621784?i=395621800&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/3eSkjPOXgxohZGh1MZg7E5&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/nettwerkmusicgroup/ghosts&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Ladytron-ghosts-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Reconcile&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Austra&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=Gg0wiQLjpgk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/reconcile/id643057618?i=643057628&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/reconcile/id643057618?i=643057628&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4P1vVwUMLSSCJfpwF0QZmV&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/paper-bag-records/09-reconcile-1&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Austra-reconcile-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Hold on Tight&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (Nalin &amp; Kane remix) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Lambda&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=Ra3a8dD5uFw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/hold-on-tight-nalin-kane-remix/id94501699?i=94501570&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/hold-on-tight-nalin-kane-remix/id94501699?i=94501570&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6t9dKp7Nf1t4HpYXOdeVNl&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Interstellar - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Mountains&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (piano version) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Yourfavoratemusic&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=P_Ebek7hmM0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Pirates of the Caribbean - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Davy Jones Theme Suite&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (beethoven version) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Yourfavoratemusic&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=8m4bCj8WgCw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 -0700</pubDate>
+        <link>/music/2017/06/</link>
+        <guid isPermaLink="true">/music/2017/06/</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
     
       <item>
         <title>Music Archive - May 2017</title>
@@ -24,10 +407,7 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
-  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
-  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
-&lt;/p&gt;
+
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -1200,10 +1580,7 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
-  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
-  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
-&lt;/p&gt;
+
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -2810,10 +3187,7 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
-  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
-  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
-&lt;/p&gt;
+
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -3778,10 +4152,7 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
-  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
-  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
-&lt;/p&gt;
+
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -4362,10 +4733,7 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
-  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
-  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
-&lt;/p&gt;
+
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -5336,107 +5704,6 @@ The Judge ★★★&lt;br /&gt;
         <pubDate>Sun, 27 Oct 2013 14:32:00 -0700</pubDate>
         <link>/oldblog/an-introduction-to-latex/</link>
         <guid isPermaLink="true">/oldblog/an-introduction-to-latex/</guid>
-        
-        
-        <category>oldblog</category>
-        
-      </item>
-    
-      <item>
-        <title>The Piano Guys</title>
-        <description>&lt;p&gt;Its a typical day and I’m just looking at &lt;em&gt;Recommended Videos&lt;/em&gt; in my YouTube, which are usually songs/music/mixes; that’s what I listen to. So I’m there, listening to UK Piano’s new video and I find a playlist recommended for me. In that playlist is a &lt;a href=&quot;http://www.youtube.com/watch?v=ydRAb9cwHnA&amp;amp;list=RD03X6a9odk6b_c&quot;&gt;Cello cover of Game of Thrones&lt;/a&gt; by &lt;a href=&quot;http://www.youtube.com/user/BreakofReaIity&quot;&gt;BreakofReality&lt;/a&gt;. YouTube then features &lt;a href=&quot;http://www.youtube.com/watch?v=5wLfOZiAd8Y&quot;&gt;Misty Mountains Orchestral Cover&lt;/a&gt; from &lt;a href=&quot;http://www.imdb.com/title/tt0903624/&quot;&gt;The Hobbit&lt;/a&gt; by &lt;a href=&quot;http://www.youtube.com/user/sleightlymusical&quot;&gt;sleightlymusical&lt;/a&gt; in my &lt;em&gt;Recommended for You&lt;/em&gt; list. Now it comes! Another video recommended for me from &lt;a href=&quot;http://thepianoguys.com/&quot;&gt;ThePianoGuys&lt;/a&gt;. And WOW!&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;I just sat back, stopped my work and watched one video after the other. The first one that caught my eye was &lt;strong&gt;Kung Fu Piano: Cello Ascends&lt;/strong&gt;, a play on &lt;strong&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=cdjnonJdxtM&quot;&gt;Oogway Ascends&lt;/a&gt;&lt;/strong&gt; from &lt;a href=&quot;http://www.imdb.com/title/tt0441773/&quot;&gt;Kung Fu Panda&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;youtube&quot;&gt;
-    &lt;iframe id=&quot;vid1&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/NCaH-qqTWpk&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div class=&quot;youtube&quot;&gt;
-    &lt;iframe id=&quot;vid2&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/3v-HaH0h6gA&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Before you start thinking there was a green screen for the Great Wall of China, watch the &lt;a href=&quot;http://www.youtube.com/watch?v=3v-HaH0h6gAz&quot;&gt;second video&lt;/a&gt;. They actually got the piano on top of it!&lt;/p&gt;
-
-&lt;p&gt;I didn’t stop there! I then watched the video which YouTube originally recommended for me - A &lt;a href=&quot;http://www.youtube.com/watch?v=FZNqs0YgWkM&quot;&gt;Lord of the Rings cover&lt;/a&gt;. And after that, I continued …&lt;/p&gt;
-
-&lt;div class=&quot;youtube&quot;&gt;
-    &lt;iframe id=&quot;vid3&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/FZNqs0YgWkM&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Music is not just about melody or harmony. Its about enjoying, feeling and extracting the emotions out of the listener and ThePianoGuys do just that. I’ve included some more of the many they’ve made, below. DON’T forget to visit &lt;a href=&quot;http://www.youtube.com/user/ThePianoGuys&quot;&gt;their YouTube channel&lt;/a&gt;!
-Obviously I can’t list all the &lt;a href=&quot;http://www.youtube.com/user/ThePianoGuys/videos&quot;&gt;videos&lt;/a&gt; here!&lt;/p&gt;
-
-&lt;div class=&quot;youtube&quot;&gt;
-    &lt;iframe id=&quot;vid4&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/9p0BqUcQ7i0&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div class=&quot;youtube&quot;&gt;
-    &lt;iframe id=&quot;vid5&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/lUjWJSnGVB0&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;youtube&quot;&gt;
-    &lt;iframe id=&quot;vid6&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/P94DusN4LsY&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;div class=&quot;youtube&quot;&gt;
-    &lt;iframe id=&quot;vid7&quot; type=&quot;text/html&quot; class=&quot;youtube&quot; width=&quot;440&quot; height=&quot;440&quot; src=&quot;http://www.youtube.com/embed/mJ_fkw5j-t0&quot; frameborder=&quot;0&quot;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;A quote by Ludwig Van Beethoven, included in one of the videos -&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Don’t only practice your art,&lt;br /&gt;
-but force your way into its secrets,&lt;br /&gt;
-for it and knowledge can raise men to the divine.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
-var vid1 = document.getElementById(&quot;vid1&quot;);
-var vid2 = document.getElementById(&quot;vid2&quot;);
-var vid3 = document.getElementById(&quot;vid3&quot;);
-var vid4 = document.getElementById(&quot;vid4&quot;);
-var vid5 = document.getElementById(&quot;vid5&quot;);
-var vid6 = document.getElementById(&quot;vid6&quot;);
-var vid7 = document.getElementById(&quot;vid7&quot;);
-if (document.width &lt; 700) {
-    vid1.width = document.width * 0.7;
-    vid2.width = document.width * 0.7;
-    vid3.width = document.width * 0.7;
-    vid4.width = document.width * 0.7;
-    vid5.width = document.width * 0.7;
-    vid6.width = document.width * 0.7;
-    vid7.width = document.width * 0.7;
-} else {
-    vid1.width = document.width * 0.32;
-    vid2.width = document.width * 0.32;
-    vid3.width = document.width * 0.64;
-    vid4.width = document.width * 0.32;
-    vid5.width = document.width * 0.32;
-    vid6.width = document.width * 0.32;
-    vid7.width = document.width * 0.32;
-}
-vid1.height = vid1.width * 0.75;
-vid2.height = vid2.width * 0.75;
-vid3.height = vid3.width * 0.75;
-vid4.height = vid4.width * 0.75;
-vid5.height = vid5.width * 0.75;
-vid6.height = vid6.width * 0.75;
-vid7.height = vid7.width * 0.75;
-&lt;/script&gt;
-
-</description>
-        <pubDate>Tue, 15 Oct 2013 17:26:00 -0700</pubDate>
-        <link>/oldblog/the-piano-guys/</link>
-        <guid isPermaLink="true">/oldblog/the-piano-guys/</guid>
         
         
         <category>oldblog</category>
