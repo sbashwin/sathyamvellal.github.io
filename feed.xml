@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Jun 2017 17:20:28 -0700</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2017 17:20:28 -0700</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2017 17:32:51 -0700</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2017 17:32:51 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -24,7 +24,10 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-
+&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
+  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
+  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -1197,7 +1200,10 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-
+&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
+  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
+  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -2804,7 +2810,10 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-
+&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
+  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
+  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -3769,7 +3778,10 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-
+&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
+  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
+  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
@@ -4350,7 +4362,10 @@ function openAppleMusic(url) {
 }
 &lt;/script&gt;
 
-
+&lt;p class=&quot;centered&quot; style=&quot;margin-top: -1.5em; margin-bottom: 2.5em; font-size: 13pt;&quot;&gt;
+  &lt;span class=&quot;grey&quot;&gt;Updated &lt;/span&gt;&lt;br/&gt;
+  &lt;a style=&quot;padding-left: 1.5em; margin-top: -0.5em;&quot; class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/user/sathyamvellal/playlist/27vy3VgfK3fduy4L3e0BTi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify Playlist&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
 
 &lt;div class=&quot;music-tracks&quot;&gt;
     
