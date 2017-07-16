@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2017-06-29T10:41:00-07:00</updated>
+  <updated>2017-07-15T21:53:59-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,487 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Music Archive - July 2017]]></title>
+    <link href="/music/2017/07/"/>
+    <updated>2017-07-01T00:00:00-07:00</updated>
+    <id>/music/2017/july-2017</id>
+    <content type="html"><![CDATA[<script type="text/javascript">
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+
+    return false;
+}
+</script>
+
+
+
+<div class="music-tracks">
+    
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                <span>Arrival - </span>
+                <span> <strong>First Encounter</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Jóhann Jóhannsson</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=HzNBrns1xPk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/first-encounter/id1168207187?i=1168207227&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/first-encounter/id1168207187?i=1168207227&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0wvldPbWwuellRqCfzL4eu" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                <span>Arrival - </span>
+                <span> <strong>Heptapod B</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Jóhann Jóhannsson</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=F0ahB25FJ6o" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/heptapod-b/id1168207187?i=1168207222&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/heptapod-b/id1168207187?i=1168207222&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/4KBwrmtoKe5QjfW2RhhpOf" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Descompasso</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Trummer Super Sub América</span>
+            </p></div>
+            <div class="music-links">
+                
+                
+                
+                
+                
+                    <a class="music-link music-link-soundcloud" href="https://soundcloud.com/trummerssa/descompasso" target="_blank"><strong><i class="fa fa-soundcloud" aria-hidden="true"></i> <i>soundcloud</i></strong></a>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Ain't She Sweet</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Incontrol & Wolfgang Lohr</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=XcgEfUvIDYk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/aint-she-sweet/id975205391?i=975205562&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/aint-she-sweet/id975205391?i=975205562&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/4oFk0sU7IRQPb7X9cC0OEt" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Charleston</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Incontrol & Wolfgang Lohr</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=9ZaTDSqf5iQ" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/charleston/id975205391?i=975205561&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/charleston/id975205391?i=975205561&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/29XwldYG0bfN9uRBKYGVxa" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>I Need You More (feat. Laura Barrick)</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Sébastien Léger</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=02-HmdWxURE" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/i-need-you-more-feat-laura-barrick/id1218399510?i=1218400122&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/i-need-you-more-feat-laura-barrick/id1218399510?i=1218400122&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/59NGskSlumtf5h4Zm0LRa9" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                    <a class="music-link music-link-soundcloud" href="https://soundcloud.com/einmusika-recordings/sebastien-leger-i-need-you-more-feat-laura-barrick" target="_blank"><strong><i class="fa fa-soundcloud" aria-hidden="true"></i> <i>soundcloud</i></strong></a>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>La Danse Du Scorpion</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Sébastien Léger</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=FnM85o-gZwA" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/la-danse-du-scorpion/id1218399510?i=1218400228&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/la-danse-du-scorpion/id1218399510?i=1218400228&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/62Yo5zd5SZnpNMDfhnX3MN" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                    <a class="music-link music-link-soundcloud" href="https://soundcloud.com/sebastienleger/la-danse-du-scorpion" target="_blank"><strong><i class="fa fa-soundcloud" aria-hidden="true"></i> <i>soundcloud</i></strong></a>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Blooming</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Einmusik</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=fqETzQ-EU4U" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/blooming/id1237098928?i=1237099728&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/blooming/id1237098928?i=1237099728&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/2mTXgJutITIGM0hXjQU2An" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                    <a class="music-link music-link-bandcamp" href="https://soundcloud.com/einmusik/einmusik-blooming" target="_blank"><strong><i class="fa fa-bandcamp" aria-hidden="true"></i> <i>bandcamp</i></strong></a>
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Genius And The Thieves</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Eluvium</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=e7kLDWWo5dI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/genius-and-the-thieves/id318804033?i=318804048&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/genius-and-the-thieves/id318804033?i=318804048&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/7hwXRUk0WrADZJSgwEtC5i" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                    <a class="music-link music-link-bandcamp" href="https://eluvium.bandcamp.com/track/genius-and-the-thieves" target="_blank"><strong><i class="fa fa-bandcamp" aria-hidden="true"></i> <i>bandcamp</i></strong></a>
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>A.H.B.</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> S U R V I V E</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=pcAys198UnU" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/a-h-b/id1132755962?i=1132756211&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/a-h-b/id1132755962?i=1132756211&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/59T7nZH7rCMxfGwpXWkE8h" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                    <a class="music-link music-link-bandcamp" href="https://survive.bandcamp.com/track/a-h-b" target="_blank"><strong><i class="fa fa-bandcamp" aria-hidden="true"></i> <i>bandcamp</i></strong></a>
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                <span>Luis Fonsi - </span>
+                <span> <strong>Despacito</strong> </span>
+                <span class="dark-grey"> (cello cover) </span>
+                <span> <span class="dark-grey">by</span> 2CELLOS</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=D9LrEXF3USs" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                <span>Dunkirk - </span>
+                <span> <strong>Supermarine</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Hans Zimmer</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=n1VJ39nVIBk" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/supermarine-from-dunkirk-original-motion-picture-soundtrack/id1256029633?i=1256029638&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/supermarine-from-dunkirk-original-motion-picture-soundtrack/id1256029633?i=1256029638&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/4HO9Qw7bEtj0T5sjXtpFHl" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Dreamcatcher</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Bahramji & Maneesh de Moor</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=M7gDEwUb4_Q" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/dreamcatcher/id41535486?i=41535480&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/dreamcatcher/id41535486?i=41535480&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0ivWGqNxTY7KECBcB2bLOo" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                
+                    <a class="music-link music-link-musixmatchlyrics" href="https://www.musixmatch.com/lyrics/Bahramji-Maneesh-De-Moor/Dreamcatcher" target="_blank"><strong><span aria-hidden="true"> musixmatch</span></strong></a>
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Annie's Song</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> John Denver</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=RNOTF-znQyw" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/annies-song/id216424764?i=216426201&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/annies-song/id216424764?i=216426201&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/0pIrZLoXAuTfnMGjhVNxe3" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                    <a class="music-link music-link-geniuslyrics" href="https://genius.com/10999497" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                <span>John Denver - </span>
+                <span> <strong>Annie's Song</strong> </span>
+                <span class="dark-grey"> (cover) </span>
+                <span> <span class="dark-grey">by</span> Mike Sinatra</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=E1GQJbLAGBY" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                
+                
+                
+                
+                
+                    <a class="music-link music-link-geniuslyrics" href="https://genius.com/10999497" target="_blank"><strong><span aria-hidden="true"> G E N I U S </span></strong></a>
+                
+                
+            </div>
+        </div>
+        
+    
+        
+        <div class="music-track">
+            <div class="music-track-title"><p>
+                
+                
+                <span> <strong>Tangled Earth</strong> </span>
+                
+                <span> <span class="dark-grey">by</span> Audiomachine</span>
+            </p></div>
+            <div class="music-links">
+                
+                    <a class="music-link music-link-youtube" href="https://www.youtube.com/watch?v=lzifeTuMijI" target="_blank"><strong><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="black">You</span>Tube</strong></a>
+                
+                
+                    <a class="music-link music-link-applemusic" href="https://geo.itunes.apple.com/us/album/tangled-earth/id1051924352?i=1051924545&mt=1&app=music" onclick="return openAppleMusic('https://geo.itunes.apple.com/us/album/tangled-earth/id1051924352?i=1051924545&mt=1&app=music')" target="_blank"><strong><i class="fa fa-apple" aria-hidden="true"></i> MUSIC</strong></a>
+                
+                
+                    <a class="music-link music-link-spotify" href="https://open.spotify.com/track/74YUeVXEJOxwEX1lS1AHg1" target="_blank"><strong><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</strong></a>
+                
+                
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Music Archive - June 2017]]></title>

@@ -5,9 +5,494 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Jun 2017 10:41:00 -0700</pubDate>
-    <lastBuildDate>Thu, 29 Jun 2017 10:41:00 -0700</lastBuildDate>
+    <pubDate>Sat, 15 Jul 2017 21:53:59 -0700</pubDate>
+    <lastBuildDate>Sat, 15 Jul 2017 21:53:59 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Music Archive - July 2017</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+
+    return false;
+}
+&lt;/script&gt;
+
+
+
+&lt;div class=&quot;music-tracks&quot;&gt;
+    
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Arrival - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;First Encounter&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Jóhann Jóhannsson&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=HzNBrns1xPk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/first-encounter/id1168207187?i=1168207227&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/first-encounter/id1168207187?i=1168207227&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0wvldPbWwuellRqCfzL4eu&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Arrival - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Heptapod B&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Jóhann Jóhannsson&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=F0ahB25FJ6o&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/heptapod-b/id1168207187?i=1168207222&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/heptapod-b/id1168207187?i=1168207222&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4KBwrmtoKe5QjfW2RhhpOf&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Descompasso&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Trummer Super Sub América&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/trummerssa/descompasso&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Ain't She Sweet&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Incontrol &amp; Wolfgang Lohr&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=XcgEfUvIDYk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/aint-she-sweet/id975205391?i=975205562&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/aint-she-sweet/id975205391?i=975205562&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4oFk0sU7IRQPb7X9cC0OEt&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Charleston&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Incontrol &amp; Wolfgang Lohr&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=9ZaTDSqf5iQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/charleston/id975205391?i=975205561&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/charleston/id975205391?i=975205561&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/29XwldYG0bfN9uRBKYGVxa&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;I Need You More (feat. Laura Barrick)&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sébastien Léger&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=02-HmdWxURE&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/i-need-you-more-feat-laura-barrick/id1218399510?i=1218400122&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/i-need-you-more-feat-laura-barrick/id1218399510?i=1218400122&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/59NGskSlumtf5h4Zm0LRa9&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/einmusika-recordings/sebastien-leger-i-need-you-more-feat-laura-barrick&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;La Danse Du Scorpion&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sébastien Léger&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=FnM85o-gZwA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/la-danse-du-scorpion/id1218399510?i=1218400228&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/la-danse-du-scorpion/id1218399510?i=1218400228&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/62Yo5zd5SZnpNMDfhnX3MN&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/sebastienleger/la-danse-du-scorpion&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Blooming&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Einmusik&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=fqETzQ-EU4U&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/blooming/id1237098928?i=1237099728&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/blooming/id1237098928?i=1237099728&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2mTXgJutITIGM0hXjQU2An&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://soundcloud.com/einmusik/einmusik-blooming&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Genius And The Thieves&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Eluvium&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=e7kLDWWo5dI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/genius-and-the-thieves/id318804033?i=318804048&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/genius-and-the-thieves/id318804033?i=318804048&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7hwXRUk0WrADZJSgwEtC5i&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://eluvium.bandcamp.com/track/genius-and-the-thieves&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;A.H.B.&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; S U R V I V E&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=pcAys198UnU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/a-h-b/id1132755962?i=1132756211&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/a-h-b/id1132755962?i=1132756211&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/59T7nZH7rCMxfGwpXWkE8h&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://survive.bandcamp.com/track/a-h-b&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Luis Fonsi - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Despacito&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (cello cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; 2CELLOS&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=D9LrEXF3USs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Dunkirk - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Supermarine&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Hans Zimmer&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=n1VJ39nVIBk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/supermarine-from-dunkirk-original-motion-picture-soundtrack/id1256029633?i=1256029638&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/supermarine-from-dunkirk-original-motion-picture-soundtrack/id1256029633?i=1256029638&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4HO9Qw7bEtj0T5sjXtpFHl&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Dreamcatcher&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Bahramji &amp; Maneesh de Moor&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=M7gDEwUb4_Q&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/dreamcatcher/id41535486?i=41535480&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/dreamcatcher/id41535486?i=41535480&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0ivWGqNxTY7KECBcB2bLOo&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Bahramji-Maneesh-De-Moor/Dreamcatcher&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Annie's Song&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; John Denver&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=RNOTF-znQyw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/annies-song/id216424764?i=216426201&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/annies-song/id216424764?i=216426201&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0pIrZLoXAuTfnMGjhVNxe3&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/10999497&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;John Denver - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Annie's Song&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Mike Sinatra&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=E1GQJbLAGBY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/10999497&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Tangled Earth&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Audiomachine&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=lzifeTuMijI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/tangled-earth/id1051924352?i=1051924545&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/tangled-earth/id1051924352?i=1051924545&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/74YUeVXEJOxwEX1lS1AHg1&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
+        <link>/music/2017/07/</link>
+        <guid isPermaLink="true">/music/2017/07/</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
     
       <item>
         <title>Music Archive - June 2017</title>
@@ -6497,56 +6982,6 @@ All open source projects are version controlled (you can search about this on th
         <pubDate>Sat, 31 May 2014 10:03:00 -0700</pubDate>
         <link>/oldblog/its-been-6-months/</link>
         <guid isPermaLink="true">/oldblog/its-been-6-months/</guid>
-        
-        
-        <category>oldblog</category>
-        
-      </item>
-    
-      <item>
-        <title>Hollywood in 2014 (for me)</title>
-        <description>&lt;p&gt;2013 is almost closing and its time to take a peak at films of 2014. This list though, is my preference. You can check the &lt;a href=&quot;http://en.wikipedia.org/wiki/2014_in_film&quot;&gt;entire list in wikipedia&lt;/a&gt;. Here, I’ve linked the films to a trailer and a rating of my expectations (arranged by rating and alphabetically).&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h3 id=&quot;im-interested-in&quot;&gt;I’m interested in&lt;/h3&gt;
-
-&lt;p&gt;The Hobbit: There and Back Again ★★★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=3WzHXI5HizQ&quot;&gt;Interstellar&lt;/a&gt; ★★★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=mBwsUD7jYCI&quot;&gt;Godzilla&lt;/a&gt; ★★★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=Z9a4PvzlqoQ&quot;&gt;How to Train Your Dragon 2&lt;/a&gt; ★★★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=fZ_JOBCLF-I&quot;&gt;The LEGO Movie&lt;/a&gt; ★★★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=nbp3Ra3Yp74&quot;&gt;The Amazing Spider-Man 2&lt;/a&gt; ★★★½&lt;br /&gt;
-Dumb and Dumber To ★★★½&lt;br /&gt;
-Night at the Museum 3 ★★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=jiHDJ19A3dk&quot;&gt;Non-Stop&lt;/a&gt; ★★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=IkZM1Zc0mBU&quot;&gt;Rio 2&lt;/a&gt; ★★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=t6TRwfxDICM&quot;&gt;Pompeii&lt;/a&gt; ★★★&lt;/p&gt;
-
-&lt;h3 id=&quot;i-can-be-interested-in&quot;&gt;I can be interested in&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=2zqy21Z29ps&quot;&gt;300: Rise of An Empire&lt;/a&gt; ★★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=NLWsK1ZFunA&quot;&gt;Captain America: The Winter Soldier&lt;/a&gt; ★★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=v0wP5ZkaUGg&quot;&gt;Dawn of the Planet of the Apes&lt;/a&gt; ★★★½&lt;br /&gt;
-Transformers: Age of Extinction ★★★½&lt;br /&gt;
-Gaurdians of the Galaxy ★★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=N-ewaCVARtM&quot;&gt;Heaven is for Real&lt;/a&gt; ★★★&lt;br /&gt;
-The Judge ★★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=INmtQXUXez8&quot;&gt;RoboCop&lt;/a&gt; ★★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=pK2zYHWDZKo&quot;&gt;X-Men: Days of Future Past&lt;/a&gt; ★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=eBq1AupSrLI&quot;&gt;Hercules: The Legend Begins&lt;/a&gt; ★★&lt;/p&gt;
-
-&lt;h3 id=&quot;im-not-interested-in&quot;&gt;I’m not interested in&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=fsrJWUVoXeM&quot;&gt;Need For Speed&lt;/a&gt; ★★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=FZtVfmTZftk&quot;&gt;Jack Ryan: Shadow Recruit&lt;/a&gt; ★★½&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=pxOSPfUw3qw&quot;&gt;I, Frankenstein&lt;/a&gt; ★★&lt;br /&gt;
-&lt;a href=&quot;http://www.youtube.com/watch?v=J39iyK_aqDE&quot;&gt;Paranormal Activity: The Marked Ones&lt;/a&gt; ★½&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 19 Dec 2013 15:51:00 -0800</pubDate>
-        <link>/oldblog/hollywood-in-2014-for-me/</link>
-        <guid isPermaLink="true">/oldblog/hollywood-in-2014-for-me/</guid>
         
         
         <category>oldblog</category>
