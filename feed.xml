@@ -5,8 +5,8 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Jul 2017 11:26:36 -0700</pubDate>
-    <lastBuildDate>Sun, 30 Jul 2017 11:26:36 -0700</lastBuildDate>
+    <pubDate>Wed, 02 Aug 2017 19:46:39 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2017 19:46:39 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -760,8 +760,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
         <link>/music/2017/07/</link>
         <guid isPermaLink="true">/music/2017/07/</guid>
         
@@ -1565,8 +1677,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Thu, 01 Jun 2017 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
         <link>/music/2017/06/</link>
         <guid isPermaLink="true">/music/2017/06/</guid>
         
@@ -2738,8 +2962,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Mon, 01 May 2017 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
         <link>/music/2017/05/</link>
         <guid isPermaLink="true">/music/2017/05/</guid>
         
@@ -4345,8 +4681,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
         <link>/music/2017/04/</link>
         <guid isPermaLink="true">/music/2017/04/</guid>
         
@@ -5310,8 +5758,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Mon, 13 Mar 2017 14:50:00 -0700</pubDate>
+        <pubDate>Mon, 13 Mar 2017 14:50:00 +0000</pubDate>
         <link>/music/2017/03/</link>
         <guid isPermaLink="true">/music/2017/03/</guid>
         
@@ -5891,8 +6451,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 -0800</pubDate>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
         <link>/music/2017/02/</link>
         <guid isPermaLink="true">/music/2017/02/</guid>
         
@@ -6516,8 +7188,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
         <link>/music/2017/01/</link>
         <guid isPermaLink="true">/music/2017/01/</guid>
         
@@ -7109,8 +7893,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Thu, 01 Dec 2016 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
         <link>/music/2016/12/</link>
         <guid isPermaLink="true">/music/2016/12/</guid>
         
@@ -7648,8 +8544,120 @@ function openAppleMusic(url) {
     
 &lt;/div&gt;
 
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
 </description>
-        <pubDate>Tue, 01 Nov 2016 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
         <link>/music/2016/11/</link>
         <guid isPermaLink="true">/music/2016/11/</guid>
         
@@ -7766,7 +8774,7 @@ All open source projects are version controlled (you can search about this on th
 &lt;p&gt;Ciao!&lt;br /&gt;
 &lt;strong&gt;Let Knowledge Flow From All Sides.&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 Aug 2014 21:08:00 -0700</pubDate>
+        <pubDate>Sat, 23 Aug 2014 21:08:00 +0000</pubDate>
         <link>/oldblog/welcome-to-pes-opensource/</link>
         <guid isPermaLink="true">/oldblog/welcome-to-pes-opensource/</guid>
         
