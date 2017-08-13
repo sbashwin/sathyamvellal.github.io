@@ -5,9 +5,843 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Aug 2017 09:27:51 -0700</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2017 09:27:51 -0700</lastBuildDate>
+    <pubDate>Sun, 13 Aug 2017 15:40:47 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Aug 2017 15:40:47 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Music Archive - August 2017</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+
+    return false;
+}
+&lt;/script&gt;
+
+
+
+&lt;div class=&quot;music-tracks&quot;&gt;
+    
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Sufjan Stevens - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Casimir Pulaski Day&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (harp cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Mikaela Davis&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=QJaumb0sg4I&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://mikaeladavis.bandcamp.com/track/casimir-pulaski-day&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Sufjan-stevens-casimir-pulaski-day-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Jubel&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Klingande&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=b6vSf0cA9qY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/jubel/id835161874?i=835164917&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/jubel/id835161874?i=835164917&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2mpsKeLCbdXkwEpZRNi4XD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/klingande/klingande-jubel&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Klingande-jubel-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;We Like To Party!&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Vengaboys&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=6Zbi0XmGtMw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/we-like-to-party-six-flags-six-flags/id345893873?i=345894012&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/we-like-to-party-six-flags-six-flags/id345893873?i=345894012&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/77j9HOrxUpWcjwra9jgvio&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Vengaboys-we-like-to-party-the-vengabus-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;I Must Be In A Good Place Now&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Bobby Charles&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=3YXI967iELo&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/i-must-be-in-a-good-place-now/id129644023?i=129643643&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/i-must-be-in-a-good-place-now/id129644023?i=129643643&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1PQu8BwTrJNZxqg26E4kou&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Bobby-charles-i-must-be-in-a-good-place-now-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Chariots of Fire - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Titles&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; 2CELLOS&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=sxIo28DzKGw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/titles-from-chariots-of-fire/id1188937433?i=1188937604&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/titles-from-chariots-of-fire/id1188937433?i=1188937604&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5lnzLJt883Pz3cqJvt4NC6&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Inside Llewyn Davis - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Fare Thee Well&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Jeff Biggar&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=PB1O-G_trWw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;The Godfather - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Love Theme&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (cello cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; 2CELLOS&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=sbCOtg3JY3s&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/love-theme-from-the-godfather/id1188937433?i=1188937448&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/love-theme-from-the-godfather/id1188937433?i=1188937448&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/3es5hmocvsBrFk3HhhqUKH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Casimir Pulaski Day&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sufjan Stevens&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=9EzeW5KoPUI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/casimir-pulaski-day/id328074546?i=328074589&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/casimir-pulaski-day/id328074546?i=328074589&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1u1YU1LE0FWHFOHpR2iXua&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Sufjan-stevens-casimir-pulaski-day-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Love Is a Bitch&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Two Feet&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=_DjE4gbIVZk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/love-is-a-bitch/id1231167994?i=1231168000&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/love-is-a-bitch/id1231167994?i=1231168000&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Two-feet-love-is-a-bitch-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Sufjan Stevens - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Should Have Known Better&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (piano cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Nico Casal&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=ocX3v1Ofq_s&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Sufjan Stevens - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Should Have Known Better&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Brightener&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=69W_Op_J3_c&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;그 밤 (The Night)&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Lovewave&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=zprCVgMKXT0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Imagine Dragons - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Believer&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (fingerstyle guitar cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Eddie van der Meer&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=hXQxSi34GWY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/believer/id1257319095?i=1257319115&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/believer/id1257319095?i=1257319115&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1kF3SS5IbGop10rMHSDjID&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Birds&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Emiliana Torrini&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=98YnB7-Q51k&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/birds/id289405558?i=289405607&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/birds/id289405558?i=289405607&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5nAVSPrB6Bv2ZCtM4KeecQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Emiliana-torrini-birds-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Silver Linings Playbook - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Monster Mash&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; CrabCorps&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=Y3daQZaxyD4&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/monster-mash/id572049729?i=572049920&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/monster-mash/id572049729?i=572049920&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/34DGh0PRvEZUDEeCEvWuj3&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Crabcorps-monster-mash-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;In a Heartbeat&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Arturo Cardelús&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=hFaXJffksZY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Fitoor - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Rangaa Re (English Version)&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Amit Trivedi&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=SVwFrlf3nHI&amp;t=27m34s&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/rangaa-re-english-version/id1075381322?i=1075382232&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/rangaa-re-english-version/id1075381322?i=1075382232&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Chiovi&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Swingrowers&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=wlFvpcoCJG4&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/chiovi/id945790618?i=945790670&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/chiovi/id945790618?i=945790670&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/73TWYiH6k4wZsjT7LyCatb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Swingrowers - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;That's Right&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (remix) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Jamie Berry&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=R-Q5m_1YNz0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/thats-right-jamie-berry-remix/id980593530?i=980593812&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/thats-right-jamie-berry-remix/id980593530?i=980593812&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6y0htuLJPn2Wwq6NEHQEct&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Swingrowers/That-s-Right&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;That's Right&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Swingrowers&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=9Jy8pK7tTzg&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/thats-right/id980593530?i=980593806&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/thats-right/id980593530?i=980593806&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5WsLOAZVYAmWjPYSS0GSDh&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Swingrowers/That-s-Right&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Midnight&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Swingrowers&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=JKPD8jChw94&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/midnight/id934127275?i=934127295&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/midnight/id934127275?i=934127295&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7HreZ3zlS9WXnSSmSc3UIi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Swingrowers/Midnight&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Swingrowers - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Butterfly&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (remix) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Wolfgang Lohr&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=wH7DGwMsjew&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/butterfly-wolfgang-lohr-remix/id1241670959?i=1241671081&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/butterfly-wolfgang-lohr-remix/id1241670959?i=1241671081&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/38y2r6F9E3VutUPgBlcnpc&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Swingrowers/Butterfly&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Butterfly&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Swingrowers&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=xh67VWfRQU0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/butterfly/id1210856307?i=1210856743&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/butterfly/id1210856307?i=1210856743&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/09dp6DWSMS45m5ueskzuRJ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Swingrowers/Butterfly&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Kolkata&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; KSHMR&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=yRIJoNk6an8&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/kolkata/id1262030538?i=1262030554&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/kolkata/id1262030538?i=1262030554&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/637McrDyDQ9CffkFuZGRpq&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/dharmaworldwide/kolkata&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+        <link>/music/2017/08/</link>
+        <guid isPermaLink="true">/music/2017/08/</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
     
       <item>
         <title>Music Archive - July 2017</title>
@@ -770,6 +1604,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
@@ -1687,6 +2532,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
@@ -2972,6 +3828,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
@@ -4693,6 +5560,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
 
         
@@ -5770,6 +6648,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
 
         
@@ -6461,6 +7350,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
@@ -7200,6 +8100,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
 
         
@@ -7905,6 +8816,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
 
         
@@ -8556,6 +9478,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
 
         
@@ -8663,123 +9596,6 @@ function openAppleMusic(url) {
         
         
         <category>music</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to PES OpenSource</title>
-        <description>&lt;p&gt;Heya there! This post is mainly targeted to the students of PES Institute of Technology/PES University, Bangalore. If you are not, and are new to the Open Source Movement, you can still find a lot of useful information here. You can also learn the ways of PES Open Source, and join our movement in making educational institutions a place of more knowledge and productivity.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;h4 id=&quot;prologue&quot;&gt;Prologue&lt;/h4&gt;
-
-&lt;p&gt;Firstly, I want you to think what an open source project means to you. Give it a minute. Done?&lt;br /&gt;
-Now did you think one of these?&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Getting access to the source code of the project.&lt;/li&gt;
-  &lt;li&gt;Getting/Using the project for free (as in free beer).&lt;/li&gt;
-  &lt;li&gt;Using the project’s source to either contribute to it or create a fork of the project. ie, ability to modify the project freely (as in free libre).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Well, if you did, you are somewhat on the right track. But wait, this was kind of easy. Now, I want you think what “Open Source” means. Woah, now that wasn’t simple right? Understanding what &lt;em&gt;Open Source&lt;/em&gt; stands for, deep down, is equivalent to understanding what open source projects stand for.&lt;/p&gt;
-
-&lt;p&gt;As a beginner to the world of open source, you must first make it a point to understand the philosophy of open source. This is critical in understanding why there are open source projects and what the community stands for.&lt;/p&gt;
-
-&lt;h4 id=&quot;the-philosophy&quot;&gt;The Philosophy&lt;/h4&gt;
-
-&lt;p&gt;The concept of open source has been there since the stone age, surely even before, but let’s stick to the stone age for now as a start. People from back then have shared the knowledge on how to start a fire, how to make tools, how to hunt using tools, how to build houses, how to cultivate crops, how to cook, how to this and how to that… the list goes on! Open Source has been driving our lives each and every moment. But how? Through knowledge. Knowledge is the key takeaway with Open Source. It’s the only takeaway in this world that’s also a giveaway.&lt;br /&gt;
-At the core, &lt;em&gt;Open Source&lt;/em&gt; stands for spreading knowledge and making the world a better place to live in; the one entity that empowers everything and everyone. It is important to understand this since all open source projects are driven by this philosophy. It is this immense passion towards learning and learning through sharing that has built the open source world. To be a successful open source enthusiast, realising this passion within you is very essential.&lt;/p&gt;
-
-&lt;p&gt;Over the next few sections of the post, I’m going to give a broad perspective of the world of Open Source and come back to what you can start doing. Firstly, We saw three points above, which give a fair idea some typical traits of open source projects. These traits are the results of what a given open source project stands for. We learnt what &lt;em&gt;Open Source&lt;/em&gt; is actually about deep down. So now, we’ll see why and how projects are open sourced.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-are-projects-open-sourced&quot;&gt;Why are projects open sourced?&lt;/h4&gt;
-
-&lt;p&gt;There is no general reason why projects are open soourced. However, there are some values that a project picks up when open sourced.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Trust&lt;/strong&gt;&lt;br /&gt;
-This is one of the two biggest reasons why projects go open source. If the source is open then the public has the freedom to inspect the code and verify that the software is doing what it’s supposed to do and nothing more or less, thus making it feel more secure and stable.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Community&lt;/strong&gt;&lt;br /&gt;
-Most open source projects have a community of developers, contributors and users. This is a big advantage as you can interact with the community regarding the project, providing you the support to use it or also contribute to it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Control&lt;/strong&gt;&lt;br /&gt;
-Open source software gives users the control they would want on the software since they will know what it is and isn’t. Also, users can request features or enhancements by interacting with the community.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Source of Knowledge&lt;/strong&gt;&lt;br /&gt;
-As discussed before, the best trait of any open source project is the amount of knowledge you gain by learning about the project, the domain, the design, the implementation and its way of usage. And all this for free of cost.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Some companies/corporations also open source projects as a PR move, but with a stronger intention to give something back to public. This helps in mutual growth a well established product built over open source tools or libraries, in a way appreciating them and launching an open source project of their own.&lt;br /&gt;
-On a side note, many a times, open source projects are prefered when developing long term projects as they are more likely to be standing as a community with the source also being open. Imagine if you were to use a closed-source library in a project of yours and its development stops! It’s a risk that is mostly not taken.&lt;/p&gt;
-
-&lt;h4 id=&quot;the-problems-with-open-source-softwareprojects&quot;&gt;The problems with Open Source software/projects&lt;/h4&gt;
-
-&lt;p&gt;Mind you, that these may not apply to some projects. There are quite a lot of truly exceptional open source projects!&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;The development Philosophy (minor problem)&lt;/strong&gt;&lt;br /&gt;
-Usually, open source development follows the “Release Early, Release Often” philosophy. The reason behind this is to attract more developers, funding and early users so that the project is a success. This however causes a side effect - It sometimes feels that the development is slow and version 1.0 might never be seen.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Development pace may vary&lt;/strong&gt;&lt;br /&gt;
-Most of the developers are volunteers, who contribute out of passion in their free time. In projects where there aren’t many contributors, or less contributors to core ares of the software, this might create some problems and delays when one (or few) go offline for a while.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;br /&gt;
-One of the most troublesome issue with Open Source Software is documentation. There is often inadequate documentation in projects which cause a great deal of inconvenience to new users, contributors and adopters of the project. This is not the case with all, but many projects. It mainly arises because contributors concentrate more towards working on the project than on documenting it (which takes a great deal of time and decreases productivity).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Compatibility Issues&lt;/strong&gt;&lt;br /&gt;
-There are cases when project X uses library Y v2.0 and another project Z which uses library Y v1.5; and now you can’t install X and Z in your system, mainly because incompatibility. Although this is not frequent, it does happen, and a hard one to solve at that.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hard code base, not intuitive&lt;/strong&gt;&lt;br /&gt;
-One of the tricky problems in software development is the codebase. The developers work on a project without realizing parts, or most of the codebase might be hard for users to understand. This is not a problem with OSS per se, but it is more apparent here. This happens mainly because the developers feel that the piece of code is intuitive, which is true for them as they wrote it, but may not be the case for others. Many projects don’t attract enough contributors for this very reason - The codebase is too hard to understand.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Licensing issues&lt;/strong&gt;&lt;br /&gt;
-There are many open source licenses with subtle differences in their licensing guidelines. Although most aren’t too restrictive, some are. This creates problems when trying to use an open source library in a software which might be proprietary and commercial, for example. Each license has governing rules for usage and distribution of the software using it.
-Here’s a comparison of free and open-source software licenses&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;User Experience&lt;/strong&gt;&lt;br /&gt;
-This doesn’t get expressed enough. Many open source tools and software give an interface over the command line as they target other developers first. The UI which is then developed is not good enough to impress end-users. Even if the software is feature-rich, a less impressive experience bids adieu to users.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Accountability&lt;/strong&gt;&lt;br /&gt;
-This is a very visible problem with quite a lot of open source projects. If the software developed breaks down in any format, there is no one to hold resoponsible but the community itself, which doesn’t seem fair. In such situations, users of such projects would have to find a solution and fix it themselves.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Maintainability&lt;/strong&gt;&lt;br /&gt;
-With a lot of rapid development, there is lesser bandwidth to maintain current releases. As a result, you might see projects being maintained at a lower pace or sometimes, very little.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Phew! That was a lot of disadvantages listed down. But wait, these are all specific problems with open source software, the benefits are very broad and their magnitude are much higher! Also, knowing these issues will help you to contribute better.&lt;/p&gt;
-
-&lt;p&gt;Okay, so till now, we looked at open source software, their benefits and their disadvantages. But I’ve saved the best part for the last.&lt;/p&gt;
-
-&lt;h4 id=&quot;open-source-for-a-student&quot;&gt;Open Source for a student&lt;/h4&gt;
-
-&lt;p&gt;Yes, you read it right! Open Source projects are a boon and a treasure for students. Why so? Because they are professionally crafted, coded and maintainted projects. And for a student, this is as good as Atlantis’s lost treasure! Being exposed to open source projects and contributing to them makes you look at developing projects differently, exposing you to industry standard conventions, coding styles, design patterns and much more. You will gain a lot of maturity in the field and get first-hand experience in handling live products.&lt;br /&gt;
-What is even more exciting is that there are hundreds of open source project for you to contribute to! You can contribute to the project of your choice and get the most out of it.&lt;/p&gt;
-
-&lt;h4 id=&quot;so-how-do-you-begin&quot;&gt;So how do you begin?&lt;/h4&gt;
-
-&lt;p&gt;Let’s now see how you can begin contributing to open source projects. Remember, that all experts started as beginners. So if you don’t know coding yet, or have very little experience in programming, no issues! Open source projects have something for everyone at every level! However, (oh, that’s a not a good word to hear…) as it goes with other domains too, there is a learning curve associated with being involved in open source projects - Tools. There are few tools which become essential while contributing to open source projects. It is almost necessary for you to know about version controlling with either SVN or Git, but most preferably Git.&lt;br /&gt;
-All open source projects are version controlled (you can search about this on the web), mostly using SVN or Git. Nowadays its mainly Git or Mercurial, but I’d recommend you to learn Git. Having an understanding of how Git works and how you use it will help to a great extent, since everything is managed through Git.&lt;/p&gt;
-
-&lt;p&gt;Well, now that’ve established that you need to know about version controlling, you can move ahead on to searching for tasks to do by beginners on projects. These typically involve bug fixing, documentation writeup, etc which even though doesn’t sound like a great contribution, takes you a long way! Believe me, even for a small task, as simple as fixing a bug, you’ll be -&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Learning how to access source code, get a copy on your local machine.&lt;/li&gt;
-  &lt;li&gt;Set up the development environment necessary for building executing the project; to test things out.&lt;/li&gt;
-  &lt;li&gt;Reading code written by others, which is an extremely professional task; something which is also not easy in the corporate industry.&lt;/li&gt;
-  &lt;li&gt;Understanding what you need to fix, where and how you need to do it.&lt;/li&gt;
-  &lt;li&gt;Communicating with people across the globe - open source projects are not written by your neighbours!&lt;/li&gt;
-  &lt;li&gt;Professionally solving problems - the solution to fix the bug may look simple, but its implementation must take into account the philosophy and conventions used in the project, the language constraints, the architecture of the project, etc. What you are now doing here is something no less than what is done professionally by understanding end-to-end, the project’s details and implementing your solution accordingly.&lt;/li&gt;
-  &lt;li&gt;Learning how your changes are reflected back to the project’s main codebase.&lt;/li&gt;
-  &lt;li&gt;Partying when your changes go live!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;And now you can realise why prior open source contribution is valued high in the industry. The amount of experience and knowledge you gain are more than what you can practically learn in your academics. No doubt that you gain techincal knowledge and understanding of Computer Science and Information Technology in your academics, but active participation in open source projects give you a very practical and professional experience and an understanding of concepts at a different level.&lt;/p&gt;
-
-&lt;p&gt;And that’s not all, the feeling you get when assited by a community of developers willing to help, the satisfaction you get in contributing to the community, the connections you make by networking with others are immeasurable.&lt;/p&gt;
-
-&lt;p&gt;This, for now is an introduction to the open source world for you. I’ll update in this post soon with some points from where you can begin from. If you have any queries, you can post in the &lt;a href=&quot;http://pesos.pes.edu/fb&quot;&gt;PES Open Source Facebook group&lt;/a&gt;, email me at &lt;a href=&quot;mailto:mail@sathyamvellal.in&quot;&gt;mail@sathyamvellal.in&lt;/a&gt; or email PES Open Source at &lt;a href=&quot;mailto:pesos@pes.edu&quot;&gt;pesos@pes.edu&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ciao!&lt;br /&gt;
-&lt;strong&gt;Let Knowledge Flow From All Sides.&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 Aug 2014 21:08:00 -0700</pubDate>
-        <link>/oldblog/welcome-to-pes-opensource/</link>
-        <guid isPermaLink="true">/oldblog/welcome-to-pes-opensource/</guid>
-        
-        
-        <category>oldblog</category>
         
       </item>
     
