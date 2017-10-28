@@ -5,9 +5,1179 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Oct 2017 20:36:23 -0700</pubDate>
-    <lastBuildDate>Fri, 27 Oct 2017 20:36:23 -0700</lastBuildDate>
+    <pubDate>Fri, 27 Oct 2017 22:57:42 -0700</pubDate>
+    <lastBuildDate>Fri, 27 Oct 2017 22:57:42 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Music Archive - October 2017</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+
+    return false;
+}
+&lt;/script&gt;
+
+
+
+&lt;div class=&quot;music-tracks&quot;&gt;
+    
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Pélléas&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; PAVANE&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=fj7dhx4_wcE&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/pélléas/id1124114227?i=1124114543&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/pélléas/id1124114227?i=1124114543&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2Iiy3pkCbAOiVHRDpJaKx5&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/pavane-music/pelleas&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Le Fété Noire&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Flavien Berger&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=KKUfXDlTfBQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/la-fête-noire/id982285006?i=982285010&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/la-fête-noire/id982285006?i=982285010&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1UYB9P4h5IOor1CGwZfCyK&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Flavien-berger-la-fete-noire-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;You Got The Love&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (feat. Candi Station) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; The Source&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=x7dMGw3uzEU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/you-got-the-love-feat-candi-staton-new-voyager-radio-edit/id774836681?i=774839008&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/you-got-the-love-feat-candi-staton-new-voyager-radio-edit/id774836681?i=774839008&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/The-source-you-got-the-love-now-voyager-mix-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;I'm Not The Only One&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sam Smith&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=nCkpzqqog4k&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/im-not-the-only-one/id836166467?i=836166481&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/im-not-the-only-one/id836166467?i=836166481&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0fioLzGM8ngbD1w6fMmm45&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Sam-smith-im-not-the-only-one-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Love Me Again&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; John Newman&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=CfihYWRWRTQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/love-me-again/id776124871?i=776124879&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/love-me-again/id776124871?i=776124879&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/John-newman-love-me-again-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Home Is Where I Am&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Superpoze&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=fAnZFzrdfus&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/home-is-where-i-am/id1057294938?i=1057294954&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/home-is-where-i-am/id1057294938?i=1057294954&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0Ol5n2UhHXVmBxuYwytzXh&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Overseas&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Superpoze&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=fKuuDI4NUAc&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/overseas/id1057294938?i=1057294949&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/overseas/id1057294938?i=1057294949&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7GWs2UMtsQEWWvWGLm0fYL&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/superpoze/overseas-3&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;North&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Superpoze&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=NlJ0NQj8dsU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/north/id1057294938?i=1057294942&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/north/id1057294938?i=1057294942&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/3qbS4XzTDfSIZsTakyXWcE&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Opening&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Superpoze&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=5Qe-sYCOowI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://itunes.apple.com/us/album/opening/id1057294938?i=1057294941&quot; onclick=&quot;return openAppleMusic('https://itunes.apple.com/us/album/opening/id1057294938?i=1057294941')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7rTnjpwXUZbqkomyxmWfM7&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Kitchen&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; This Will Destroy You&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=itWGf4owrUY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/kitchen/id1289567705?i=1289568042&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/kitchen/id1289567705?i=1289568042&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4oW5aCSirJUGWZfxPeHsNY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://magicbulletrecords.bandcamp.com/track/kitchen&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Philémon&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Chapelier Fou&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=u2UT_nq4Eo4&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/philémon/id1242874598?i=1242874965&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/philémon/id1242874598?i=1242874965&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6vdvPu5QKHnaciDrMskfxD&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/chapelierfou/philemon-1&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Someone's Devotion&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Pale Honey&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=YiSt8j-rBnA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://itunes.apple.com/us/album/someones-devotion/id1266506889?i=1266507281&quot; onclick=&quot;return openAppleMusic('https://itunes.apple.com/us/album/someones-devotion/id1266506889?i=1266507281')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4nY7LUe8YlQGBuuVNkM1Tc&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Seven Swans&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sufjan Stevens&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=99TCWaHmWKc&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/seven-swans/id586314144?i=586314609&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/seven-swans/id586314144?i=586314609&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6QbQc7smvAcK63Y0XQVmWe&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Sufjan-stevens-seven-swans-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Simmer Down&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Ionnalee&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=zG9Dxteg2S8&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/simmer-down/id1284680517?i=1284680528&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/simmer-down/id1284680517?i=1284680528&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0MILQXR1gsnpQ1waWfnw97&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/ionnaleeofficial/simmer-down&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Ionnalee-simmer-down-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Chicago&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sufjan Stevens&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=c_-cUdmdWgU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/chicago/id328074546?i=328074588&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/chicago/id328074546?i=328074588&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Sufjan-stevens-chicago-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;City of the Iris&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Airwave&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=jRIJ7un4kSE&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/city-of-the-iris/id1239229379?i=1239229385&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/city-of-the-iris/id1239229379?i=1239229385&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5MezoRwWKP525SFjfrVJn8&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Azúcar Negra&lt;/strong&gt; &lt;/span&gt;
+                
+                
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=tedY6jbPpQM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/azúcar-negra/id1113898069?i=1113898196&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/azúcar-negra/id1113898069?i=1113898196&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/23jTBtyPLLA6Ua5pkO1PyC&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Celia-cruz-azucar-negra-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Safe and Sound&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Capital Cities&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=47dtFZ8CFo8&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/safe-and-sound/id872922267?i=872922301&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/safe-and-sound/id872922267?i=872922301&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Capital-cities-safe-and-sound-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Take a Walk&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Passion Pit&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=dZX6Q-Bj_xg&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/take-a-walk/id534798874?i=534798882&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/take-a-walk/id534798874?i=534798882&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Passion-pit-take-a-walk-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;One Day / Reckoning Song&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (Wankelmut remix) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Asaf Avidan &amp; The Mojos&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=RKtRL7FkjQA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/one-day-reckoning-song-wankelmut-remix-club-mix/id556035940?i=556036110&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/one-day-reckoning-song-wankelmut-remix-club-mix/id556035940?i=556036110&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4VdM1CyQYlkywU6lL2fgw6&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/gemour/one-day-reckoning-song&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Asaf-avidan-and-the-mojos-one-day-reckoning-song-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Alone&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Alan Walker&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=1-xGerv5FOk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/alone/id1202263583?i=1202263655&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/alone/id1202263583?i=1202263655&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0JiVRyTJcJnmlwCZ854K4p&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://genius.com/Alan-walker-alone-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Last Ray of Light&lt;/strong&gt; &lt;/span&gt;
+                
+                
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=u0i61YoNwZU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/last-ray-of-light/id1298690997?i=1298691772&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/last-ray-of-light/id1298690997?i=1298691772&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/11DFsx4pxjocqFtKanPETR&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://immediatemusic.bandcamp.com/track/last-ray-of-light&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Error 404&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Martin Garrix&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=nu8-7huFyvo&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/error-404/id623286167?i=623286646&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/error-404/id623286167?i=623286646&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5c7UATnb0XfIbyIHHfgIMb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Helicopter&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Martin Garrix &amp; Firebeatz&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=ovDcLHa2L1o&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/helicopter/id927399421?i=927399441&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/helicopter/id927399421?i=927399441&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1toz8k7rYIw4FS5jOSXxYH&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/spinninrecords/martin-garrix-firebeatz&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Believe&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Cher&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=4p0chD8U8fA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/believe/id73273758?i=73273491&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/believe/id73273758?i=73273491&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;I Will Survive&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Gloria Gaynor&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=zpVQFhRwWQw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/i-will-survive/id137356?i=137306&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/i-will-survive/id137356?i=137306&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1QJCfFAdZ6QIjLY7AEytwN&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Pulse&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Melissa Etheridge&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=MepQ00arNOk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/pulse/id1125534253?i=1125534299&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/pulse/id1125534253?i=1125534299&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/7MtqyMgmpPolBLfVrCHf0J&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-soundcloud&quot; href=&quot;https://soundcloud.com/melissaetheridge/pulse&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-soundcloud&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;soundcloud&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-musixmatchlyrics&quot; href=&quot;https://www.musixmatch.com/lyrics/Melissa-Etheridge/Pulse&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; musixmatch&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Anpadh - Aap Ki Nazron Ne Samjha&lt;/strong&gt; &lt;/span&gt;
+                &lt;span class=&quot;dark-grey&quot;&gt; (The Krimson Blend cover) &lt;/span&gt;
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Krimson Avenue&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=Emf4_cS_QG0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Ecartele: Less than a year&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Szymanowski Quartet, Marina Baranova &amp; Damien Marhulets&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=78_-3uUWskg&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://itunes.apple.com/us/album/ecartele-less-than-a-year/id1228088519?i=1228088689&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://itunes.apple.com/us/album/ecartele-less-than-a-year/id1228088519?i=1228088689&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5su3HmfnFlFVwnR7Ap2tkU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Bloodflow&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Grandbrothers&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=mxwFefgaYTg&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/bloodflow/id1244280904?i=1244280910&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/bloodflow/id1244280904?i=1244280910&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/5fCLuHGK0OPT28iwCmUhYb&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://grandbrothers.bandcamp.com/track/bloodflow&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                &lt;span&gt;Phillip Glass - &lt;/span&gt;
+                &lt;span&gt; &lt;strong&gt;Metamorphosis 4&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Murcof &amp; Venessa Wagner&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=kmwiHX4hu_I&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/metamorphosis-4/id1235207906?i=1235208291&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/metamorphosis-4/id1235207906?i=1235208291&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0M99ZDKDfGxcH7hBmZx6oa&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://infine-rec.bandcamp.com/track/metamorphosis-4-philip-glass&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;Sphere&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Akira Kosemura&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/sphere/id1261255359?i=1261255718&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/sphere/id1261255359?i=1261255718&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/53f3qPYTdesdgiQ5xweAud&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://akirakosemura.bandcamp.com/track/sphere&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+        
+        &lt;div class=&quot;music-track&quot;&gt;
+            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
+                
+                
+                &lt;span&gt; &lt;strong&gt;The Great Plains of Dust&lt;/strong&gt; &lt;/span&gt;
+                
+                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Adrian Copeland, Alder &amp; Ash&lt;/span&gt;
+            &lt;/p&gt;&lt;/div&gt;
+            &lt;div class=&quot;music-links&quot;&gt;
+                
+                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=n470LwS3GjM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/the-great-plains-of-dust/id1238523037?i=1238523152&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/the-great-plains-of-dust/id1238523037?i=1238523152&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4slZzVGgqW9NhFYIbzaofY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+                
+                    &lt;a class=&quot;music-link music-link-bandcamp&quot; href=&quot;https://alderandashmusic.bandcamp.com/track/the-great-plains-of-dust&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-bandcamp&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;i&gt;bandcamp&lt;/i&gt;&lt;/strong&gt;&lt;/a&gt;
+                
+                
+                
+            &lt;/div&gt;
+        &lt;/div&gt;
+        
+    
+&lt;/div&gt;
+
+&lt;hr class=&quot;faded&quot;/&gt;
+&lt;div class=&quot;music-archives&quot;&gt;
+    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
+    
+        
+        
+
+        
+        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+            &lt;/ul&gt;
+            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
+            &lt;ul class=&quot;year-list&quot;&gt;
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2016/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
+
+        
+        &lt;/ul&gt;
+        
+    
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
+        <link>/music/2017/10/</link>
+        <guid isPermaLink="true">/music/2017/10/</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
     
       <item>
         <title>Music Archive - September 2017</title>
@@ -478,6 +1648,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
@@ -1935,6 +3116,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
 
         
@@ -2850,6 +4042,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
@@ -3811,6 +5014,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
@@ -5140,6 +6354,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
@@ -6905,6 +8130,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
 
         
@@ -8026,6 +9262,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
 
         
@@ -8761,6 +10008,17 @@ function openAppleMusic(url) {
         
         &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
         &lt;ul class=&quot;year-list&quot;&gt;
+        
+
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
         
 
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
@@ -9544,6 +10802,17 @@ function openAppleMusic(url) {
         &lt;ul class=&quot;year-list&quot;&gt;
         
 
+        &lt;li&gt;&lt;a href=&quot;/music/2017/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
+
+        
+            
+        
+    
+        
+        
+
+        
+
         &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
 
         
@@ -9692,755 +10961,6 @@ function openAppleMusic(url) {
         <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
         <link>/music/2017/01/</link>
         <guid isPermaLink="true">/music/2017/01/</guid>
-        
-        
-        <category>music</category>
-        
-      </item>
-    
-      <item>
-        <title>Music Archive - December 2016</title>
-        <description>&lt;script type=&quot;text/javascript&quot;&gt;
-function openAppleMusic(url) {
-    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
-    if (/iPad|iPhone|iPod/.test(userAgent) &amp;&amp; !window.MSStream) { // if iOS
-        window.open(url.replace('https', 'music'), '_blank');
-    } else { // otherwise
-        window.open(url, '_blank');
-    }
-
-    return false;
-}
-&lt;/script&gt;
-
-
-
-&lt;div class=&quot;music-tracks&quot;&gt;
-    
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Marco Polo - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;The Beautiful Steppe&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Batzorig Vaanchig&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=vLwjoi1jduM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/the-beautiful-steppe/id994149379?i=994149527&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/the-beautiful-steppe/id994149379?i=994149527&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0FJGlbhVx6Q0nvIvB4bVK0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Marco Polo - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Main Titles&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Daniele Luppi&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=rEUnxcoheWI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/marco-polo-main-titles/id994149379?i=994149526&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/marco-polo-main-titles/id994149379?i=994149526&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0XT9o62novkGbzMxlWYHur&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;John Williams - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Star Wars Part 2&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (epic orchestral cover) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Parademics&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=0UiXrIOtF4Y&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;John Williams - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Star Wars Part 1&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (epic orchestral cover) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Parademics&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=tnGSvJKG34Y&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Hans Zimmer - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;The Lion King&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (epic orchestral cover) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Parademics&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=rLIOLGTfbjI&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Hans Zimmer - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Interstellar Main Theme&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (piano cover) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Patrik Pietschmann&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=4y33h81phKU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Gustavo Santaolalla - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;The Last of Us&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (all instruments cover) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; SquidPhysics&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=p_SCOn9ye0I&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;The Man from U.N.C.L.E. - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Out Of The Garage&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Daniel Pemberton&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=sk-TjQ2DF4M&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/out-of-the-garage/id1021413320?i=1021413664&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/out-of-the-garage/id1021413320?i=1021413664&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2OJVngK8PouyfnbMHfp5Ga&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Star Wars Symphonic Suite&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Jelani Eddington&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=I2S72eajLzw&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Duel of the Bumblebees (feat. Arturo Cardelús)&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Sonya Belousova&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=LKNAFKEavSM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Jingle Bells&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (ragtime piano cover) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Jonny May&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=aa3ViVNNIhQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Star Wars - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Cantina Band&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (ragtime piano duet) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Martin Spitznagel &amp; Bryan Wright&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=gNi2oxH37vo&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Mission Impossible VS James Bond&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Dave Wave&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=RNO5UF5HoPA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Flight of the Bumblebee VS The Imperial March&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Dave Wave&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=r_5mnoBJMjo&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Korobeiniki (Tetris Theme)&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (cover) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Dave Wave&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=ZSLnkyPSlEM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Russian Song / Ode To Joy&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Pete Seeger&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=8HOIyqXIc8Q&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/2Wka4VSAzk4W9Vb5qtZCeF&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Taranta Project - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;Mamma La Rondinella&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Ludovico Einaudi&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=FT74xG5aACQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/mamma-la-rondinella/id978310441?i=978311102&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/mamma-la-rondinella/id978310441?i=978311102&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/4wpUiR2UvXHXYIThPgg5gn&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Blind Faith (ft. Liam Bailey)&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Chase And Status&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=BaAqSpKaf7w&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/blind-faith/id513061265?i=513061266&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/blind-faith/id513061265?i=513061266&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/49C5klxaAwe668V3EojJP8&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Hollywood in Vienna 2016&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Vienna Radio Symphony Orchestra&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=JeDJR_nVr-k&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Pirates of the Caribben Theme&lt;/strong&gt; &lt;/span&gt;
-                &lt;span class=&quot;dark-grey&quot;&gt; (Indian version) &lt;/span&gt;
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Mahesh Raghvan&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=D3CRTAQMjB4&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                &lt;span&gt;Star Trek - &lt;/span&gt;
-                &lt;span&gt; &lt;strong&gt;End Credits&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Michael Giacchino&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=5ig4LlRojfY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/end-credits/id734735541?i=734735565&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/end-credits/id734735541?i=734735565&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/1VkSSAbMsYAjAakaje6bFi&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-        
-        &lt;div class=&quot;music-track&quot;&gt;
-            &lt;div class=&quot;music-track-title&quot;&gt;&lt;p&gt;
-                
-                
-                &lt;span&gt; &lt;strong&gt;Nightcall&lt;/strong&gt; &lt;/span&gt;
-                
-                &lt;span&gt; &lt;span class=&quot;dark-grey&quot;&gt;by&lt;/span&gt; Kavinsky&lt;/span&gt;
-            &lt;/p&gt;&lt;/div&gt;
-            &lt;div class=&quot;music-links&quot;&gt;
-                
-                    &lt;a class=&quot;music-link music-link-youtube&quot; href=&quot;https://www.youtube.com/watch?v=MV_3Dpw-BRY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-youtube-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; &lt;span class=&quot;black&quot;&gt;You&lt;/span&gt;Tube&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-applemusic&quot; href=&quot;https://geo.itunes.apple.com/us/album/nightcall/id583368849?i=583368952&amp;mt=1&amp;app=music&quot; onclick=&quot;return openAppleMusic('https://geo.itunes.apple.com/us/album/nightcall/id583368849?i=583368952&amp;mt=1&amp;app=music')&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-apple&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; MUSIC&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                    &lt;a class=&quot;music-link music-link-spotify&quot; href=&quot;https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fa fa-spotify&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Spotify&lt;/strong&gt;&lt;/a&gt;
-                
-                
-                
-                
-                
-                    &lt;a class=&quot;music-link music-link-geniuslyrics&quot; href=&quot;https://genius.com/Kavinsky-nightcall-lyrics&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;span aria-hidden=&quot;true&quot;&gt; G E N I U S &lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;
-                
-                
-            &lt;/div&gt;
-        &lt;/div&gt;
-        
-    
-&lt;/div&gt;
-
-&lt;hr class=&quot;faded&quot;/&gt;
-&lt;div class=&quot;music-archives&quot;&gt;
-    &lt;h2 class=&quot;music-archives-header&quot;&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/h2&gt;
-    
-        
-        
-
-        
-        &lt;h2 class=&quot;year-list-header&quot;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul class=&quot;year-list&quot;&gt;
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/08/&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/07/&quot;&gt;July&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/06/&quot;&gt;June&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/05/&quot;&gt;May&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/04/&quot;&gt;April&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/03/&quot;&gt;March&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/02/&quot;&gt;February&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2017/01/&quot;&gt;January&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-            &lt;/ul&gt;
-            &lt;strong&gt;&lt;h2 class=&quot;year-list-header&quot;&gt;2016&lt;/h2&gt;&lt;/strong&gt;
-            &lt;ul class=&quot;year-list&quot;&gt;
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2016/12/&quot;&gt;December&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2016/11/&quot;&gt;November&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2016/10/&quot;&gt;October&lt;/a&gt;&lt;/li&gt;
-
-        
-            
-        
-    
-        
-        
-
-        
-
-        &lt;li&gt;&lt;a href=&quot;/music/2016/09/&quot;&gt;September&lt;/a&gt;&lt;/li&gt;
-
-        
-        &lt;/ul&gt;
-        
-    
-&lt;/div&gt;
-
-</description>
-        <pubDate>Thu, 01 Dec 2016 00:00:00 -0800</pubDate>
-        <link>/music/2016/12/</link>
-        <guid isPermaLink="true">/music/2016/12/</guid>
         
         
         <category>music</category>
