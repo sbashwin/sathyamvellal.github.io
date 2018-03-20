@@ -97,7 +97,7 @@
     <div class="music-top" id="stage">
         <p><strong><i class="fa fa-headphones" aria-hidden="true"></i></strong><p>
         <p>Music I like/listen to.</p>
-        <p class="grey">This space shows recents. Updated monthly music archives are below.</p>
+        <p class="grey">This space shows recents. Monthly music archives are below.<br/>(No longer updated)</p>
     </div>
 
     <div class="music-posts">
@@ -134,6 +134,192 @@ $(document).ready(function() {
                     </div>
                 </div>
             </li>
+            <script type="text/javascript">
+function openAppleMusic(url) {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) { // if iOS
+        window.open(url.replace('https', 'music'), '_blank');
+    } else { // otherwise
+        window.open(url, '_blank');
+    }
+
+    return false;
+}
+</script>
+
+
+
+<div class="music-tracks">
+    
+</div>
+
+<hr class="faded"/>
+<div class="music-archives">
+    <h2 class="music-archives-header"><strong>Archives</strong></h2>
+    
+        
+        
+
+        
+        <h2 class="year-list-header"><strong>2017</strong></h2>
+        <ul class="year-list">
+        
+
+        <li><a href="/music/2017/10/">October</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/09/">September</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/08/">August</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/07/">July</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/06/">June</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/05/">May</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/04/">April</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/03/">March</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/02/">February</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2017/01/">January</a></li>
+
+        
+            
+            </ul>
+            <strong><h2 class="year-list-header">2016</h2></strong>
+            <ul class="year-list">
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2016/12/">December</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2016/11/">November</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2016/10/">October</a></li>
+
+        
+            
+        
+    
+        
+        
+
+        
+
+        <li><a href="/music/2016/09/">September</a></li>
+
+        
+        </ul>
+        
+    
+</div>
+
             <hr class="faded" />
             <div class="music-archives">
                 <h2 class="music-archives-header"><strong>Concerts</strong></h2>
