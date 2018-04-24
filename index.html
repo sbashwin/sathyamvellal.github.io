@@ -21,7 +21,7 @@
 <script type="text/javascript" src="/js/util.js"></script>
 <script type="text/javascript" src="/js/popper.js"></script>
 <script type="text/javascript" src="/js/tooltip.js"></script>
-<script type="text/javascript" src="/js/popover.js"></script>
+<script type="text/javascript" src="/js/bootstrap/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="/js/moment.min.js"></script>
 <script type="text/javascript" src="/js/footable.min.js"></script>
 <link rel="shortcut icon" type="image/png" href=/favicon_pride.png>
@@ -30,82 +30,113 @@
 
 
 <body>
-  <div class="wrapper">
-    <div class="header">
-  <ul>
+  <div class="header wrapper">
+    <nav class="navbar sticky-top navbar-light bg-light header">
+  <div class="row">
     
         
     
         
-        <li>
-            <a href="/blog/" target=""><i class="fal fa-file-alt"></i></a>
-        </li>
+        <div class="col-6 menuItem">
+          <button type="button" class="btn btn-light btn-lg">
+            <a href="/blog/" target=""><i class="fas fa-book"></i></a>
+          </button>
+        </div>
         
     
         
-        <li>
+        <div class="col-6 menuItem">
+          <button type="button" class="btn btn-light btn-lg">
             <a href="/music/" target=""><i class="fab fa-itunes-note"></i></a>
-        </li>
+          </button>
+        </div>
         
     
-        
-        <li>
-            <a href="https://twitter.com/sathyamvellal" target="_blank"><i class="fab fa-twitter"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://github.com/sathyamvellal" target="_blank"><i class="fab fa-github"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://linkedin.com/in/sathyamvellal" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://www.instagram.com/sathyamvellal/" target="_blank"><i class="fab fa-instagram"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://www.youtube.com/c/SathyamVellal" target="_blank"><i class="fab fa-youtube"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://www.mixcloud.com/sathyamvellal" target="_blank"><i class="fab fa-mixcloud"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://letterboxd.com/sathyamvellal/" target="_blank"><i class="fas fa-film"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://pinboard.in/u:sathyamvellal" target="_blank"><i class="fas fa-thumbtack"></i></a>
-        </li>
-        
-    
-        
-        <li>
-            <a href="https://strava.com/athletes/sathyamvellal" target="_blank"><i class="fab fa-strava"></i></a>
-        </li>
-        
-    
-  </ul><br/>
+  </div>
+  <div class-"row">
+    <div class="col">
+      <button type="button" class="btn btn-light btn-lg" >
+        <a href="javascript:void(0)" data-toggle="modal" data-target="#menuModal">
+          <i class="fas fa-th"></i>
+        </a>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<!-- Menu Modal -->
+<div class="modal fade" id="menuModal" tabindex="-1" role="dialog" aria-labelledby="menuModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="container-fluid">
+          <div class="row">
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://twitter.com/sathyamvellal" target="_blank"><i class="fab fa-twitter"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://github.com/sathyamvellal" target="_blank"><i class="fab fa-github"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://linkedin.com/in/sathyamvellal" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://www.instagram.com/sathyamvellal/" target="_blank"><i class="fab fa-instagram"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://www.youtube.com/c/SathyamVellal" target="_blank"><i class="fab fa-youtube"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://www.mixcloud.com/sathyamvellal" target="_blank"><i class="fab fa-mixcloud"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://letterboxd.com/sathyamvellal/" target="_blank"><i class="fas fa-film"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://pinboard.in/u:sathyamvellal" target="_blank"><i class="fas fa-thumbtack"></i></a>
+                </div>
+                
+            
+                
+                <div class="col-4 menuItem my-4">
+                  <a href="https://strava.com/athletes/sathyamvellal" target="_blank"><i class="fab fa-strava"></i></a>
+                </div>
+                
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-    <h2 id="hi">Hi.</h2>
+  </div>
+  </br></br>
+  <div class="wrapper">
+    <h4 id="hi">Hi.</h4>
 
 <p><br />
 I’m <strong>Sathyam</strong> <a href="http://www.phonemicchart.com/" target="_blank">/sa-th-yum/</a>, a Computer Science graduate student at the <a href="http://www.usc.edu/" target="_blank">University of Southern California</a>, Los Angeles, and specializing in <a href="https://en.wikipedia.org/wiki/Simulation" target="_blank">Simulations</a> and <a href="https://en.wikipedia.org/wiki/Supercomputer" target="_blank">High Performance Computing</a>. I love breaking down complex problems and simulating its intricate details. I’m particularly interested in <a href="https://en.wikipedia.org/wiki/Molecular_dynamics">Molecular Dynamics Simulation</a> and <a href="https://en.wikipedia.org/wiki/Scientific_visualization">Scientific Visualisation</a>. I plan to one day contribute in <a href="https://en.wikipedia.org/wiki/Outline_of_space_technology" target="_blank">Space Tech</a>. And yes, I’m a <a href="https://en.wikipedia.org/wiki/Trekkie">trekkie</a>, and a fan of <a href="http://www.simcity.com/" target="_blank">SimCity</a> and <a href="https://kerbalspaceprogram.com/" target="_blank">Kerbal Space Program</a>.</p>
