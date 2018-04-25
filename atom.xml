@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2018-04-24T17:12:39-07:00</updated>
+  <updated>2018-04-24T23:17:55-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -20,7 +20,9 @@
     <id>/blog/hello-world</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur aliquet quam id dui posuere blandit.</p>
 
-<!-- more -->
+<script type="math/tex; mode=display">c^2 = a^2 + b^2</script>
+
+<!--more-->
 
 <p>Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Cras ultricies ligula sed magna dictum porta. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta. Donec sollicitudin molestie malesuada.</p>
 
