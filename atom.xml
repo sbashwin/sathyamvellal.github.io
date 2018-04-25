@@ -4,7 +4,7 @@
   <title><![CDATA[Sathyam Vellal]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2018-04-24T16:38:59-07:00</updated>
+  <updated>2018-04-24T17:12:39-07:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="/blog/hello-world"/>
+    <updated>2018-04-01T00:00:00-07:00</updated>
+    <id>/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur aliquet quam id dui posuere blandit.</p>
+
+<!-- more -->
+
+<p>Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Cras ultricies ligula sed magna dictum porta. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta. Donec sollicitudin molestie malesuada.</p>
+
+<p>Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla quis lorem ut libero malesuada feugiat. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada.</p>
+
+<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Sed porttitor lectus nibh. Pellentesque in ipsum id orci porta dapibus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</p>
+
+<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>
+
+<p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt. Pellentesque in ipsum id orci porta dapibus. Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta.</p>
+
+<p>Proin eget tortor risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla quis lorem ut libero malesuada feugiat. Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vivamus suscipit tortor eget felis porttitor volutpat.</p>
+
+<p>Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla quis lorem ut libero malesuada feugiat. Vivamus suscipit tortor eget felis porttitor volutpat.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla quis lorem ut libero malesuada feugiat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur aliquet quam id dui posuere blandit.</p>
+
+<p>Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Cras ultricies ligula sed magna dictum porta.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Music Archive - October 2017]]></title>
@@ -14894,101 +14923,6 @@ vid4.height = vid4.width * 0.75;
 vid5.height = vid5.width * 0.75;
 vid6.height = vid6.width * 0.75;
 vid7.height = vid7.width * 0.75;
-</script>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[0 A.D. Fundraiser: 3 weeks remain!]]></title>
-    <link href="/oldblog/0ad-fundraiser-3-weeks/"/>
-    <updated>2013-10-02T01:23:00-07:00</updated>
-    <id>/oldblog/0ad-fundraiser-3-weeks</id>
-    <content type="html"><![CDATA[<p><a href="http://play0ad.com">0 A.D.</a> is a free and open source, historical RTS game. The concept of the game was designed in 2003 and was developed for around six years as a closed-source freeware project. In 2009 the game went open source under the GPL license and art content under CC-BY-SA. This steadily attracted a lot of contributors ranging from art designers to programmers to develop the game. Much of the development and contribution started after the project was open sourced.</p>
-
-<p>Less than a month ago, <a href="http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/">0 A.D. launched a crowdfunding campaign in Indiegogo</a> to help hire two contributors full-time to get it to a release state much sooner and better than its current pace of development.</p>
-
-<!-- more -->
-
-<div class="youtube">
-    <iframe id="vid3" type="text/html" class="youtube" width="440" height="300" src="http://www.youtube.com/embed/Y-0l7Ej3cM8" frameborder="0">
-    </iframe>
-</div>
-<div class="youtube">
-    <iframe id="vid4" type="text/html" class="youtube" width="440" height="300" src="http://www.youtube.com/embed/DXDxXGTzIf4" frameborder="0">
-    </iframe>
-</div>
-
-<p>The previous and the current alpha versions have improved the game’s performance and added many new features into the game. The stage is being set for the next alpha release which brings a host of new features including a featured Multiplayer Lobby! No wonder this project pushes the bar up for gaming in Linux open source games.<br />
-The <a href="http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/">Indiegogo campaign</a> is flexibly funded with targets starting from $40,000 till $240,000 and goals ranging from improving the game performance till releasing the first version of the game within a couple of years.</p>
-
-<p>The best part of this project being open source is the developer community! They’re not just developers and contributors. They are a family. The modern ancient family. They are a constantly working group, who’ve volunteered to build this game.</p>
-
-<p>IndieStatik covered an in-depth article about <a href="http://indiestatik.com/2013/10/01/10-years-in-alpha-how-volunteer-modders-created-0-a-d-with-the-help-of-a-community/">0 A.D. and its crowdfunding campaign</a> in which the author beautifully states -</p>
-
-<blockquote>
-  <p>“A huge project like 0 A.D. is worthy of people’s time because it’s a community project that people can find resolve in, share stories with others who helped to build it, and in a few months, or a year, or maybe even a decade, they’ll be able to look back at the game and remember the people they met, the things they learned, the things they shared.”</p>
-</blockquote>
-
-<p>I also would like to quote -</p>
-
-<blockquote>
-  <p>“It’s remarkable how a project of this size is sustainable with practically no budget, built from the passion of volunteers, who talk with one another, congratulate each other, see newcomers arrive and welcome them with open arms.”</p>
-</blockquote>
-
-<p>For there is no greater gift in the world than knowledge!<br />
-Donate to the 0 A.D. Project and be a part of this great community.</p>
-
-<p><strong>Website:</strong> http://play0ad.com</p>
-
-<p><strong>Indiegogo Campaign:</strong> http://www.indiegogo.com/projects/support-0-a-d-an-open-source-strategy-game/</p>
-
-<p><strong>IRC Channels:</strong> <a href="http://webchat.quakenet.org/?channels=#0ad">#0ad</a> and <a href="http://webchat.quakenet.org/?channels=#0ad-dev">#0ad-dev</a> on QuakeNet IRC</p>
-
-<hr />
-<p>I’ve included some screenshots below for you to have a quick look at the game!</p>
-
-<p>A Village in Gaul and Depth and Fog rendering!</p>
-
-<p><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/1237349_10151914968049859_1015039661_o.jpg" alt="A Village in Gaul" />
-<img src="http://play0ad.com/wp-content/gallery/screenshots/tilt-shift-filter.jpg" alt="Depth and Fog Rendering" /></p>
-
-<p>Persian Heavy Infantry and 0 A.D.’s Atlas Map Editor</p>
-
-<p><img src="http://play0ad.com/wp-content/gallery/screenshots/alpha-8-persianheavyinfantry.jpg" alt="Persian Heavy Infantry" />
-<img src="http://play0ad.com/wp-content/gallery/screenshots/scr.png" alt="Atlas Editor" /></p>
-
-<p>Oasis in 0 A.D. Desert and Water Rendering effects.</p>
-
-<p><img src="http://play0ad.com/wp-content/gallery/screenshots/screenshot0343.png" alt="Oasis" />
-<img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/1073220_10151752821764859_690497580_o.jpg" alt="Care for a swim?" /></p>
-
-<p>Building an Empire on Islands and Whales in oceans!</p>
-
-<p><img src="http://play0ad.com/wp-content/gallery/screenshots/screenshot0072.jpg" alt="Island Life" />
-<img src="http://play0ad.com/wp-content/gallery/screenshots/screenshot0060.jpg" alt="Whales" /></p>
-
-<script type="text/javascript">
-    var elem = $("#content img").eq(0).load(function() {
-        var width = $(this).width();
-        var height = $(this).height();
-        var vid3 = document.getElementById("vid3");
-        var vid4 = document.getElementById("vid4");
-        vid3.width = vid4.width = width;
-        vid3.height = vid4.height = height;
-    });
-    $("#content img").eq(4).load(function() {
-        var img2 = $(this);
-        $("#content img").eq(5).load(function() {
-            img2.height($(this).height());
-        });
-    });
-    $("#content img").eq(1).load(function() {
-        var img2 = $(this);
-        $("#content img").eq(0).load(function() {
-            img2.height($(this).height());
-        });
-    });
 </script>
 
 ]]></content>
