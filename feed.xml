@@ -3,10 +3,10 @@
   <channel>
     <title>Sathyam Vellal</title>
     <description>Music, Food and Code - The three dimensions to my world.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 May 2018 03:13:57 +0000</pubDate>
-    <lastBuildDate>Fri, 04 May 2018 03:13:57 +0000</lastBuildDate>
+    <link>https://sathyam.me/</link>
+    <atom:link href="https://sathyam.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 May 2018 03:47:45 +0000</pubDate>
+    <lastBuildDate>Fri, 04 May 2018 03:47:45 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -44,8 +44,8 @@
 &lt;p&gt;Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Cras ultricies ligula sed magna dictum porta.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-        <link>/blog/hello-world</link>
-        <guid isPermaLink="true">/blog/hello-world</guid>
+        <link>https://sathyam.me/blog/hello-world</link>
+        <guid isPermaLink="true">https://sathyam.me/blog/hello-world</guid>
         
         
         <category>blog</category>
@@ -1216,8 +1216,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/10/</link>
-        <guid isPermaLink="true">/music/2017/10/</guid>
+        <link>https://sathyam.me/music/2017/10/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/10/</guid>
         
         
         <category>music</category>
@@ -1852,8 +1852,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/09/</link>
-        <guid isPermaLink="true">/music/2017/09/</guid>
+        <link>https://sathyam.me/music/2017/09/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/09/</guid>
         
         
         <category>music</category>
@@ -3318,8 +3318,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/08/</link>
-        <guid isPermaLink="true">/music/2017/08/</guid>
+        <link>https://sathyam.me/music/2017/08/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/08/</guid>
         
         
         <category>music</category>
@@ -4246,8 +4246,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/07/</link>
-        <guid isPermaLink="true">/music/2017/07/</guid>
+        <link>https://sathyam.me/music/2017/07/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/07/</guid>
         
         
         <category>music</category>
@@ -5218,8 +5218,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/06/</link>
-        <guid isPermaLink="true">/music/2017/06/</guid>
+        <link>https://sathyam.me/music/2017/06/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/06/</guid>
         
         
         <category>music</category>
@@ -6558,8 +6558,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/05/</link>
-        <guid isPermaLink="true">/music/2017/05/</guid>
+        <link>https://sathyam.me/music/2017/05/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/05/</guid>
         
         
         <category>music</category>
@@ -8332,8 +8332,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/04/</link>
-        <guid isPermaLink="true">/music/2017/04/</guid>
+        <link>https://sathyam.me/music/2017/04/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/04/</guid>
         
         
         <category>music</category>
@@ -9464,8 +9464,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Mon, 13 Mar 2017 14:50:00 +0000</pubDate>
-        <link>/music/2017/03/</link>
-        <guid isPermaLink="true">/music/2017/03/</guid>
+        <link>https://sathyam.me/music/2017/03/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/03/</guid>
         
         
         <category>music</category>
@@ -10212,8 +10212,8 @@ function openAppleMusic(url) {
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>/music/2017/02/</link>
-        <guid isPermaLink="true">/music/2017/02/</guid>
+        <link>https://sathyam.me/music/2017/02/</link>
+        <guid isPermaLink="true">https://sathyam.me/music/2017/02/</guid>
         
         
         <category>music</category>

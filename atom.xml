@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Sathyam Vellal]]></title>
-  <link href="/atom.xml" rel="self"/>
-  <link href="/"/>
-  <updated>2018-05-04T03:13:57+00:00</updated>
-  <id>/</id>
+  <link href="https://sathyam.me/atom.xml" rel="self"/>
+  <link href="https://sathyam.me/"/>
+  <updated>2018-05-04T03:47:45+00:00</updated>
+  <id>https://sathyam.me/</id>
   <author>
     <name><![CDATA[]]></name>
     <email><![CDATA[sathyam@vellals.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="/blog/hello-world"/>
+    <link href="https://sathyam.me/blog/hello-world"/>
     <updated>2018-04-01T00:00:00+00:00</updated>
-    <id>/blog/hello-world</id>
+    <id>https://sathyam.me/blog/hello-world</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur aliquet quam id dui posuere blandit.</p>
 
 <script type="math/tex; mode=display">c^2 = \frac{\sqrt{a^2 + b^2}}{2z}</script>
@@ -54,9 +54,9 @@
   
   <entry>
     <title type="html"><![CDATA[Music Archive - October 2017]]></title>
-    <link href="/music/2017/10/"/>
+    <link href="https://sathyam.me/music/2017/10/"/>
     <updated>2017-10-01T00:00:00+00:00</updated>
-    <id>/music/2017/october-2017</id>
+    <id>https://sathyam.me/music/2017/october-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -1220,9 +1220,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - September 2017]]></title>
-    <link href="/music/2017/09/"/>
+    <link href="https://sathyam.me/music/2017/09/"/>
     <updated>2017-09-01T00:00:00+00:00</updated>
-    <id>/music/2017/september-2017</id>
+    <id>https://sathyam.me/music/2017/september-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -1852,9 +1852,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - August 2017]]></title>
-    <link href="/music/2017/08/"/>
+    <link href="https://sathyam.me/music/2017/08/"/>
     <updated>2017-08-01T00:00:00+00:00</updated>
-    <id>/music/2017/august-2017</id>
+    <id>https://sathyam.me/music/2017/august-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -3314,9 +3314,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - July 2017]]></title>
-    <link href="/music/2017/07/"/>
+    <link href="https://sathyam.me/music/2017/07/"/>
     <updated>2017-07-01T00:00:00+00:00</updated>
-    <id>/music/2017/july-2017</id>
+    <id>https://sathyam.me/music/2017/july-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -4238,9 +4238,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - June 2017]]></title>
-    <link href="/music/2017/06/"/>
+    <link href="https://sathyam.me/music/2017/06/"/>
     <updated>2017-06-01T00:00:00+00:00</updated>
-    <id>/music/2017/june-2017</id>
+    <id>https://sathyam.me/music/2017/june-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -5206,9 +5206,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - May 2017]]></title>
-    <link href="/music/2017/05/"/>
+    <link href="https://sathyam.me/music/2017/05/"/>
     <updated>2017-05-01T00:00:00+00:00</updated>
-    <id>/music/2017/may-2017</id>
+    <id>https://sathyam.me/music/2017/may-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -6542,9 +6542,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - April 2017]]></title>
-    <link href="/music/2017/04/"/>
+    <link href="https://sathyam.me/music/2017/04/"/>
     <updated>2017-04-01T00:00:00+00:00</updated>
-    <id>/music/2017/april-2017</id>
+    <id>https://sathyam.me/music/2017/april-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -8312,9 +8312,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - March 2017]]></title>
-    <link href="/music/2017/03/"/>
+    <link href="https://sathyam.me/music/2017/03/"/>
     <updated>2017-03-13T14:50:00+00:00</updated>
-    <id>/music/2017/march-2017</id>
+    <id>https://sathyam.me/music/2017/march-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -9440,9 +9440,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - February 2017]]></title>
-    <link href="/music/2017/02/"/>
+    <link href="https://sathyam.me/music/2017/02/"/>
     <updated>2017-02-01T00:00:00+00:00</updated>
-    <id>/music/2017/february-2017</id>
+    <id>https://sathyam.me/music/2017/february-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -10184,9 +10184,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - January 2017]]></title>
-    <link href="/music/2017/01/"/>
+    <link href="https://sathyam.me/music/2017/01/"/>
     <updated>2017-01-01T00:00:00+00:00</updated>
-    <id>/music/2017/january-2017</id>
+    <id>https://sathyam.me/music/2017/january-2017</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -10972,9 +10972,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - December 2016]]></title>
-    <link href="/music/2016/12/"/>
+    <link href="https://sathyam.me/music/2016/12/"/>
     <updated>2016-12-01T00:00:00+00:00</updated>
-    <id>/music/2016/december-2016</id>
+    <id>https://sathyam.me/music/2016/december-2016</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -11728,9 +11728,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - November 2016]]></title>
-    <link href="/music/2016/11/"/>
+    <link href="https://sathyam.me/music/2016/11/"/>
     <updated>2016-11-01T00:00:00+00:00</updated>
-    <id>/music/2016/november-2016</id>
+    <id>https://sathyam.me/music/2016/november-2016</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -12430,9 +12430,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - October 2016]]></title>
-    <link href="/music/2016/10/"/>
+    <link href="https://sathyam.me/music/2016/10/"/>
     <updated>2016-10-01T00:00:00+00:00</updated>
-    <id>/music/2016/october-2016</id>
+    <id>https://sathyam.me/music/2016/october-2016</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -13292,9 +13292,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Music Archive - September 2016]]></title>
-    <link href="/music/2016/09/"/>
+    <link href="https://sathyam.me/music/2016/09/"/>
     <updated>2016-09-01T00:00:00+00:00</updated>
-    <id>/music/2016/september-2016</id>
+    <id>https://sathyam.me/music/2016/september-2016</id>
     <content type="html"><![CDATA[<script type="text/javascript">
 function openAppleMusic(url) {
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
@@ -14492,9 +14492,9 @@ function openAppleMusic(url) {
   
   <entry>
     <title type="html"><![CDATA[Welcome to PES OpenSource]]></title>
-    <link href="/oldblog/welcome-to-pes-opensource/"/>
+    <link href="https://sathyam.me/oldblog/welcome-to-pes-opensource/"/>
     <updated>2014-08-23T21:08:00+00:00</updated>
-    <id>/oldblog/welcome-to-pes-opensource</id>
+    <id>https://sathyam.me/oldblog/welcome-to-pes-opensource</id>
     <content type="html"><![CDATA[<p>Heya there! This post is mainly targeted to the students of PES Institute of Technology/PES University, Bangalore. If you are not, and are new to the Open Source Movement, you can still find a lot of useful information here. You can also learn the ways of PES Open Source, and join our movement in making educational institutions a place of more knowledge and productivity.</p>
 
 <!-- more -->
@@ -14605,9 +14605,9 @@ All open source projects are version controlled (you can search about this on th
   
   <entry>
     <title type="html"><![CDATA[It's been six months!]]></title>
-    <link href="/oldblog/its-been-6-months/"/>
+    <link href="https://sathyam.me/oldblog/its-been-6-months/"/>
     <updated>2014-05-31T10:03:00+00:00</updated>
-    <id>/oldblog/its-been-6-months</id>
+    <id>https://sathyam.me/oldblog/its-been-6-months</id>
     <content type="html"><![CDATA[<p>Yes. That’s how long it’s been since last I wrote. Not that I wasn’t interested or anything, I had a lot of work! My final year project and my internship at PayPal, eBayInc. It wasn’t easy. Going to work in the morning and coming back to work on the college project. Phew! My college project’s done and its my last week of internship now, ending on June 6th. And the best part - I’m back to working on things I’ve missed since the past 6-7 months!</p>
 
 <!-- more -->
@@ -14629,9 +14629,9 @@ All open source projects are version controlled (you can search about this on th
   
   <entry>
     <title type="html"><![CDATA[Hollywood in 2014 (for me)]]></title>
-    <link href="/oldblog/hollywood-in-2014-for-me/"/>
+    <link href="https://sathyam.me/oldblog/hollywood-in-2014-for-me/"/>
     <updated>2013-12-19T15:51:00+00:00</updated>
-    <id>/oldblog/hollywood-in-2014-for-me</id>
+    <id>https://sathyam.me/oldblog/hollywood-in-2014-for-me</id>
     <content type="html"><![CDATA[<p>2013 is almost closing and its time to take a peak at films of 2014. This list though, is my preference. You can check the <a href="http://en.wikipedia.org/wiki/2014_in_film">entire list in wikipedia</a>. Here, I’ve linked the films to a trailer and a rating of my expectations (arranged by rating and alphabetically).</p>
 
 <!-- more -->
@@ -14675,9 +14675,9 @@ The Judge ★★★<br />
   
   <entry>
     <title type="html"><![CDATA[An introduction to <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>]]></title>
-    <link href="/oldblog/an-introduction-to-latex/"/>
+    <link href="https://sathyam.me/oldblog/an-introduction-to-latex/"/>
     <updated>2013-10-27T14:32:00+00:00</updated>
-    <id>/oldblog/an-introduction-to-latex</id>
+    <id>https://sathyam.me/oldblog/an-introduction-to-latex</id>
     <content type="html"><![CDATA[<p>The write-up of my talk on <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span> for beginners, as a part of <em>Tech Talk Tuesday</em>, an initiative of <a href="http://pesos.pes.edu/fb">PES OpenSource</a>. I structured my talk based on this book - <a href="http://tobi.oetiker.ch/lshort/lshort.pdf">The Not So Short Introduction to <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></a>. So refer this book for all details as I’ve posted the notes I made to deliver my talk.</p>
 
 <!-- more -->
@@ -14843,9 +14843,9 @@ The Judge ★★★<br />
   
   <entry>
     <title type="html"><![CDATA[The Piano Guys]]></title>
-    <link href="/oldblog/the-piano-guys/"/>
+    <link href="https://sathyam.me/oldblog/the-piano-guys/"/>
     <updated>2013-10-15T17:26:00+00:00</updated>
-    <id>/oldblog/the-piano-guys</id>
+    <id>https://sathyam.me/oldblog/the-piano-guys</id>
     <content type="html"><![CDATA[<p>Its a typical day and I’m just looking at <em>Recommended Videos</em> in my YouTube, which are usually songs/music/mixes; that’s what I listen to. So I’m there, listening to UK Piano’s new video and I find a playlist recommended for me. In that playlist is a <a href="http://www.youtube.com/watch?v=ydRAb9cwHnA&amp;list=RD03X6a9odk6b_c">Cello cover of Game of Thrones</a> by <a href="http://www.youtube.com/user/BreakofReaIity">BreakofReality</a>. YouTube then features <a href="http://www.youtube.com/watch?v=5wLfOZiAd8Y">Misty Mountains Orchestral Cover</a> from <a href="http://www.imdb.com/title/tt0903624/">The Hobbit</a> by <a href="http://www.youtube.com/user/sleightlymusical">sleightlymusical</a> in my <em>Recommended for You</em> list. Now it comes! Another video recommended for me from <a href="http://thepianoguys.com/">ThePianoGuys</a>. And WOW!</p>
 
 <!-- more -->
