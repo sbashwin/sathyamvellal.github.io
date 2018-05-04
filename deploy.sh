@@ -1,5 +1,7 @@
 #!/bin/bash
 
+ls
+
 echo "Cloning deploy branch ..."
 git clone -b master "https://${GITHUB_TOKEN}@github.com/sathyamvellal/sathyamvellal.github.io.git" site
 
