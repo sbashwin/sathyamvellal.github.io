@@ -1,13 +1,7 @@
 #!/bin/bash
 
-if [ "${GITHUB_TOKEN}" == "[secure]" ]; then
-  echo " ############ Facepalm ########### "
-else
-  echo " ############ Not same ########### "
-fi
-
 echo "Cloning deploy branch ..."
-git clone -b master "https://${GITHUB_TOKEN}@github.com/sathyamvellal/sathyamvellal.github.io" site
+git clone -b master "https://github.com/sathyamvellal/sathyamvellal.github.io" site
 
 if [ -d "site" ]; then
   bundle exec jeyll build
