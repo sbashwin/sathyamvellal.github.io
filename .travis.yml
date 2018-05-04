@@ -3,3 +3,9 @@ deploy:
   script: bash deploy.sh
   on:
     branch: source
+
+deploy:
+  provider: script
+  script: bash deploy.sh
+  on:
+    branch: travis
