@@ -56,21 +56,25 @@
   </div>
   </br>
   <div class="container wrapper">
-    <div class="post">
-  <div class="post__title">
-    <h1>Cool C Programming</h1>
-  </div>
-  <div class="post__date">
-    <p>September 9, 2013</p>
-  </div>
-  <div class="post__meta">
-    <p></p>
-  </div>
-  <div class="post__content"?>
-    <p>This post contains the writeup of my talk on <strong>Cool C Programming</strong> as part of the <strong>Tech Talk Tuesday</strong> series by <strong><a href="http://pesos.pes.edu">PES OpenSource</a></strong> at PES Institute of Technology.
+    <div class="row justify-content-center">
+  <div class="col-12 col-md-10 col-lg-8">
+    <article>
+    <h5 class="card-title"><a href="/blog/cool-c-programming" class="card-link">Cool C Programming</a></h5>
+
+    <h6 class="card-subtitle mb-2 text-muted">
+      <span class="post-date">
+        <a href="/blog/archives">Sep 09 2013</a>
+
+        
+
+      </span>
+    </h6>
+    <div class="disclaimer center grey text-small">Note: This is a blog post from an older version of this website. Links and styles on this page might not work/render as expected.</div>
+
+<p>This post contains the writeup of my talk on <strong>Cool C Programming</strong> as part of the <strong>Tech Talk Tuesday</strong> series by <strong><a href="http://pesos.pes.edu">PES OpenSource</a></strong> at PES Institute of Technology.<!-- more -->
 (Please ignore any typos in this post; its pretty long and I wrote it in a hurry!)</p>
 
-<h2 id="the-c-preprocessor">The C Preprocessor</h2>
+<h6 id="the-c-preprocessor">The C Preprocessor</h6>
 
 <p>In the C Program build process, there are three main phases.</p>
 
@@ -80,9 +84,9 @@
   <li>Linking</li>
 </ul>
 
-<p>The C Preprocessor is dumb! It does not know anything about a C program. It is mainly used to manage the program’s text according to our needs before the compiler begins its task. Managing involves including of header files, conditional inclusion of pieces of code, expanding macros, etc.<br />
-<!-- more -->
-If you want to see the output of the preprocessor, you can use the <code class="highlighter-rouge">-E</code> flag for the compiler; ie compile the program as <code class="highlighter-rouge">gcc -E file.c</code>. This dumps the preprocessed output of file.c onto your terminal.</p>
+<p>The C Preprocessor is dumb! It does not know anything about a C program. It is mainly used to manage the program’s text according to our needs before the compiler begins its task. Managing involves including of header files, conditional inclusion of pieces of code, expanding macros, etc.</p>
+
+<p>If you want to see the output of the preprocessor, you can use the <code class="highlighter-rouge">-E</code> flag for the compiler; ie compile the program as <code class="highlighter-rouge">gcc -E file.c</code>. This dumps the preprocessed output of file.c onto your terminal.</p>
 
 <p>There are three standard input/output buffers</p>
 
@@ -92,7 +96,7 @@ If you want to see the output of the preprocessor, you can use the <code class="
   <li><code class="highlighter-rouge">stderr</code> The output buffer for error/log messages</li>
 </ul>
 
-<h3 id="conditional-syntax---ifdef-and-ifndef">Conditional Syntax - <code class="highlighter-rouge">#ifdef</code> and <code class="highlighter-rouge">#ifndef</code></h3>
+<h5 id="conditional-syntax---ifdef-and-ifndef">Conditional Syntax - <code class="highlighter-rouge">#ifdef</code> and <code class="highlighter-rouge">#ifndef</code></h5>
 
 <p>The preprocessor directive <code class="highlighter-rouge">#ifdef</code> is used to define conditional groups of code at the preprocessor level. Based on a condition, a piece of code may or may not be included in the program. The body of this directive is usually termed <em>controlled text</em></p>
 
@@ -104,7 +108,7 @@ If you want to see the output of the preprocessor, you can use the <code class="
 
 <p>In the above example, the body of <code class="highlighter-rouge">#ifdef</code> is included only if <code class="highlighter-rouge">SOME_MACRO</code> is defined. The <code class="highlighter-rouge">#define</code> directive is used to define MACROs.</p>
 
-<h4 id="example">Example</h4>
+<h6 id="example">Example</h6>
 
 <p>Here’s a sample program.</p>
 
@@ -186,7 +190,7 @@ If you want to see the output of the preprocessor, you can use the <code class="
 </div>
 <h6 id="fig14">Fig(1.4)</h6>
 
-<p>You can observe that when the macro is defined, the controlled text is included. Note again, that the preprocessor does not know that the controlled text is a function or any of the C constructs. All it sees is some text.<br />
+<p>You can observe that when the macro is defined, the controlled text is included. Note again, that the preprocessor does not know that the controlled text is a function or any of the C constructs. All it sees is some text.
 You can also define MACROs when invoking the compiler with the <code class="highlighter-rouge">-D</code> option. Compiling the code in Fig(1.1) as <code class="highlighter-rouge">gcc -E -DSOME_MACRO 1.c</code> gives me the same output as Fig(1.4).</p>
 
 <p>MACROs also can be object-like MACROs and function-like MACROs.</p>
@@ -227,11 +231,11 @@ You can also define MACROs when invoking the compiler with the <code class="high
 
 <p><code class="highlighter-rouge">BAR</code> is an object-like MACRO which the preprocessor substitutes as 5, according to its definition. Therefore, the MACRO call <code class="highlighter-rouge">FOO(BAR)</code> is now <code class="highlighter-rouge">FOO(5)</code>. It then expands the function-like MACRO <code class="highlighter-rouge">FOO</code> with its parameter as 5. You therefore see <code class="highlighter-rouge">printf("%d", 5);</code>. Note that the <code class="highlighter-rouge">printf</code> of <code class="highlighter-rouge">FOO</code> does not end with a semicolon. But the MACRO is used with a semicolon <code class="highlighter-rouge">FOO(...);</code>. This ensures that printf ends with a semicolon. Why this approach? Its a standard convention to end every statement of a C program with a semicolon and it would be very odd to have some line not ending with it.</p>
 
-<h3 id="and-now-for-a-few-tricks">And now for a few tricks</h3>
+<h5 id="and-now-for-a-few-tricks">And now for a few tricks</h5>
 
-<h4 id="creating-debug-macros">Creating debug MACROs</h4>
+<h6 id="creating-debug-macros">Creating debug MACROs</h6>
 
-<p>Lot of programmers are used to debug by logging the program’s execution. This can be as simple as using <code class="highlighter-rouge">printf</code> all over the code to print messages (on the <code class="highlighter-rouge">stderr</code> buffer) and use this information to debug. Further more, you may want to write pieces of code to mainly check the correctness of the program (only while you’re developing it). When its time for you to release your code, you’ll have to remove all the logging statements, blocks of code which was used to check correctness, etc. This brings in a lot of work the developer. Additionally, if at some later point of time, the user had to improve his code, he might want to insert all such blocks again (its literally a headache!).<br />
+<p>Lot of programmers are used to debug by logging the program’s execution. This can be as simple as using <code class="highlighter-rouge">printf</code> all over the code to print messages (on the <code class="highlighter-rouge">stderr</code> buffer) and use this information to debug. Further more, you may want to write pieces of code to mainly check the correctness of the program (only while you’re developing it). When its time for you to release your code, you’ll have to remove all the logging statements, blocks of code which was used to check correctness, etc. This brings in a lot of work the developer. Additionally, if at some later point of time, the user had to improve his code, he might want to insert all such blocks again (its literally a headache!).
 Now, the preprocessor turns out to be very helpful!</p>
 
 <p>The following program demonstrates three features widely used in C Programs. We’ll go through each one by one</p>
@@ -290,7 +294,7 @@ Aborted (core dumped)
 
 <p>Wow! That’s magic! The program did not even try to perform the division because the assertion <code class="highlighter-rouge">(4 - 4) != 0</code> failed and also printed a lot of debugging messages!</p>
 
-<p>Let us now analyze what happened.<br />
+<p>Let us now analyze what happened.
 In Fig(1.9), the program was compiled with the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO defined which included the following controlled text in the program.</p>
 
 <div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define CHECK(X, Y) \
@@ -310,11 +314,11 @@ do { printf("Performing Assertion\n"); assert((X - Y) != 0); printf("Assertion p
 
 <p>This defines a function-like MACRO <code class="highlighter-rouge">CHECK(X, Y)</code> to nothing! So the function-like MACRO expands to nothing! ie the assertion is not in the code any more and so the program prints “7” and gets a floating point exception when trying a division with zero.</p>
 
-<p>So what just happened? In Fig(1.9) the program was executed in a debugging mode; the debugging mode in the above example was enabled by defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO; and in this debugging mode, the assertion statement was included in the code and the program aborted stating where it failed and why. The debugging mode also included some debugging messages which I printed so that I’d know what went wrong and where.<br />
-When the debugging mode wasn’t enabled (by not defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO), the assertion wasn’t included in the code by the preprocessor as <code class="highlighter-rouge">CHECK(X, Y)</code> expands to nothing. Now the program crashes.<br />
+<p>So what just happened? In Fig(1.9) the program was executed in a debugging mode; the debugging mode in the above example was enabled by defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO; and in this debugging mode, the assertion statement was included in the code and the program aborted stating where it failed and why. The debugging mode also included some debugging messages which I printed so that I’d know what went wrong and where.
+When the debugging mode wasn’t enabled (by not defining the <code class="highlighter-rouge">CHECK_ENABLED</code> MACRO), the assertion wasn’t included in the code by the preprocessor as <code class="highlighter-rouge">CHECK(X, Y)</code> expands to nothing. Now the program crashes.
 Look at the error that comes up - <code class="highlighter-rouge">Floating point exception (core dumped)</code>. You cannot make out what happened where! The runtime threw an error message and exited the program. Whereas when the debugging is enabled, the assertion gives a better error message - <code class="highlighter-rouge">a.out: 1_preprocessor.c:13: foo: Assertion </code>(x - y) != 0’ failed.<code class="highlighter-rouge">. It failed in line 13. That's where the function-like MACRO </code>CHECK(x, y)` expands.</p>
 
-<p><strong>Feature/Trick #1</strong> : In short, you can now run your program in debug mode and release mode by just defining / not-defining a debug MACRO. Normally this debug MACRO is <code class="highlighter-rouge">DEBUG</code>. I’ve used <code class="highlighter-rouge">CHECK_ENABLED</code> in the example to include some checks. You must also understand now that in the release mode, we only concentrate on execution of the program and not error checking because they can make the program slower. Imagine calling the <code class="highlighter-rouge">foo(4, 3)</code> a million times in the debug mode. The assert function is called a million times but your intention is to check the correctness of the code and not the execution speed. In the release mode, the assertion is not even there and so your program executes much faster and is assumed to be correct.<br />
+<p><strong>Feature/Trick #1</strong> : In short, you can now run your program in debug mode and release mode by just defining / not-defining a debug MACRO. Normally this debug MACRO is <code class="highlighter-rouge">DEBUG</code>. I’ve used <code class="highlighter-rouge">CHECK_ENABLED</code> in the example to include some checks. You must also understand now that in the release mode, we only concentrate on execution of the program and not error checking because they can make the program slower. Imagine calling the <code class="highlighter-rouge">foo(4, 3)</code> a million times in the debug mode. The assert function is called a million times but your intention is to check the correctness of the code and not the execution speed. In the release mode, the assertion is not even there and so your program executes much faster and is assumed to be correct.
 Nice trick huh? Such an amazing work around to solve such an important problem and that too with just using the C Preprocessor!</p>
 
 <p>I mentioned long back that there are three features the above program [Fig(1.7)] tries to show. The first was the debug/release switch which we have covered in detail. The second is this very odd statement -</p>
@@ -325,7 +329,7 @@ Nice trick huh? Such an amazing work around to solve such an important problem a
 </div>
 <h6 id="fig112">Fig(1.12)</h6>
 
-<p><strong>Feature/Trick #2</strong> : Why the <code class="highlighter-rouge">do { ... } while(0)</code> ??! Why can’t I just write a set of statements? Maybe because I wanted to group them. Then why couldn’t I just use <code class="highlighter-rouge"><span class="p">{</span><span class="w"> </span><span class="err">...</span><span class="w"> </span><span class="p">}</span></code> instead of the do while zero?<br />
+<p><strong>Feature/Trick #2</strong> : Why the <code class="highlighter-rouge">do { ... } while(0)</code> ??! Why can’t I just write a set of statements? Maybe because I wanted to group them. Then why couldn’t I just use <code class="highlighter-rouge"><span class="p">{</span><span class="w"> </span><span class="err">...</span><span class="w"> </span><span class="p">}</span></code> instead of the do while zero?
 Consider this situation</p>
 
 <div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cp">#define FOO(X, Y) printf("%s\n", X); printf("%s\n", Y)
@@ -340,7 +344,7 @@ Consider this situation</p>
 </div>
 <h6 id="fig113">Fig(1.13)</h6>
 
-<p>Remember that its a standard convention not to end the code within a function-like MACRO with a semicolon (because the MACRO is used with a semicolon at the end)? So the second <code class="highlighter-rouge">printf</code> doesn’t end with a semicolon, its taken care of later.<br />
+<p>Remember that its a standard convention not to end the code within a function-like MACRO with a semicolon (because the MACRO is used with a semicolon at the end)? So the second <code class="highlighter-rouge">printf</code> doesn’t end with a semicolon, its taken care of later.
 An if condition is associated only with the statement/block following it. After the function-like MACRO <code class="highlighter-rouge">FOO(X, Y)</code> expands, we have something like the following -</p>
 
 <div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="k">if</span> <span class="p">(</span><span class="cm">/*some condition*/</span><span class="p">)</span>
@@ -461,7 +465,7 @@ An if condition is associated only with the statement/block following it. After 
 <p>The above snippet includes the old version of the function <code class="highlighter-rouge">foo()</code> if <code class="highlighter-rouge">USE_OLD_FOO</code> is defined, else by default the new version would be used. One may need to use old versions of codes for legacy support (say). But when using the old version, the developer would like to warn the user about it. In such cases, you can use the <code class="highlighter-rouge">#warning</code> directive. The <code class="highlighter-rouge">#errror</code> is similar, but throws an error</p>
 
 <hr />
-<h2 id="swapping-two-variables">Swapping two variables</h2>
+<h6 id="swapping-two-variables">Swapping two variables</h6>
 
 <p><strong>Feature/Trick 6</strong> : This is more a programming trick than a trick in C. To swap two variables without using additional space or arithmetic operators, you can simply use the xor operator; like so -</p>
 
@@ -473,9 +477,9 @@ An if condition is associated only with the statement/block following it. After 
 <h6 id="fig21">Fig(2.1)</h6>
 
 <hr />
-<h2 id="pointers-in-c">Pointers in C</h2>
+<h6 id="pointers-in-c">Pointers in C</h6>
 
-<h3 id="arrays-and-pointers-not-entirely-the-same">Arrays and Pointers not entirely the same!</h3>
+<h5 id="arrays-and-pointers-not-entirely-the-same">Arrays and Pointers not entirely the same!</h5>
 
 <p><strong>Feature/Trick 7</strong> : One of the heavily misunderstood concepts of C is that pointers and arrays are the same. They are not. Pointers are merely variables holding the address of some location where as an array is conceptualized as a sequence of memory locations of a type. At compile time, an array is an array. Only during runtime, an array degenerates to a pointer. To prove this fact, let me show you an example -</p>
 
@@ -497,12 +501,12 @@ An if condition is associated only with the statement/block following it. After 
 
 <p>See what happens? At compile time, the compiler has information regarding the array. It drops all the information in the end and so at runtime, an array acts like a constant pointer.</p>
 
-<h3 id="vindex-and-indexv-are-the-same"><code class="highlighter-rouge">v[index] and index[v]</code> are the same</h3>
+<h5 id="vindex-and-indexv-are-the-same"><code class="highlighter-rouge">v[index] and index[v]</code> are the same</h5>
 
 <p><strong>Feature/Trick 8</strong> : Yes arrays and pointers are not the same, but are interpreted in the same way; by dereferencing them to get the value. The indexing operation <code class="highlighter-rouge">v[index]</code> where <code class="highlighter-rouge">v</code> is some array and <code class="highlighter-rouge">index</code> is some index is internally converted to <code class="highlighter-rouge">*(v + index)</code>. The funny thing now is that if you use this as <code class="highlighter-rouge">index[v]</code>, its converted to <code class="highlighter-rouge">*(index + v)</code> and both mean the same!</p>
 
 <hr />
-<h2 id="standard-io">Standard I/O</h2>
+<h6 id="standard-io">Standard I/O</h6>
 
 <p><strong>Feature/Trick 9</strong> :You are no doubt familiar with <code class="highlighter-rouge">scanf</code> and <code class="highlighter-rouge">printf</code> functions. You also be familiar with <code class="highlighter-rouge">fscanf</code> and <code class="highlighter-rouge">fprintf</code> if you have worked on file handling.
 For example -</p>
@@ -518,8 +522,8 @@ For example -</p>
 </div>
 <h6 id="fig41">Fig(4.1)</h6>
 
-<p>The above snippet demonstrates reading from a file using <code class="highlighter-rouge">fscanf</code>.<br />
-How about this? You have a string containing two integers and you’d like to read from that. Its not a file name, its a character array. C provides reading and writing to character arrays (or C strings) with the use of <code class="highlighter-rouge">sscanf</code> and <code class="highlighter-rouge">sprintf</code>.<br />
+<p>The above snippet demonstrates reading from a file using <code class="highlighter-rouge">fscanf</code>.
+How about this? You have a string containing two integers and you’d like to read from that. Its not a file name, its a character array. C provides reading and writing to character arrays (or C strings) with the use of <code class="highlighter-rouge">sscanf</code> and <code class="highlighter-rouge">sprintf</code>.
 Let me demonstrate this -</p>
 
 <div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="kt">char</span> <span class="n">str</span><span class="p">[</span><span class="mi">20</span><span class="p">]</span> <span class="o">=</span> <span class="s">"10 20"</span><span class="p">;</span>
@@ -549,7 +553,7 @@ Let me demonstrate this -</p>
 <p>You can also use the new <code class="highlighter-rouge">gets_s</code> function; but <code class="highlighter-rouge">fgets</code> is pretty much the standard convention.</p>
 
 <hr />
-<h2 id="c99-c11-and-misc">C99, C11 and misc</h2>
+<h6 id="c99-c11-and-misc">C99, C11 and misc</h6>
 
 <p>You’ve been using the old fashioned way of initializing C structures right? Like so -</p>
 
@@ -667,6 +671,10 @@ Let me demonstrate this -</p>
 
 <p>That’s it folks! Hope you enjoyed reading this!</p>
 
+
+    
+
+    </article>
   </div>
 </div>
 
