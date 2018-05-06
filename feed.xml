@@ -5,12 +5,12 @@
     <description>Music, Food and Code - The three dimensions to my world.</description>
     <link>https://sathyam.me/</link>
     <atom:link href="https://sathyam.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 May 2018 06:21:01 +0000</pubDate>
-    <lastBuildDate>Fri, 04 May 2018 06:21:01 +0000</lastBuildDate>
+    <pubDate>Sun, 06 May 2018 05:35:55 +0000</pubDate>
+    <lastBuildDate>Sun, 06 May 2018 05:35:55 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Hello World</title>
+        <title>Ode to LA</title>
         <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur aliquet quam id dui posuere blandit.&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;c^2 = \frac{\sqrt{a^2 + b^2}}{2z}&lt;/script&gt;
@@ -43,14 +43,22 @@
 
 &lt;p&gt;Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Cras ultricies ligula sed magna dictum porta.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
         <link>https://sathyam.me/blog/hello-world</link>
         <guid isPermaLink="true">https://sathyam.me/blog/hello-world</guid>
+        
+        <category>Los Angeles</category>
+        
+        <category>Goodbye</category>
+        
+        <category>USC</category>
+        
+        <category>Coming Out</category>
         
         
         <category>blog</category>
         
-        <category>Hello</category>
+        <category>General</category>
         
       </item>
     
